@@ -1,3 +1,8 @@
+## Peixian Zhuang
+Lecturer, Master Supervisor, Nanjing University of Information Science and Technology, IEEE and CCF Member. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the Best PhD. Thesis Award in Fujian Province in 2017. My research interests focus on Bayesian machine learning, sparse image representation and deep learning, including image restoration, image naturalization, medical image reconstruction, remote sensing fusion, and underwater image enhancement, and so on.
+
+### Google Citations：147+ (current).
+### Website: http://www.escience.cn/people/zhuangpeixian/index.html
 
 ### Last News
 
@@ -77,7 +82,6 @@
  Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization (Associate Editor)
  
  ### Conference Committee
-
  2019 & 2020 IEEE International Conference on Signal and Image Processing (2019 Session Chair, 2019 & 2020 TPC member)          
  2020 & 2021 International Conference on Image and Graphics Processing  (TPC member)
  2020 IEEE International Conference on Signal and Image Processing (TPC member)
