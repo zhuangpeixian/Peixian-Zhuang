@@ -1,4 +1,4 @@
-## Latest News
+### Latest News
 ```markdown
 Recent News: I will be honor to join the BBNC lab (http://media.au.tsinghua.edu.cn/) as a Postdoctoral Fellow (博士后), advised by Prof. Qionghai Dai (戴琼海院士)！
 
