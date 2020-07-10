@@ -1,8 +1,8 @@
 ## Peixian Zhuang
 Lecturer, Master Supervisor, Nanjing University of Information Science and Technology, IEEE and CCF Member. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the Best PhD. Thesis Award in Fujian Province in 2017. My research interests focus on Bayesian machine learning, sparse image representation and deep learning, including image restoration, image naturalization, medical image reconstruction, remote sensing fusion, and underwater image enhancement, and so on.
 
-### Google Citations：147+ (current).
-### Website: http://www.escience.cn/people/zhuangpeixian/index.html
+### Google Citations：147+.
+Website: http://www.escience.cn/people/zhuangpeixian/index.html
 
 ### Last News
 
@@ -45,7 +45,6 @@ Lecturer, Master Supervisor, Nanjing University of Information Science and Techn
 
 18. I win the National Natural Science Foundation of China under Grant (国家自然科学基金青年项目, No. 61701245, 2018.01-2020.12)！
 
-
 ### Publication List
 1.	Kai Zhou, **Peixian Zhuang*(co-first author)**, Jiaying Xiong, Jin Zhao, Muyao Du. Blind Image Deblurring with Joint Extreme Channels and L0-Regularized Intensity and Gradient Priors. IEEE International Conference on Image Processing (IEEE ICIP), Accepted, 2020. (EI, CCF推荐, 信号处理旗舰会议)
 2.	Jiaying Xiong, **Peixian Zhuang*(co-first author)**, Yanan Zhang. An Efficient Underwater Image Enhancement Model with Extensive Beer-Lambert Law. IEEE International Conference on Image Processing (IEEE ICIP), Accepted, 2020. (EI, CCF推荐, 信号处理旗舰会议) 
@@ -75,17 +74,11 @@ Lecturer, Master Supervisor, Nanjing University of Information Science and Techn
 26.	**Peixian Zhuang**, Shengkui Dai*. Improved Geese Swarm Optimization Algorithm Based on Gaussian Weighted Sum. Computer Science, vol. 40, no. Z6, pp. 87-89, 2013.
 
 ### Academic Activities 
-**Reviewers**: IEEE Transactions on Circuits and Systems for Video Technology, Engineering Applications of Artificial Intelligence, Signal Processing, Knowledge-Based Systems, Pattern Recognition, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, EURASIP Journal on Wireless Communications and Networking, Journal of Computational Methods in Sciences and Engineering, 2020 International Conference on Image and Graphics Processing  (TC member), 2019 and 2020 IEEE International Conference on Multimedia and Expo (ICME), 2019 and 2020 IEEE International Conference on Signal and Image Processing (ICSIP)（2019 Session Chair and TC member, 2020 TC member), 2020 International Conference on Vision, Image and Signal Processing (TC member), 2020 International Conference on Biological Information and Biomedical Engineering, 2020 International Conference on Fuzzy Systems and Data Mining, 2020 International Conference on Machine Learning and Intelligent Systems, 2019 IEEE International Symposium on Parallel and Distributed Processing with Applications, 2019 International Conference on Computer Science and Application Engineering (CSAE), 2018 IEEE International Conference on Wireless Communications and Signal Processing (IEEE WCSP), 2018 and 2020 International Conference on Artificial Intelligence and Security (ICAIS), and so on. 
+**Reviewers**: IEEE Transactions on Circuits and Systems for Video Technology, Engineering Applications of Artificial Intelligence, Signal Processing, Knowledge-Based Systems, Pattern Recognition, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, EURASIP Journal on Wireless Communications and Networking, Journal of Computational Methods in Sciences and Engineering, 2020 International Conference on Image and Graphics Processing, 2019 and 2020 IEEE International Conference on Multimedia and Expo (ICME), 2019 and 2020 IEEE International Conference on Signal and Image Processing (ICSIP), 2020 International Conference on Vision, Image and Signal Processing, 2020 International Conference on Biological Information and Biomedical Engineering, 2020 International Conference on Fuzzy Systems and Data Mining, 2020 International Conference on Machine Learning and Intelligent Systems, 2019 IEEE International Symposium on Parallel and Distributed Processing with Applications, 2019 International Conference on Computer Science and Application Engineering (CSAE), 2018 IEEE International Conference on Wireless Communications and Signal Processing (IEEE WCSP), 2018 and 2020 International Conference on Artificial Intelligence and Security (ICAIS), and so on. 
 
- ### Journal Editor
- Journal of Electronics and Advanced Electrical Engineering (Editor)
- Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization (Associate Editor)
+### Journal Editor
+Journal of Electronics and Advanced Electrical Engineering (Editor)
+Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization (Associate Editor)
  
- ### Conference Committee
- 2019 & 2020 IEEE International Conference on Signal and Image Processing (2019 Session Chair, 2019 & 2020 TPC member)          
- 2020 & 2021 International Conference on Image and Graphics Processing  (TPC member)
- 2020 IEEE International Conference on Signal and Image Processing (TPC member)
- 2020 International Conference on Vision, Image and Signal Processing (TPC member)
- 2020 International Conference on Medical Science and Biomedical Engineering (TPC member)
- 2020 International Conference on Computer Science and Electronics& Electrical Engineering (TPC member)
- 2020 International Conference on Modern Management based on Big Data (TPC member)
+### Conference Committee
+2019 & 2020 IEEE International Conference on Signal and Image Processing (2019 Session Chair, 2019 & 2020 TPC member)，2020 & 2021 International Conference on Image and Graphics Processing  (TPC member)，2020 IEEE International Conference on Signal and Image Processing (TPC member)，2020 International Conference on Vision, Image and Signal Processing (TPC member)，2020 International Conference on Medical Science and Biomedical Engineering (TPC member)，2020 International Conference on Computer Science and Electronics& Electrical Engineering (TPC member)，2020 International Conference on Modern Management based on Big Data (TPC member)
