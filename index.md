@@ -67,6 +67,9 @@ Lastest News: I will be honor to join the BBNC lab (http://media.au.tsinghua.edu
 25.	Shengkui Dai*, Peixian Zhuang, Wenjie Xiang. GSO: An improved PSO based on geese flight theory. International Conference in Swarm Intelligence (ICSI), pp. 87-95, 2013. 
 26.	Peixian Zhuang, Shengkui Dai*. Improved Geese Swarm Optimization Algorithm Based on Gaussian Weighted Sum. Computer Science, vol. 40, no. Z6, pp. 87-89, 2013.
 
+### Academic Activities 
+**Reviewers**: IEEE Transactions on Circuits and Systems for Video Technology, Engineering Applications of Artificial Intelligence, Signal Processing, Knowledge-Based Systems, Pattern Recognition, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, EURASIP Journal on Wireless Communications and Networking, Journal of Computational Methods in Sciences and Engineering, 2020 International Conference on Image and Graphics Processing  (TC member), 2019 and 2020 IEEE International Conference on Multimedia and Expo (ICME), 2019 and 2020 IEEE International Conference on Signal and Image Processing (ICSIP)（2019 Session Chair and TC member, 2020 TC member), 2020 International Conference on Vision, Image and Signal Processing (TC member), 2020 International Conference on Biological Information and Biomedical Engineering, 2020 International Conference on Fuzzy Systems and Data Mining, 2020 International Conference on Machine Learning and Intelligent Systems, 2019 IEEE International Symposium on Parallel and Distributed Processing with Applications, 2019 International Conference on Computer Science and Application Engineering (CSAE), 2018 IEEE International Conference on Wireless Communications and Signal Processing (IEEE WCSP), 2018 and 2020 International Conference on Artificial Intelligence and Security (ICAIS), and so on. 
+
 
 ### Markdown
 
