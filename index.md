@@ -1,5 +1,6 @@
 ### Last News
-`**Lastest News: I will be honor to join the BBNC lab (http://media.au.tsinghua.edu.cn/) as a Postdoctoral Fellow (博士后), advised by Prof. Qionghai Dai (戴琼海院士)！**`
+
+**Lastest News: I will be honor to join the BBNC lab (http://media.au.tsinghua.edu.cn/) as a Postdoctoral Fellow (博士后), advised by Prof. Qionghai Dai (戴琼海院士)！**
 
 0. Recent News: I am honor to be an Editor Board Member for Journal of Electronics and Advanced Electrical Engineering, and an Associate Editor for Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization! Hope you will contribute your manuscript on these journals!
 
