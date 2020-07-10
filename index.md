@@ -1,4 +1,5 @@
 ## Latest News
+```markdown
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 Recent News: I will be honor to join the BBNC lab (http://media.au.tsinghua.edu.cn/) as a Postdoctoral Fellow (博士后), advised by Prof. Qionghai Dai (戴琼海院士)！
 
@@ -40,7 +41,7 @@ Recent News: I will be honor to join the BBNC lab (http://media.au.tsinghua.edu.
 
 18. I win the National Natural Science Foundation of China under Grant (国家自然科学基金青年项目, No. 61701245, 2018.01-2020.12)！
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-
+```
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
