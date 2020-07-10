@@ -1,5 +1,5 @@
 ### Last News
-Lastest News: I will be honor to join the BBNC lab (http://media.au.tsinghua.edu.cn/) as a Postdoctoral Fellow (博士后), advised by Prof. Qionghai Dai (戴琼海院士)！
+**Lastest News: I will be honor to join the BBNC lab (http://media.au.tsinghua.edu.cn/) as a Postdoctoral Fellow (博士后), advised by Prof. Qionghai Dai (戴琼海院士)！**
 
 0. Recent News: I am honor to be an Editor Board Member for Journal of Electronics and Advanced Electrical Engineering, and an Associate Editor for Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization! Hope you will contribute your manuscript on these journals!
 
@@ -40,9 +40,9 @@ Lastest News: I will be honor to join the BBNC lab (http://media.au.tsinghua.edu
 
 
 ### Publication List
-1.	Kai Zhou, Peixian Zhuang*(co-first author), Jiaying Xiong, Jin Zhao, Muyao Du. Blind Image Deblurring with Joint Extreme Channels and L0-Regularized Intensity and Gradient Priors. IEEE International Conference on Image Processing (IEEE ICIP), Accepted, 2020. (EI, CCF推荐, 信号处理旗舰会议)
-2.	Jiaying Xiong, Peixian Zhuang*(co-first author), Yanan Zhang. An Efficient Underwater Image Enhancement Model with Extensive Beer-Lambert Law. IEEE International Conference on Image Processing (IEEE ICIP), Accepted, 2020. (EI, CCF推荐, 信号处理旗舰会议) 
-3.	Haopeng Guo, Peixian Zhuang*(co-first author), Yecai Guo. Bayesian Pan-sharpening with Multi-order Gradient-based Deep Network Constraints. Accepted, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2020. (SCI, JCR2, IF: 3.392)
+1.	Kai Zhou, **Peixian Zhuang*(co-first author)**, Jiaying Xiong, Jin Zhao, Muyao Du. Blind Image Deblurring with Joint Extreme Channels and L0-Regularized Intensity and Gradient Priors. IEEE International Conference on Image Processing (IEEE ICIP), Accepted, 2020. (EI, CCF推荐, 信号处理旗舰会议)
+2.	Jiaying Xiong, **Peixian Zhuang*(co-first author)**, Yanan Zhang. An Efficient Underwater Image Enhancement Model with Extensive Beer-Lambert Law. IEEE International Conference on Image Processing (IEEE ICIP), Accepted, 2020. (EI, CCF推荐, 信号处理旗舰会议) 
+3.	Haopeng Guo, **Peixian Zhuang*(co-first author)**, Yecai Guo. Bayesian Pan-sharpening with Multi-order Gradient-based Deep Network Constraints. Accepted, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2020. (SCI, JCR2, IF: 3.392)
 4.	Peixian Zhuang*, Xinghao Ding. Divide-and-Conquer Framework for Image Restoration and Enhancement. Engineering Applications of Artificial Intelligence, vol. 85, pp. 830-844, 2019. (SCI, JCR2, CCF推荐, IF: 3.526)
 5.	Peixian Zhuang*, Xiaowen Zhu, and Xinghao Ding.  MRI Reconstruction with an Edge-Preserving Filtering Prior. Signal Processing, vol. 155, pp. 346-357, 2019. (SCI, JCR1, CCF推荐, IF: 3.470) 
 6.	Peixian Zhuang*, Qingshan Liu, and Xinghao Ding. Pan-GGF: A Probabilistic Method for Pan-Sharpening With Gradient Domain Guided Image Filtering. Signal Processing, vol. 156, pp. 177-190, 2019. (SCI, JCR1, CCF推荐, IF: 3.470) 
@@ -67,21 +67,12 @@ Lastest News: I will be honor to join the BBNC lab (http://media.au.tsinghua.edu
 25.	Shengkui Dai*, Peixian Zhuang, Wenjie Xiang. GSO: An improved PSO based on geese flight theory. International Conference in Swarm Intelligence (ICSI), pp. 87-95, 2013. 
 26.	Peixian Zhuang, Shengkui Dai*. Improved Geese Swarm Optimization Algorithm Based on Gaussian Weighted Sum. Computer Science, vol. 40, no. Z6, pp. 87-89, 2013.
 
+```markdown
 ### Academic Activities 
 **Reviewers**: IEEE Transactions on Circuits and Systems for Video Technology, Engineering Applications of Artificial Intelligence, Signal Processing, Knowledge-Based Systems, Pattern Recognition, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, EURASIP Journal on Wireless Communications and Networking, Journal of Computational Methods in Sciences and Engineering, 2020 International Conference on Image and Graphics Processing  (TC member), 2019 and 2020 IEEE International Conference on Multimedia and Expo (ICME), 2019 and 2020 IEEE International Conference on Signal and Image Processing (ICSIP)（2019 Session Chair and TC member, 2020 TC member), 2020 International Conference on Vision, Image and Signal Processing (TC member), 2020 International Conference on Biological Information and Biomedical Engineering, 2020 International Conference on Fuzzy Systems and Data Mining, 2020 International Conference on Machine Learning and Intelligent Systems, 2019 IEEE International Symposium on Parallel and Distributed Processing with Applications, 2019 International Conference on Computer Science and Application Engineering (CSAE), 2018 IEEE International Conference on Wireless Communications and Signal Processing (IEEE WCSP), 2018 and 2020 International Conference on Artificial Intelligence and Security (ICAIS), and so on. 
-
+```
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
 - Bulleted
 - List
 
@@ -91,7 +82,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
