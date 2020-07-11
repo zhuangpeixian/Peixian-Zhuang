@@ -66,7 +66,7 @@ Lastest News: I will be honor to join the BBNC lab (http://media.au.tsinghua.edu
 7. 国家自然科学基金面上项目（61172179）, 基于非参数层次贝叶斯模型的自适应字典稀疏表示方法及应用, 2012 – 2015, 参与, 结题
 
 ### Chinese Patent:
-庄培显;郭彭浩;戴于翔;熊佳颖. 一种台风云图增强方法与流程. 发明专利, 授理中（授权公告日：2019.08.27）
+庄培显; 郭彭浩; 戴于翔; 熊佳颖. 一种台风云图增强方法与流程. 发明专利, 授理中（授权公告日：2019.08.27）
 
 ### Academic Activities 
 **Reviewers**: IEEE Transactions on Circuits and Systems for Video Technology, Engineering Applications of Artificial Intelligence, Signal Processing, Knowledge-Based Systems, Pattern Recognition, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, EURASIP Journal on Wireless Communications and Networking, Journal of Computational Methods in Sciences and Engineering, 2020 International Conference on Image and Graphics Processing, 2019 and 2020 IEEE International Conference on Multimedia and Expo (ICME), 2019 and 2020 IEEE International Conference on Signal and Image Processing (ICSIP), 2020 International Conference on Vision, Image and Signal Processing, 2020 International Conference on Biological Information and Biomedical Engineering, 2020 International Conference on Fuzzy Systems and Data Mining, 2020 International Conference on Machine Learning and Intelligent Systems, 2019 IEEE International Symposium on Parallel and Distributed Processing with Applications, 2019 International Conference on Computer Science and Application Engineering (CSAE), 2018 IEEE International Conference on Wireless Communications and Signal Processing (IEEE WCSP), 2018 and 2020 International Conference on Artificial Intelligence and Security (ICAIS), and so on. 
@@ -77,5 +77,5 @@ Journal of Electronics and Advanced Electrical Engineering (Editor), Computer Me
 ### Conference Committee
 2019 & 2020 IEEE International Conference on Signal and Image Processing (2019 Session Chair, 2019 & 2020 TPC member), 2020 & 2021 International Conference on Image and Graphics Processing  (TPC member), 2020 IEEE International Conference on Signal and Image Processing (TPC member), 2020 International Conference on Vision, Image and Signal Processing (TPC member), 2020 International Conference on Medical Science and Biomedical Engineering (TPC member), 2020 International Conference on Computer Science and Electronics& Electrical Engineering (TPC member), 2020 International Conference on Modern Management based on Big Data (TPC member).
 
-### Contact Way
-Email: **zhuangpeixian0624@163.com**
+### Contact Email
+**zhuangpeixian0624@163.com**
