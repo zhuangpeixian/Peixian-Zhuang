@@ -9,50 +9,24 @@ Website: http://www.escience.cn/people/zhuangpeixian/index.html
 Lastest News: I will be honor to join the BBNC lab (http://media.au.tsinghua.edu.cn/) as a Postdoctoral Fellow, advised by Prof. Qionghai Dai！
 
 0. Recent News: I am honor to be an Editor Board Member for Journal of Electronics and Advanced Electrical Engineering, and an Associate Editor for Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization! Hope you will contribute your manuscript on these journals!
-
 1. Recent News: One paper titled “Bayesian Retinex Underwater Image Enhancement With Multi-Order Gradient Priors” has been submitted to Pattern Recognition (SCI JCR 1区, CCF推荐, IF：7.196)！
-
 2. Two papers titled “An efficient underwater image enhancement model with extensive Beer-Lambert law”and “Blind image deblurring with joint extreme channels and L0-regularized intensity and gradient priors” have been accepted on 2020 IEEE International Conference on Image Processing (IEEE ICIP, CCF推荐EI会议, 信号处理3大旗舰会议之一)！And the paper titled "Underwater Image Enhancement Based on Beer-Lambert law" has been extended and submitted to Electronics Letters (SCI JCR 4区, IF: 1.343).
-
 3. One paper titled “Bayesian Pan-sharpening with Multi-order Gradient-based Deep Network Constraints”  has been accepted on IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (SCI JCR 2区, IF: 3.392)！
-
 4. Two papers titled “Underwater Image Enhancement with a Total Generalized Variation Illumination Prior” and “Underwater Image Enhancement based on Dehazing and Color Correction” have been accepted on 2019 IEEE International Symposium on Parallel and Distributed Processing with Applications (IEEE ISPA, EI, CCF推荐, 并行和分布式应用处理国际会议) ！
-
 5. One paper titled “Underwater Image Enhancement Using An Edge-Preserving Filtering Retinex Algorithm” has been accepted on Multimedia Tools and Applications (SCI JCR 4区, CCF推荐,IF：2.101) !
-
 6.  I am honor to be a member of Technical Committee on 2020 International Conference on Image and Graphics Processing (图像与图形处理国际EI会议) ！And one paper titled “An Enhancing Approach for Typhoon Cloud Image” has been accepted on 2020 International Conference on Image and Graphics Processing, Oral Presentation (图像与图形处理国际EI会议) !
 7. One paper titled “Compressed Sensing MRI with Joint Image-Level and Patch-Level Priors” has been accepted on 2019 IEEE International Conference on Image Processing, Poster Presentation (IEEE ICIP, CCF推荐EI会议, 信号处理3大旗舰会议之一) ！
-
 8. One paper titled “Divide and Conquer Framework for Image Restoration and Enhancement” has been accepted on Engineering Applications of Artificial Intelligence (SCI JCR 2区, CCF推荐, IF：3.526) !
-
 9. Two papers titled “Pan-GGF: A Probabilistic Method for Pan-sharpening With Gradient Domain Guided Image Filtering” and “MRI Reconstruction with an Edge-Preserving Prior” have been accepted on Signal Processing (SCI JCR 1区, CCF推荐, IF：4.086) ！
-
 10. One paper titled “Underwater Image Enhancement Using a Multi-Scale Dense Generative Adversarial Network” has been accepted on IEEE Journal of Oceanic Engineering (SCI JCR 2区, IF：2. 435) !
-
 11. I am honor to be the Session Chair (Image Processing II) and a member of Technical Committee on 2019 IEEE International Conference on Signal and Image Processing (IEEE ICSIP, 信号与图像处理国际EI会议) ！
-
 12. Two papers titled “Pan-sharpening with a Gradient Domain Guided Image Filtering Prior” and “Underwater Image Enhancement by Gaussian Curvature Filter” have been accepted on 2019 IEEE International Conference on Signal and Image Processing, Oral Presentation (IEEE ICSIP, 信号与图像处理国际EI会议) ！
-
 13. One paper titled “Compressed Sensing MRI via a Multi-scale Dilated Residual Convolution Network” has been accepted on Magnetic Resonance Imaging (SCI JCR 3区, IF：2.564) !
-
 14. One paper titled “Pan-sharpening via a gradient-based deep network prior” has been accepted on Signal Processing: Image Communications (SCI JCR 2区, CCF推荐, IF：2. 814) !
-
 15. One paper titled “Removing Stripe Noise from Infrared Cloud Image via Deep Convolutional Network” has been accepted on IEEE Photonics Journal (SCI JCR 3区, IF：2. 627) !
-
 16. I win to be a Professional Master Supervisor in School of Electronic and Information Engineering, Nanjing University of Information Science and Technology (2017.02-2020.02)!
-
 17. I am a winner of the Best PhD. Thesis Award in Fujian Province in 2017 (福建省优秀博士学位论文)!
-
 18. I win the National Natural Science Foundation of China under Grant (国家自然科学基金青年项目, No. 61701245, 2018.01-2020.12)！
-
-### Project List
-1. 国家自然科学基金青年基金（61701245）, 基于非参数层次贝叶斯景深估计模型的水下降质图像质量提升研究, 2018 – 2020, 主持, 在研
-2. 国家自然科学基金青年基金（61701247）, 基于能量采集的无线传感网络中的优化能量控制, 2018 – 2020, 第一参与, 在研
-3. 国家自然科学基金面上项目（61571382）, 基于部分K空间数据子空间分解的贝叶斯非参数压缩感知MRI重构方法, 2016 – 2019, 主研, 结题
-4. 国家自然科学基金面上项目（61571005）, 基于PDE的鲁棒性视觉显著性目标感知先验的图像分割, 2016 – 2019, 参与, 结题
-5. 国家自然科学基金面上项目（81671674）, 实时三维时空编码磁共振成像的序列设计及重构算法研究, 2016 – 2019, 参与, 结题
-6. 国家自然科学基金面上项目（61671309）, 基于有限新息率理论的高分辨率工业超声成像重构算法研究, 2016 – 2019, 参与, 结题
-7. 国家自然科学基金面上项目（61172179）, 基于非参数层次贝叶斯模型的自适应字典稀疏表示方法及应用, 2012 – 2015, 参与, 结题
 
 ### Publication List
 1.	Kai Zhou, **Peixian Zhuang*(co-first author)**, Jiaying Xiong, Jin Zhao, Muyao Du. Blind Image Deblurring with Joint Extreme Channels and L0-Regularized Intensity and Gradient Priors. IEEE International Conference on Image Processing (IEEE ICIP), Accepted, 2020. (EI, CCF推荐, 信号处理旗舰会议)
@@ -82,6 +56,18 @@ Lastest News: I will be honor to join the BBNC lab (http://media.au.tsinghua.edu
 25.	Shengkui Dai*, **Peixian Zhuang**, Wenjie Xiang. GSO: An improved PSO based on geese flight theory. International Conference in Swarm Intelligence (ICSI), pp. 87-95, 2013. 
 26.	**Peixian Zhuang**, Shengkui Dai*. Improved Geese Swarm Optimization Algorithm Based on Gaussian Weighted Sum. Computer Science, vol. 40, no. Z6, pp. 87-89, 2013.
 
+### Project List
+1. 国家自然科学基金青年基金（61701245）, 基于非参数层次贝叶斯景深估计模型的水下降质图像质量提升研究, 2018 – 2020, 主持, 在研
+2. 国家自然科学基金青年基金（61701247）, 基于能量采集的无线传感网络中的优化能量控制, 2018 – 2020, 第一参与, 在研
+3. 国家自然科学基金面上项目（61571382）, 基于部分K空间数据子空间分解的贝叶斯非参数压缩感知MRI重构方法, 2016 – 2019, 主研, 结题
+4. 国家自然科学基金面上项目（61571005）, 基于PDE的鲁棒性视觉显著性目标感知先验的图像分割, 2016 – 2019, 参与, 结题
+5. 国家自然科学基金面上项目（81671674）, 实时三维时空编码磁共振成像的序列设计及重构算法研究, 2016 – 2019, 参与, 结题
+6. 国家自然科学基金面上项目（61671309）, 基于有限新息率理论的高分辨率工业超声成像重构算法研究, 2016 – 2019, 参与, 结题
+7. 国家自然科学基金面上项目（61172179）, 基于非参数层次贝叶斯模型的自适应字典稀疏表示方法及应用, 2012 – 2015, 参与, 结题
+
+### Chinese Patent:
+庄培显;郭彭浩;戴于翔;熊佳颖. 一种台风云图增强方法与流程. 发明专利, 授理中（授权公告日：2019.08.27）
+
 ### Academic Activities 
 **Reviewers**: IEEE Transactions on Circuits and Systems for Video Technology, Engineering Applications of Artificial Intelligence, Signal Processing, Knowledge-Based Systems, Pattern Recognition, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, EURASIP Journal on Wireless Communications and Networking, Journal of Computational Methods in Sciences and Engineering, 2020 International Conference on Image and Graphics Processing, 2019 and 2020 IEEE International Conference on Multimedia and Expo (ICME), 2019 and 2020 IEEE International Conference on Signal and Image Processing (ICSIP), 2020 International Conference on Vision, Image and Signal Processing, 2020 International Conference on Biological Information and Biomedical Engineering, 2020 International Conference on Fuzzy Systems and Data Mining, 2020 International Conference on Machine Learning and Intelligent Systems, 2019 IEEE International Symposium on Parallel and Distributed Processing with Applications, 2019 International Conference on Computer Science and Application Engineering (CSAE), 2018 IEEE International Conference on Wireless Communications and Signal Processing (IEEE WCSP), 2018 and 2020 International Conference on Artificial Intelligence and Security (ICAIS), and so on. 
 
@@ -90,3 +76,6 @@ Journal of Electronics and Advanced Electrical Engineering (Editor), Computer Me
  
 ### Conference Committee
 2019 & 2020 IEEE International Conference on Signal and Image Processing (2019 Session Chair, 2019 & 2020 TPC member), 2020 & 2021 International Conference on Image and Graphics Processing  (TPC member), 2020 IEEE International Conference on Signal and Image Processing (TPC member), 2020 International Conference on Vision, Image and Signal Processing (TPC member), 2020 International Conference on Medical Science and Biomedical Engineering (TPC member), 2020 International Conference on Computer Science and Electronics& Electrical Engineering (TPC member), 2020 International Conference on Modern Management based on Big Data (TPC member).
+
+### Contact Way
+Email: **zhuangpeixian0624@163.com**
