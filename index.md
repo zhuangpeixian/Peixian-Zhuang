@@ -1,7 +1,8 @@
 ## Peixian Zhuang （庄培显）
 Postdoctoral Fellow (博士后), advised by Prof. Qionghai Dai (戴琼海院士), Tsinghua University. IEEE and CCF Member. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the Best PhD. Thesis Award in Fujian Province in 2017. From 2017.02 to 2020.07, I am a Lecturer and Master Supervisor in the School of Electronic and Information Engineering, Nanjing University of Information Science and Technology. My research interests focus on Bayesian modeling, sparse image representation and deep learning, including image restoration, image naturalization, medical image reconstruction, remote sensing fusion, and underwater image enhancement, and so on.
 
-### Google Citation：144+. SCI IF：40+
+### Google Citation：144+.   
+### SCI IF：40+
 Website: http://www.escience.cn/people/zhuangpeixian/index.html
 
 ### Last News
