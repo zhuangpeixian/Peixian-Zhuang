@@ -6,10 +6,8 @@ Postdoctoral Fellow (博士后), advised by Prof. Qionghai Dai (戴琼海院士)
 Website: http://www.escience.cn/people/zhuangpeixian/index.html
 
 ### Last News
-Lastest News: I will be honor to join the BBNC lab (http://media.au.tsinghua.edu.cn/) as a Postdoctoral Fellow, advised by Prof. Qionghai Dai！
-
-0. Recent News: I am honor to be an Editor Board Member for Journal of Electronics and Advanced Electrical Engineering, and an Associate Editor for Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization! Hope you will contribute your manuscript on these journals!
-1. Recent News: One paper titled “Bayesian Retinex Underwater Image Enhancement With Multi-Order Gradient Priors” has been submitted to Pattern Recognition (模式识别TOP期刊，SCI JCR 1区, CCF推荐, IF：7.196)！
+0. Lastest News: I will be honor to join the BBNC lab (http://media.au.tsinghua.edu.cn/) as a Postdoctoral Fellow, advised by Prof. Qionghai Dai！
+1. Recent News: I am honor to be an Editor Board Member for Journal of Electronics and Advanced Electrical Engineering, and an Associate Editor for Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization! Hope you will contribute your manuscript on these journals!
 2. Two papers titled “An efficient underwater image enhancement model with extensive Beer-Lambert law”and “Blind image deblurring with joint extreme channels and L0-regularized intensity and gradient priors” have been accepted on 2020 IEEE International Conference on Image Processing (IEEE ICIP, CCF推荐EI会议, 信号处理3大旗舰会议之一)！
 3. One paper titled “Bayesian Pan-sharpening with Multi-order Gradient-based Deep Network Constraints”  has been accepted on IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (SCI JCR 2区, IF: 3.392)！
 4. Two papers titled “Underwater Image Enhancement with a Total Generalized Variation Illumination Prior” and “Underwater Image Enhancement based on Dehazing and Color Correction” have been accepted on 2019 IEEE International Symposium on Parallel and Distributed Processing with Applications (IEEE ISPA, EI, CCF推荐, 并行和分布式应用处理国际会议) ！
