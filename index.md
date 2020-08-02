@@ -76,13 +76,13 @@ Journal of Electronics and Advanced Electrical Engineering (Editor), Computer Me
 2019 & 2020 IEEE International Conference on Signal and Image Processing (2019 Session Chair, 2019 & 2020 TPC member), 2020 & 2021 International Conference on Image and Graphics Processing  (TPC member), 2020 IEEE International Conference on Signal and Image Processing (TPC member), 2020 International Conference on Vision, Image and Signal Processing (TPC member), 2020 International Conference on Medical Science and Biomedical Engineering (TPC member), 2020 International Conference on Computer Science and Electronics& Electrical Engineering (TPC member), 2020 International Conference on Modern Management based on Big Data (TPC member), 2020 International Conference on Information Security and Privacy Protection (TPC member), and so on.
 
 ### Former Students
-1.	叶飞（2016.09-2019.07，硕士），发表1篇CCF推荐Signal Processing: Image Communication SCI期刊论文，目前在南京理工大学攻读博士（博士生导师：吴泽彬教授）
-2.	戴于翔（2017.09-2020.07，硕士），发表1篇Magnetic Resonance Imaging SCI期刊论文，获得2019年研究生国家奖学金，准备去复旦大学攻读博士（博士生导师：王鹤研究员）
-3.	李撼宇（2017.09-2020.07，硕士），发表1篇IEEE Journal of Oceanic Engineering海洋工程TOP SCI期刊，发表1篇CCF推荐IEEE International Symposium on Parallel and Distributed Processing with Applications (IEEE ISPA)会议论文，准备去南京理工大学攻读博士（博士生导师：唐镇民院长）
-4.	郭浩彭（2018.09-2021.07，硕士），发表1篇IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing遥感信息权威SCI期刊，并发表1篇IEEE International Conference on Image and Graphics Processing (IEEE ICIGP) 图像与图形处理国际会议论文，Oral Presentation
-5.	赵正杰（2016.09-2020.07，本科），发表1篇CCF推荐IEEE International Symposium on Parallel and Distributed Processing with Applications会议论文，目前在纽约大学攻读硕士
-6.	熊佳颖（2017.09-2021.07，本科），发表1篇IEEE International Conference on Image Processing (IEEE ICIP) 信号处理旗舰会议论文，并发表1篇IEEE International Conference on Signal and Image Processing (IEEE ICSIP) 信号与图像处理国际会议论文，Oral Presentation, 准备去南京大学攻读硕士
-7.	周凯（2017.09-2021.07，本科），发表1篇IEEE International Conference on Image Processing (IEEE ICIP) 信号处理旗舰会议论文，准备去东南大学攻读硕士
+1.	叶飞（2016.09-2019.07，硕士), 发表1篇CCF推荐Signal Processing: Image Communication SCI期刊论文, 目前在南京理工大学攻读博士（博士生导师：吴泽彬教授）
+2.	戴于翔（2017.09-2020.07，硕士）, 发表1篇Magnetic Resonance Imaging SCI期刊论文, 获得2019年研究生国家奖学金, 准备去复旦大学攻读博士（博士生导师：王鹤研究员）
+3.	李撼宇（2017.09-2020.07，硕士）, 发表1篇IEEE Journal of Oceanic Engineering 海洋工程TOP SCI期刊, 发表1篇CCF推荐IEEE International Symposium on Parallel and Distributed Processing with Applications (IEEE ISPA)会议论文, 准备去南京理工大学攻读博士（博士生导师：唐镇民院长）
+4.	郭浩彭（2018.09-2021.07，硕士）, 发表1篇IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 遥感信息权威SCI期刊，并发表1篇IEEE International Conference on Image and Graphics Processing (IEEE ICIGP) 图像与图形处理国际会议论文, Oral Presentation
+5.	赵正杰（2016.09-2020.07，本科）, 发表1篇CCF推荐IEEE International Symposium on Parallel and Distributed Processing with Applications会议论文, 目前在纽约大学攻读硕士
+6.	熊佳颖（2017.09-2021.07，本科）, 发表1篇IEEE International Conference on Image Processing (IEEE ICIP) 信号处理旗舰会议论文, 并发表1篇IEEE International Conference on Signal and Image Processing (IEEE ICSIP) 信号与图像处理国际会议论文, Oral Presentation, 准备去南京大学攻读硕士
+7.	周凯（2017.09-2021.07，本科）, 发表1篇IEEE International Conference on Image Processing (IEEE ICIP) 信号处理旗舰会议论文, 准备去东南大学攻读硕士
 
 ### Contact Email
 **zhuangpeixian0624@163.com**
