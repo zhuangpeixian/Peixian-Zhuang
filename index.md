@@ -1,7 +1,7 @@
 ## Peixian Zhuang （庄培显）
 Postdoctoral Fellow (博士后), advised by Prof. Qionghai Dai (戴琼海院士), Tsinghua University（清华大学）. IEEE and CCF Member. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the Best PhD. Thesis Award in Fujian Province in 2017. From 2017.02 to 2020.07, I am a Lecturer and Master Supervisor in the School of Electronic and Information Engineering, Nanjing University of Information Science and Technology. My research interests focus on Bayesian modeling, sparse image representation and deep learning, including image restoration, image naturalization, medical image reconstruction, remote sensing fusion, and underwater image enhancement, and so on.
 
-### Google Citation：144+.   
+### Google Citation：154+.   
 ### SCI IF：40+
 Website: http://www.escience.cn/people/zhuangpeixian/index.html
 
@@ -25,6 +25,11 @@ Website: http://www.escience.cn/people/zhuangpeixian/index.html
 16. I win to be a Professional Master Supervisor in School of Electronic and Information Engineering, Nanjing University of Information Science and Technology (2017.02-2020.02)!
 17. I am a winner of the Best PhD. Thesis Award in Fujian Province in 2017 (福建省优秀博士学位论文)!
 18. I win the National Natural Science Foundation of China under Grant (国家自然科学基金青年项目, No. 61701245, 2018.01-2020.12)！
+
+### Submission Paper
+1.	Peixian Zhuang*, Xinghao Ding. Bayesian Retinex Underwater Image Enhancement. Submitted to Pattern Recognition. (模式识别TOP期刊, SCI, JCR1, CCF推荐, IF: 7.196) 
+2.	Peixian Zhuang*. MGF: An algorithm for compressed sensing MRI with gradient domain guided image filtering. Submitted to 2020 IEEE International Conference on Visual Communication and Image Processing (IEEE VCIP) . (EI, 图像处理会议) 
+3.	Haiyu Li, Peixian Zhuang*, DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Submitted to Signal Processing: Image Communication. (SCI, JCR2, CCF推荐, IF: 2.779).
 
 ### Publication List
 1.	Kai Zhou, **Peixian Zhuang*(co-first author)**, Jiaying Xiong, Jin Zhao, Muyao Du. Blind Image Deblurring with Joint Extreme Channels and L0-Regularized Intensity and Gradient Priors. IEEE International Conference on Image Processing (IEEE ICIP), Accepted, 2020. (EI, CCF推荐, 信号处理旗舰会议)
