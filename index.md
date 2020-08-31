@@ -74,6 +74,7 @@ Website: http://www.escience.cn/people/zhuangpeixian/index.html
 
 ### Academic Activities 
 **Journal Reviewers**: IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Cybernetics, Engineering Applications of Artificial Intelligence, Signal Processing, Knowledge-Based Systems, Pattern Recognition, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, EURASIP Journal on Wireless Communications and Networking, Big Data Research, Journal of Computational Methods in Sciences and Engineering, etc.
+
 **Conference Reviewers**:2021 the Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), 2020 International Conference on Image and Graphics Processing, 2019 and 2020 IEEE International Conference on Multimedia and Expo (ICME), 2019 and 2020 IEEE International Conference on Signal and Image Processing (ICSIP), 2020 International Conference on Vision, Image and Signal Processing, 2020 International Conference on Biological Information and Biomedical Engineering, 2020 International Conference on Fuzzy Systems and Data Mining, 2020 International Conference on Machine Learning and Intelligent Systems, 2019 IEEE International Symposium on Parallel and Distributed Processing with Applications, 2019 International Conference on Computer Science and Application Engineering (CSAE), 2018 IEEE International Conference on Wireless Communications and Signal Processing (IEEE WCSP), 2018 and 2020 International Conference on Artificial Intelligence and Security (ICAIS), and so on. 
 
 ### Journal Editor
