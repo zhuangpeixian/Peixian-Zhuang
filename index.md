@@ -58,7 +58,7 @@ Website: http://www.escience.cn/people/zhuangpeixian/index.html
 27.	Peixian Zhuang*, Xinghao Ding. Bayesian Retinex Underwater Image Enhancement. Submitted to Pattern Recognition. (模式识别TOP期刊, SCI, JCR1, CCF推荐, IF: 7.196) 
 28.	Haiyu Li, Peixian Zhuang*, DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Submitted to Signal Processing: Image Communication. (SCI, JCR2, CCF推荐, IF: 2.779).
 29. Peixian Zhuang*, MGF: An algorithm for compressed sensing MRI with gradient domain guided image filtering. Submitted to 2021 IEEE International Conference on Image and Graphics Processing (ICIGP) (EI, 图像与图形处理国际会议).
-30. Peixian Zhuang*, ***,***, Underwater Image Enhancement with *** Priors. Preparing.
+30. Peixian Zhuang*, ******, Underwater Image Enhancement with *** Priors. Preparing.
 
 ### Project List
 1. 国家重大科研仪器设备研制专项 (20161311307)，多维多尺度高分辨率计算摄像仪器, 2017.01-2021.12，参与，在研
