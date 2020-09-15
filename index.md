@@ -1,7 +1,7 @@
 ## Peixian Zhuang （庄培显）
 **Postdoctoral Fellow (博士后研究员), advised by Prof. Qionghai Dai (国务院参事、CAAI理事长、中国工程院院士、清华大学信息学院院长、CAAI Fellow), Tsinghua University（清华大学）**. IEEE, CCF and CAAI Member. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the Best PhD. Thesis Award in Fujian Province in 2017. From 2017.02 to 2020.07, I am a Lecturer and Master Supervisor in the School of Electronic and Information Engineering, Nanjing University of Information Science and Technology. My research interests focus on Bayesian modeling, sparse image representation and deep learning, including image restoration, image naturalization, medical image reconstruction, remote sensing fusion, and underwater image enhancement, and so on.
 
-### Google Citation：162+.   
+### Google Citation：169+.   
 ### SCI IF：40+
 Website: http://www.escience.cn/people/zhuangpeixian/index.html
 
@@ -29,6 +29,7 @@ Website: http://www.escience.cn/people/zhuangpeixian/index.html
 ### Submission Paper
 1.	Peixian Zhuang*, Xinghao Ding. Bayesian Retinex Underwater Image Enhancement. Submitted to Pattern Recognition. (模式识别TOP期刊, SCI, JCR1, CCF推荐, IF: 7.196) 
 2.	Haiyu Li, Peixian Zhuang*, DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Submitted to Signal Processing: Image Communication. (SCI, JCR2, CCF推荐, IF: 2.779).
+3. Peixian Zhuang, MGF: An algorithm for compressed sensing MRI with gradient domain guided image filtering. Submitted to 2021 IEEE International Conference on Image and Graphics Processing (ICIGP) (EI, 图像与图形处理国际会议).
 
 ### Publication List
 1.	Kai Zhou, **Peixian Zhuang*(co-first author)**, Jiaying Xiong, Jin Zhao, Muyao Du. Blind Image Deblurring with Joint Extreme Channels and L0-Regularized Intensity and Gradient Priors. IEEE International Conference on Image Processing (IEEE ICIP), Accepted, 2020. (EI, CCF推荐, 信号处理旗舰会议)
@@ -80,7 +81,7 @@ Website: http://www.escience.cn/people/zhuangpeixian/index.html
 Journal of Electronics and Advanced Electrical Engineering (Editor), Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization (Associate Editor)
  
 ### Conference Committee
-2019 & 2020 IEEE International Conference on Signal and Image Processing (2019 Session Chair, 2019 & 2020 TPC member), 2020 & 2021 International Conference on Image and Graphics Processing  (TPC member), 2020 IEEE International Conference on Signal and Image Processing (TPC member), 2020 International Conference on Vision, Image and Signal Processing (TPC member), 2020 International Conference on Medical Science and Biomedical Engineering (TPC member), 2020 International Conference on Computer Science and Electronics& Electrical Engineering (TPC member), 2020 International Conference on Modern Management based on Big Data (TPC member), 2020 International Conference on Information Security and Privacy Protection (TPC member), and so on.
+2019 & 2020 IEEE International Conference on Signal and Image Processing (2019 Session Chair, 2019 & 2020 TPC member), 2020 & 2021 International Conference on Image and Graphics Processing  (TPC member), 2021 International Conference on Virtual Reality (TC member), 2020 IEEE International Conference on Signal and Image Processing (TPC member), 2020 International Conference on Vision, Image and Signal Processing (TPC member), 2020 International Conference on Medical Science and Biomedical Engineering (TPC member), 2020 International Conference on Computer Science and Electronics& Electrical Engineering (TPC member), 2020 International Conference on Modern Management based on Big Data (TPC member), 2020 International Conference on Information Security and Privacy Protection (TPC member), and so on.
 
 ### Former Students
 1.	叶飞（2016.09-2019.07，硕士), 发表1篇CCF推荐Signal Processing: Image Communication SCI期刊论文, 目前在南京理工大学攻读博士（博士生导师：吴泽彬教授）
