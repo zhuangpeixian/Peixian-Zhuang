@@ -56,10 +56,11 @@ Website: http://www.escience.cn/people/zhuangpeixian/index.html
 
 ### Submission Paper
 27.	Peixian Zhuang*, Xinghao Ding. Bayesian Retinex Underwater Image Enhancement. Submitted to Pattern Recognition. (模式识别TOP期刊, SCI, JCR1, CCF推荐, IF: 7.196) 
-28.	Haiyu Li, Peixian Zhuang*, DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Compressed sensing MRI via a fusion model based on image and gradient priors. (SCI, JCR2, CCF推荐, IF: 2.779).
-29. Peixian Zhuang*, MGF: An algorithm for compressed sensing MRI with gradient domain guided image filtering. Submitted to 2021 IEEE International Conference on Image and Graphics Processing (ICIGP) (EI, 图像与图形处理国际会议).
-30. Peixian Zhuang*, ******, Underwater Image Enhancement with ****** Priors. Preparing.
-31. Yuxiang Dai, ******, Peixian Zhuang, He Wang, Compressed sensing MRI via a fusion model based on image and gradient priors, Submitted to IEEE Transactions on Medical Imaging (医学成像TOP期刊, SCI, JCR1, CCF推荐, IF: 6.685) 
+28. Peixian Zhuang*, MGF: An algorithm for compressed sensing MRI with gradient domain guided image filtering. Submitted to 2021 IEEE International Conference on Image and Graphics Processing (ICIGP) (EI, 图像与图形处理国际会议).
+29.	Haiyu Li, Peixian Zhuang*, DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Compressed sensing MRI via a fusion model based on image and gradient priors. (SCI, JCR2, CCF推荐, IF: 2.779).
+30. Yuxiang Dai, Chengyan Wang, Peixian Zhuang, He Wang, Compressed sensing MRI via a fusion model based on image and gradient priors, Submitted to IEEE Transactions on Medical Imaging (医学成像TOP期刊, SCI, JCR1, CCF推荐, IF: 6.685)
+31. Peixian Zhuang*, ******, Underwater Image Enhancement with ****** Priors. Preparing.
+ 
 ### Project List
 1. 国家重大科研仪器设备研制专项 (20161311307)，多维多尺度高分辨率计算摄像仪器, 2017.01-2021.12，参与，在研
 2. 国家自然科学基金青年基金（61701245）, 基于非参数层次贝叶斯景深估计模型的水下降质图像质量提升研究, 2018 – 2020, 主持, 在研
