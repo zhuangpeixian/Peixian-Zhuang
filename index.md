@@ -97,8 +97,7 @@ Journal of Electronics and Advanced Electrical Engineering (Editor), Computer Me
 7.	周凯（2017.09-2021.07，本科）, 发表1篇IEEE International Conference on Image Processing (IEEE ICIP) 信号处理旗舰会议论文, 准备去东南大学攻读硕士
 
 ### Contact Email
-**zhuangpeixian0624@163.com**
-
+**zhuangpeixian0624@163.com**; 
 **zhuangpeixian@mail.tsinghua.edu.cn**
 
 ### Communication Address
