@@ -98,6 +98,6 @@ Journal of Electronics and Advanced Electrical Engineering (Editor), Computer Me
 
 ### Contact Email
 **zhuangpeixian0624@163.com**
-
+**zhuangpeixian@mail.tsinghua.edu.cn**
 ### Communication Address
 **Department of Automation, Tsinghua University，Beijing, China**
