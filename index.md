@@ -3,7 +3,7 @@
 ## Peixian Zhuang （庄培显）
 **Postdoctoral Fellow (博士后研究员, 助理研究员), advised by Prof. Qionghai Dai (国务院参事、CAAI理事长、中国工程院院士、清华大学信息学院院长), Tsinghua University（清华大学）**. **IEEE, CCF and CAAI Member**. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the **Best PhD. Thesis Award in Fujian Province** in 2017. From 2017.02 to 2020.07, I am a Lecturer and Master Supervisor in the School of Electronic and Information Engineering, Nanjing University of Information Science and Technology. My research interests focus on Bayesian modeling, sparse image representation and deep learning, including image restoration, image naturalization, medical image reconstruction, remote sensing fusion, and underwater image enhancement, and so on.
 
-### Google Citation：170+.   
+### Google Citation：174+.   
 ### SCI IF：40+
 Website: http://www.escience.cn/people/zhuangpeixian/index.html
 
@@ -59,7 +59,7 @@ Website: http://www.escience.cn/people/zhuangpeixian/index.html
 ### Submission Paper
 27.	Peixian Zhuang*, Xinghao Ding. Bayesian Retinex Underwater Image Enhancement. Submitted to Pattern Recognition. (模式识别TOP期刊, SCI, JCR1, CCF推荐, IF: 7.196) 
 28. Peixian Zhuang*, MGF: An algorithm for compressed sensing MRI with gradient domain guided image filtering. Submitted to 2021 IEEE International Conference on Image and Graphics Processing (ICIGP) (EI, 图像与图形处理国际会议).
-29.	Haiyu Li, Peixian Zhuang*, DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Compressed sensing MRI via a fusion model based on image and gradient priors. (SCI, JCR2, CCF推荐, IF: 2.779).
+29.	Haiyu Li, Peixian Zhuang*, DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Submitted to Signal Processing: Image Communication. (SCI, JCR2, CCF推荐, IF: 2.779).
 30. Yuxiang Dai, Chengyan Wang, Peixian Zhuang, He Wang, Compressed sensing MRI via a fusion model based on image and gradient priors, Submitted to IEEE Transactions on Medical Imaging (医学成像TOP期刊, SCI, JCR1, CCF推荐, IF: 6.685)
 31. Peixian Zhuang*, ******, Underwater Image Enhancement with ****** Priors. Preparing.
  
