@@ -29,7 +29,7 @@ Website: http://www.escience.cn/people/zhuangpeixian/index.html
 18. I win the National Natural Science Foundation of China under Grant (国家自然科学基金青年项目, No. 61701245, 2018.01-2020.12)！
 
 ### Publication List
-0. **Peixian Zhuang***. MGF: An algorithm for compressed sensing MRI with gradient domain guided image filtering. Accepted, 2021 IEEE International Conference on Image and Graphics Processing (ICIGP) (EI, 图像与图形处理国际会议).
+0. **Peixian Zhuang***, Kai Zhou. MGF: An algorithm for compressed sensing MRI with gradient domain guided image filtering. Accepted, 2021 IEEE International Conference on Image and Graphics Processing (ICIGP) (EI, 图像与图形处理国际会议).
 1.	Kai Zhou, **Peixian Zhuang*(co-first author)**, Jiaying Xiong, Jin Zhao, Muyao Du. Blind Image Deblurring with Joint Extreme Channels and L0-Regularized Intensity and Gradient Priors. IEEE International Conference on Image Processing (IEEE ICIP), Accepted, 2020. (EI, CCF推荐, 信号处理旗舰会议)
 2.	Jiaying Xiong, **Peixian Zhuang*(co-first author)**, Yanan Zhang. An Efficient Underwater Image Enhancement Model with Extensive Beer-Lambert Law. IEEE International Conference on Image Processing (IEEE ICIP), Accepted, 2020. (EI, CCF推荐, 信号处理旗舰会议) 
 3.	Haopeng Guo, **Peixian Zhuang*(co-first author)**, Yecai Guo. Bayesian Pan-sharpening with Multi-order Gradient-based Deep Network Constraints. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 13, pp. 950-962, 2020. (SCI, JCR2, IF: 3.827)
