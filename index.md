@@ -30,8 +30,8 @@ Website: http://www.escience.cn/people/zhuangpeixian/index.html
 
 ### Publication List
 0. **Peixian Zhuang***, Kai Zhou. MGF: An algorithm for compressed sensing MRI with gradient domain guided image filtering. Accepted, Oral Presentation, 2021 IEEE International Conference on Image and Graphics Processing (ICIGP) (EI, 图像与图形处理国际会议).
-1.	Kai Zhou, **Peixian Zhuang*(co-first author)**, Jiaying Xiong, Jin Zhao, Muyao Du. Blind Image Deblurring with Joint Extreme Channels and L0-Regularized Intensity and Gradient Priors. IEEE International Conference on Image Processing (IEEE ICIP), Accepted, 2020. (EI, CCF推荐, 信号处理旗舰会议)
-2.	Jiaying Xiong, **Peixian Zhuang*(co-first author)**, Yanan Zhang. An Efficient Underwater Image Enhancement Model with Extensive Beer-Lambert Law. IEEE International Conference on Image Processing (IEEE ICIP), Accepted, 2020. (EI, CCF推荐, 信号处理旗舰会议) 
+1.	Kai Zhou, **Peixian Zhuang*(co-first author)**, Jiaying Xiong, Jin Zhao, Muyao Du. Blind Image Deblurring with Joint Extreme Channels and L0-Regularized Intensity and Gradient Priors. IEEE International Conference on Image Processing (IEEE ICIP), pp. 873-877, 2020. (EI, CCF推荐, 信号处理旗舰会议)
+2.	Jiaying Xiong, **Peixian Zhuang*(co-first author)**, Yanan Zhang. An Efficient Underwater Image Enhancement Model with Extensive Beer-Lambert Law. IEEE International Conference on Image Processing (IEEE ICIP), pp. 893-897, 2020. (EI, CCF推荐, 信号处理旗舰会议) 
 3.	Haopeng Guo, **Peixian Zhuang*(co-first author)**, Yecai Guo. Bayesian Pan-sharpening with Multi-order Gradient-based Deep Network Constraints. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 13, pp. 950-962, 2020. (SCI, JCR2, IF: 3.827)
 4.	Yecai Guo*, Haiyu Li, and **Peixian Zhuang**. Underwater Image Enhancement Using a Multi-Scale Dense Generative Adversarial Network. IEEE Journal of Oceanic Engineering, vol. 45, no. 3, pp. 862-870, 2020. (海洋工程TOP期刊, SCI, JCR2, IF: 3.005)
 5.	**Peixian Zhuang***, and Xinghao Ding. Underwater Image Enhancement Using An Edge-Preserving Filtering Retinex Algorithm. Multimedia Tools and Applications, vol. 79, pp. 17257–17277, 2020. (SCI, JCR4, CCF推荐, IF: 2.313)
@@ -58,8 +58,8 @@ Website: http://www.escience.cn/people/zhuangpeixian/index.html
 26.	**Peixian Zhuang**, Shengkui Dai*. Improved Geese Swarm Optimization Algorithm Based on Gaussian Weighted Sum. Computer Science, vol. 40, no. Z6, pp. 87-89, 2013.
 
 ### Submission Paper
-27.	Peixian Zhuang*, Xinghao Ding. Bayesian Retinex Underwater Image Enhancement. Submitted to Information Sciences. (计算智能TOP期刊, SCI, JCR1, CCF推荐, IF: 5.91) 
-28.	Haiyu Li, Peixian Zhuang*, DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Major Revision, Signal Processing: Image Communication，(SCI, JCR2, CCF推荐, IF: 2.779).
+27.	Haiyu Li, Peixian Zhuang*, DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Major Revision, Signal Processing: Image Communication，(SCI, JCR2, CCF推荐, IF: 2.779).
+28.	Peixian Zhuang*, Xinghao Ding. Bayesian Retinex Underwater Image Enhancement. Submitted to Information Sciences. (计算智能TOP期刊, SCI, JCR1, CCF推荐, IF: 5.91) 
 29. Yuxiang Dai, Chengyan Wang, Peixian Zhuang, He Wang, Compressed sensing MRI via a fusion model based on image and gradient priors, Submitted to IEEE Transactions on Medical Imaging (医学成像TOP期刊, SCI, JCR1, CCF推荐, IF: 6.685)
  
 ### Project List
