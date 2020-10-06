@@ -3,7 +3,7 @@
 ## Peixian Zhuang （庄培显）
 **Postdoctoral Fellow (博士后研究员, 助理研究员), advised by Prof. Qionghai Dai (中国工程院院士、国务院参事、CAAI理事长、清华大学信息学院院长), Tsinghua University（清华大学）**. **IEEE, CCF and CAAI Member**. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the **Best PhD. Thesis Award in Fujian Province**（福建省优秀博士学位论文）in 2017. From 2017.02 to 2020.07, I am a Lecturer and Master Supervisor in the School of Electronic and Information Engineering, Nanjing University of Information Science and Technology. My research interests focus on Bayesian modeling, sparse image representation and deep learning, including image restoration, image naturalization, medical image reconstruction, remote sensing fusion, and underwater image enhancement, and so on.
 
-### Google Citation：174+.   
+### Google Citation：178+.   
 ### SCI IF：40+
 Website: http://www.escience.cn/people/zhuangpeixian/index.html
 
@@ -58,8 +58,8 @@ Website: http://www.escience.cn/people/zhuangpeixian/index.html
 26.	**Peixian Zhuang**, Shengkui Dai*. Improved Geese Swarm Optimization Algorithm Based on Gaussian Weighted Sum. Computer Science, vol. 40, no. Z6, pp. 87-89, 2013.
 
 ### Submission Paper
-27.	Peixian Zhuang*, Xinghao Ding. Bayesian Retinex Underwater Image Enhancement. Submitted to Pattern Recognition. (模式识别TOP期刊, SCI, JCR1, CCF推荐, IF: 7.196) 
-28.	Haiyu Li, Peixian Zhuang*, DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Submitted to Signal Processing: Image Communication (SCI, JCR2, CCF推荐, IF: 2.779).
+27.	Peixian Zhuang*, Xinghao Ding. Bayesian Retinex Underwater Image Enhancement. Submitted to Information Sciences. (计算智能TOP期刊, SCI, JCR1, CCF推荐, IF: 5.91) 
+28.	Haiyu Li, Peixian Zhuang*, DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Submitted to Signal Processing: Image Communication，Major Revision (SCI, JCR2, CCF推荐, IF: 2.779).
 29. Yuxiang Dai, Chengyan Wang, Peixian Zhuang, He Wang, Compressed sensing MRI via a fusion model based on image and gradient priors, Submitted to IEEE Transactions on Medical Imaging (医学成像TOP期刊, SCI, JCR1, CCF推荐, IF: 6.685)
  
 ### Project List
