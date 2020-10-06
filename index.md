@@ -59,7 +59,7 @@ Website: http://www.escience.cn/people/zhuangpeixian/index.html
 
 ### Submission Paper
 27.	Peixian Zhuang*, Xinghao Ding. Bayesian Retinex Underwater Image Enhancement. Submitted to Information Sciences. (计算智能TOP期刊, SCI, JCR1, CCF推荐, IF: 5.91) 
-28.	Haiyu Li, Peixian Zhuang*, DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Submitted to Signal Processing: Image Communication，Major Revision (SCI, JCR2, CCF推荐, IF: 2.779).
+28.	Haiyu Li, Peixian Zhuang*, DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Major Revision, Signal Processing: Image Communication，(SCI, JCR2, CCF推荐, IF: 2.779).
 29. Yuxiang Dai, Chengyan Wang, Peixian Zhuang, He Wang, Compressed sensing MRI via a fusion model based on image and gradient priors, Submitted to IEEE Transactions on Medical Imaging (医学成像TOP期刊, SCI, JCR1, CCF推荐, IF: 6.685)
  
 ### Project List
