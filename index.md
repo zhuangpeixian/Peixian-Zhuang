@@ -19,4 +19,17 @@ Website: http://www.escience.cn/people/zhuangpeixian/index.html
 8. One paper titled “Divide and Conquer Framework for Image Restoration and Enhancement” has been accepted on Engineering Applications of Artificial Intelligence (SCI JCR 2区, CCF推荐, IF：3.526) !
 9. Two papers titled “Pan-GGF: A Probabilistic Method for Pan-sharpening With Gradient Domain Guided Image Filtering” and “MRI Reconstruction with an Edge-Preserving Prior” have been accepted on Signal Processing (信号处理TOP期刊，SCI JCR 1区, CCF推荐, IF：4.086) ！
 10. One paper titled “Underwater Image Enhancement Using a Multi-Scale Dense Generative Adversarial Network” has been accepted on IEEE Journal of Oceanic Engineering (海洋工程TOP期刊, SCI JCR 2区, IF：2. 435) !
-11. I am honor to be the Session Chair (Image Processing II) and a member of Technical Committee on 2019 IEEE International Conference on 
+11. I am honor to be the Session Chair (Image Processing II) and a member of Technical Committee on 2019 IEEE International Conference on Signal and Image Processing (IEEE ICSIP, 信号与图像处理国际EI会议) ！
+12. Two papers titled “Pan-sharpening with a Gradient Domain Guided Image Filtering Prior” and “Underwater Image Enhancement by Gaussian Curvature Filter” have been accepted on 2019 IEEE International Conference on Signal and Image Processing, Oral Presentation (IEEE ICSIP, 信号与图像处理国际EI会议) ！
+13. One paper titled “Compressed Sensing MRI via a Multi-scale Dilated Residual Convolution Network” has been accepted on Magnetic Resonance Imaging (SCI JCR 3区, IF：2.564) !
+14. One paper titled “Pan-sharpening via a gradient-based deep network prior” has been accepted on Signal Processing: Image Communications (SCI JCR 2区, CCF推荐, IF：2. 814) !
+15. One paper titled “Removing Stripe Noise from Infrared Cloud Image via Deep Convolutional Network” has been accepted on IEEE Photonics Journal (SCI JCR 3区, IF：2. 627) !
+16. I win to be a Professional Master Supervisor in School of Electronic and Information Engineering, Nanjing University of Information Science and Technology (2017.02-2020.02)!
+17. I am a winner of the Best PhD. Thesis Award in Fujian Province in 2017 (福建省优秀博士学位论文)!
+18. I win the National Natural Science Foundation of China under Grant (国家自然科学基金青年项目, No. 61701245, 2018.01-2020.12)！
+
+### Publication
+0. Peixian Zhuang, Kai Zhou, MGF: 
+
+
+
