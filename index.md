@@ -57,7 +57,23 @@
 26. **Peixian Zhuang**, Shengkui Dai*. Improved Geese Swarm Optimization Algorithm Based on Gaussian Weighted Sum. Computer Science, vol. 40, no. Z6, pp. 87-89, 2013.
 
 ### Submissions
-27. Peixian Zhuang*, Xinghao Ding. Bayesian Retinex Underwater Image Enhancement. Submitted to Information Sciences. (计算智能TOP期刊, SCI, JCR1, CCF推荐, IF: 5.91) 
-28.	Haiyu Li, Peixian Zhuang*, DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Submitted to Signal Processing: Image Communication. (SCI, JCR2, CCF推荐, IF: 2.779).
+27.	Haiyu Li, Peixian Zhuang*, DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Major Revision, Signal Processing: Image Communication. (SCI, JCR2, CCF推荐, IF: 2.779).
+28. Peixian Zhuang*, Xinghao Ding. Bayesian Retinex Underwater Image Enhancement. Submitted to Information Sciences. (计算智能TOP期刊, SCI, JCR1, CCF推荐, IF: 5.91) 
 
+### Projects
+0. 国家自然科学基金重大科研仪器设备研制专项（No. 20161311307），多维多尺度高分辨率计算摄像仪器，2017 – 2021，参与人，在研
+1. 国家自然科学基金青年基金（No. 61701245），基于非参数层次贝叶斯景深估计模型的水下降质图像质量提升研究，2018 – 2020，主持人，在研
+2. 国家自然科学基金青年基金（No. 61701247），基于能量采集的无线传感网络中的优化能量控制，2018 – 2020，第一参与人，在研
+3. 国家自然科学基金面上项目（No. 61571382），基于部分K空间数据子空间分解的贝叶斯非参数压缩感知MRI重构方法，2016 – 2019，主研人，结题
+4. 国家自然科学基金面上项目（No. 61571005），基于PDE的鲁棒性视觉显著性目标感知先验的图像分割，2016 – 2019，参与人，结题
+5. 国家自然科学基金面上项目（No. 81671674），实时三维时空编码磁共振成像的序列设计及重构算法研究，2016 – 2019，参与人，结题
+6. 国家自然科学基金面上项目（No. 61671309），基于有限新息率理论的高分辨率工业超声成像重构算法研究，2016 – 2019，参与人，结题
+7. 国家自然科学基金面上项目（No. 61172179），基于非参数层次贝叶斯模型的自适应字典稀疏表示方法及应用，2012 – 2015，参与人，结题
 
+### Journal Reviewer
+
+### Conference Reviewer
+
+### Journal Editor
+
+### Conference 
