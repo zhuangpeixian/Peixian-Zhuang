@@ -80,7 +80,7 @@ Engineering Applications of Artificial Intelligence,
 Magnetic Resonance Imaging（核磁共振成像TOP期刊）,
 EURASIP Journal on Wireless Communications and Networking,
 Big Data Research, 
-Journal of Computational Methods in Sciences and Engineering，etc.
+Journal of Computational Methods in Sciences and Engineering, etc.
 
 ### Conference Reviewers
 2021 AAAI Conference on Artificial Intelligence (AAAI)(人工智能领域TOP会议), 
@@ -94,7 +94,7 @@ Journal of Computational Methods in Sciences and Engineering，etc.
 2019 IEEE International Symposium on Parallel and Distributed Processing with Applications, 
 2019 International Conference on Computer Science and Application Engineering, 
 2018 IEEE International Conference on Wireless Communications and Signal Processing, 
-2020 and 2018 International Conference on Artificial Intelligence and Security，etc.
+2020 and 2018 International Conference on Artificial Intelligence and Security, etc.
 
 ### Journal Editors
 Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization,
@@ -124,7 +124,7 @@ Journal of Electronics and Advanced Electrical Engineering.
 7. 周凯, 2017-2021, 本科，发表1篇IEEE International Conference on Image Processing (ICIP) 信号处理旗舰会议论文, Poster Presentation
 
 ## Communication Email
-zhuangpeixian0624@163.com
+**zhuangpeixian0624@163.com**
 
 ## Communication Address
-Department of Automation, Tsinghua University, Beijing 100084, China
+**Department of Automation, Tsinghua University, Beijing 100084, China**
