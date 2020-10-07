@@ -70,7 +70,7 @@
 6. 国家自然科学基金面上项目（No. 61671309），基于有限新息率理论的高分辨率工业超声成像重构算法研究，2016 – 2019，参与人，结题
 7. 国家自然科学基金面上项目（No. 61172179），基于非参数层次贝叶斯模型的自适应字典稀疏表示方法及应用，2012 – 2015，参与人，结题
 
-### Journal Reviewer
+### Journal Reviewers
 IEEE Transactions on Circuits and Systems for Video Technology（视频处理与多媒体领域TOP期刊）, 
 IEEE Transactions on Cybernetics（控制论领域TOP期刊）, 
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing（遥感信息处理领域权威期刊）,
@@ -82,7 +82,7 @@ EURASIP Journal on Wireless Communications and Networking,
 Big Data Research, 
 Journal of Computational Methods in Sciences and Engineering，etc.
 
-### Conference Reviewer
+### Conference Reviewers
 2021 AAAI Conference on Artificial Intelligence (AAAI)(人工智能领域TOP会议), 
 2020 and 2019 IEEE International Conference on Multimedia and Expo (ICME)（多媒体领域TOP会议）, 
 2021 and 2020 International Conference on Image and Graphics Processing, 
@@ -96,19 +96,41 @@ Journal of Computational Methods in Sciences and Engineering，etc.
 2018 IEEE International Conference on Wireless Communications and Signal Processing, 
 2020 and 2018 International Conference on Artificial Intelligence and Security，etc.
 
-### Journal Editor
+### Journal Editors
 Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization,
 Journal of Electronics and Advanced Electrical Engineering.
 
-### Conference Technical Committee 
+### Conference Technical Committees 
 2019 and 2020 IEEE International Conference on Signal and Image Processing (Image Processing II Session Chair, and TC member), 
 2020 and 2021 International Conference on Image and Graphics Processing (TC member),
-2021 International Conference on Virtual Reality (TC member), 
-2020 IEEE International Conference on Signal and Image Processing (TC member), 
+2021 International Conference on Virtual Reality (TPC member), 
+2020 and 2021 IEEE International Conference on Signal and Image Processing (TC member), 
 2020 International Conference on Vision, Image and Signal Processing (TC member), 
-2020 International Conference on Medical Science and Biomedical Engineering (TC member), 
+2020 International Conference on Medical Science and Biomedical Engineering (TPC member), 
 2020 International Conference on Computer Science and Electronics& Electrical Engineering (TC member), 
-2020 International Conference on Modern Management based on Big Data (TC member), 
+2020 International Conference on Modern Management based on Big Data (TPC member), 
 2020 International Conference on Information Security and Privacy Protection (TC member), etc.
+
+## Group Members
+1. 戴于翔, 2017-2020，硕士，发表1篇JCR3区SCI期刊论文（核磁成像TOP期刊Magnetic Resonance Imaging）, 2019研究生国家奖学金，目前在复旦大学攻读博士（博导: 王鹤
+研究员）
+2. 郭彭浩，2018-2021，硕士，发表1篇JCR2区遥感信息处理权威SCI期刊（IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing），
+1篇International Conference on Image and Graphics Processing (ICIGP) 图像与图形处理国际会议论文, Oral Presentation
+3. 叶飞, 2016-2019，硕士，发表1篇JCR2区SCI期刊论文（CCF推荐Signal Processing: Image Communication）, 目前在南京理工大学攻读博士（博导: 吴泽彬教授）
+4. 李撼宇, 2017-2020，硕士，1篇JCR2区海洋工程TOP SCI期刊（IEEE Journal of Oceanic Engineering）, 1篇CCF推荐IEEE International Symposium on Parallel and Distributed Processing with Applications（ISPA）国际会议论文，南京理工大学攻读博士（博导：唐镇民教授）
+5. 赵正杰, 2016-2020, 本科，发表1篇CCF推荐IEEE International Symposium on Parallel and Distributed Processing with Applications（ISPA）国际会议论文，目前在纽约大学
+攻读硕士
+6. 熊佳颖，2017-2021, 本科，发表1篇IEEE International Conference on Image Processing (ICIP) 信号处理旗舰会议论文, Poster Presentation; 1篇IEEE International Conference on Signal and Image Processing (ICSIP) 信号与图像处理国际会议论文, Oral Presentation, 已保研，南京大学攻读硕士	
+7. 周凯, 2017-2021, 本科，发表1篇IEEE International Conference on Image Processing (ICIP) 信号处理旗舰会议论文, Poster Presentation
+
+
+
+
+
+
+
+
+
+
 
 
