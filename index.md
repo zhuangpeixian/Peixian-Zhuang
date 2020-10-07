@@ -71,9 +71,44 @@
 7. 国家自然科学基金面上项目（No. 61172179），基于非参数层次贝叶斯模型的自适应字典稀疏表示方法及应用，2012 – 2015，参与人，结题
 
 ### Journal Reviewer
+IEEE Transactions on Circuits and Systems for Video Technology（视频处理与多媒体领域TOP期刊）, 
+IEEE Transactions on Cybernetics（控制论领域TOP期刊）, 
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing（遥感信息处理领域权威期刊）,
+Knowledge-Based Systems（人工智能TOP期刊）, 
+Signal Processing（信号处理TOP期刊）, 
+Engineering Applications of Artificial Intelligence, 
+Magnetic Resonance Imaging（核磁共振成像TOP期刊）,
+EURASIP Journal on Wireless Communications and Networking,
+Big Data Research, 
+Journal of Computational Methods in Sciences and Engineering，etc.
 
 ### Conference Reviewer
+2021 AAAI Conference on Artificial Intelligence (AAAI)(人工智能领域TOP会议), 
+2020 and 2019 IEEE International Conference on Multimedia and Expo (ICME)（多媒体领域TOP会议）, 
+2021 and 2020 International Conference on Image and Graphics Processing, 
+2020 and 2019 IEEE International Conference on Signal and Image Processing, 
+2020 International Conference on Vision, Image and Signal Processing, 
+2020 International Conference on Biological Information and Biomedical Engineering, 
+2020 International Conference on Fuzzy Systems and Data Mining, 
+2020 International Conference on Machine Learning and Intelligent Systems, 
+2019 IEEE International Symposium on Parallel and Distributed Processing with Applications, 
+2019 International Conference on Computer Science and Application Engineering, 
+2018 IEEE International Conference on Wireless Communications and Signal Processing, 
+2020 and 2018 International Conference on Artificial Intelligence and Security，etc.
 
 ### Journal Editor
+Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization,
+Journal of Electronics and Advanced Electrical Engineering.
 
-### Conference 
+### Conference Technical Committee 
+2019 and 2020 IEEE International Conference on Signal and Image Processing (Image Processing II Session Chair, and TC member), 
+2020 and 2021 International Conference on Image and Graphics Processing (TC member),
+2021 International Conference on Virtual Reality (TC member), 
+2020 IEEE International Conference on Signal and Image Processing (TC member), 
+2020 International Conference on Vision, Image and Signal Processing (TC member), 
+2020 International Conference on Medical Science and Biomedical Engineering (TC member), 
+2020 International Conference on Computer Science and Electronics& Electrical Engineering (TC member), 
+2020 International Conference on Modern Management based on Big Data (TC member), 
+2020 International Conference on Information Security and Privacy Protection (TC member), etc.
+
+
