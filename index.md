@@ -3,10 +3,6 @@
 ## Peixian Zhuang （庄培显）
 **Postdoctoral Fellow (博士后研究员, 助理研究员), advised by Prof. Qionghai Dai (中国工程院院士、国务院参事、CAAI理事长、清华大学信息学院院长), Tsinghua University（清华大学）**. **IEEE, CCF and CAAI Member**. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the **Best PhD. Thesis Award in Fujian Province**（**福建省优秀博士学位论文**）in 2017. From 2017.02 to 2020.07, I am a Lecturer and Master Supervisor in the School of Electronic and Information Engineering, Nanjing University of Information Science and Technology. My research interests focus on Bayesian modeling, sparse image representation and deep learning, including image restoration, image naturalization, medical image reconstruction, remote sensing fusion, and underwater image enhancement, and so on.
 
-### Google Citation：178+.   
-### SCI IF：40+
-Website: http://www.escience.cn/people/zhuangpeixian/index.html
-
 ### Last News
 0. Lastest News: I will be honor to join the BBNC lab (http://media.au.tsinghua.edu.cn/) as a Postdoctoral Fellow, advised by Prof. Qionghai Dai！
 1. Recent News: I am honor to be an Editor Board Member for Journal of Electronics and Advanced Electrical Engineering, and an Associate Editor for Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization! Hope you will contribute your manuscript on these journals!
@@ -28,5 +24,36 @@ Website: http://www.escience.cn/people/zhuangpeixian/index.html
 17. I am a winner of the Best PhD. Thesis Award in Fujian Province in 2017 (福建省优秀博士学位论文)!
 18. I win the National Natural Science Foundation of China under Grant (国家自然科学基金青年项目, No. 61701245, 2018.01-2020.12)！
 
+### Google Citation：178+.   
+### SCI IF：40+
+
+### Publications
+0. Peixian Zhuang, Kai Zhou. MGF: An algorithm for compressed sensing MRI with gradient domain guided image filtering. Oral Presentation, International Conference on Image and Graphics Processing (ICIGP), 2021. (EI, 图像与图形处理国际会议)
+1. Kai Zhou, Peixian Zhuang*(co-first author), Jiaying Xiong, Jin Zhao, Muyao Du. Blind Image Deblurring with Joint Extreme Channels and L0-Regularized Intensity and Gradient Priors. IEEE International Conference on Image Processing (IEEE ICIP), Accepted, 2020. (EI, CCF推荐, 信号处理旗舰会议)
+2. Jiaying Xiong, Peixian Zhuang*(co-first author), Yanan Zhang. An Efficient Underwater Image Enhancement Model with Extensive Beer-Lambert Law. IEEE International Conference on Image Processing (IEEE ICIP), Accepted, 2020. (EI, CCF推荐, 信号处理旗舰会议) 
+3. Haopeng Guo, Peixian Zhuang*(co-first author), Yecai Guo. Bayesian Pan-sharpening with Multi-order Gradient-based Deep Network Constraints. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol.13, pp. 950-962, 2020. (SCI, JCR2, IF: 3.392)
+4. Peixian Zhuang*, and Xinghao Ding. Underwater Image Enhancement Using An Edge-Preserving Filtering Retinex Algorithm. Multimedia Tools and Applications, vol 79, pp. 17279, 2020. (SCI, JCR4, CCF推荐, IF: 2.313)
+5. Yecai Guo*, Haiyu Li, and Peixian Zhuang. Underwater Image Enhancement Using a Multi-Scale Dense Generative Adversarial Network. IEEE Journal of Oceanic Engineering, vol. 45, no. 3, pp. 862-870, 2020. (海洋工程TOP期刊, SCI, JCR2, IF: 3.005)
+6. Peixian Zhuang*, Haopeng Guo, Yuxiang Dai. An Enhancing Approach for Typhoon Cloud Image. Oral Presentation, International Conference on Image and Graphics Processing (ICIGP), 2020. (EI, 图像与图形处理国际会议)
+7. Peixian Zhuang*, Xinghao Ding. Divide-and-Conquer Framework for Image Restoration and Enhancement. Engineering Applications of Artificial Intelligence, vol. 85, pp. 830-844, 2019. (SCI, JCR2, CCF推荐, IF: 4.201)
+8. Peixian Zhuang*, Xiaowen Zhu, and Xinghao Ding.  MRI Reconstruction with an Edge-Preserving Filtering Prior. Signal Processing, vol. 155, pp. 346-357, 2019. (信号处理TOP期刊, SCI, JCR1, CCF推荐, IF: 4.384) 
+9. Peixian Zhuang*, Qingshan Liu, and Xinghao Ding. Pan-GGF: A Probabilistic Method for Pan-Sharpening With Gradient Domain Guided Image Filtering. Signal Processing, vol. 156, pp. 177-190, 2019. (信号处理TOP期刊, SCI, JCR1, CCF推荐, IF: 4.384) 
+10. Peixian Zhuang*, Xinghao Ding. Compressed Sensing MRI with Joint Image-Level and Patch-Level Priors. IEEE International Conference on Image Processing (IEEE ICIP), pp. 2080-2084, 2019. (EI, CCF推荐, 信号处理旗舰会议) 
+11. Yuxiang Dai, Peixian Zhuang*. Compressed Sensing MRI via a Multi-scale Dilated Residual Convolution Network. Magnetic Resonance Imaging, vol. 63, pp. 93-104, 2019. (SCI, JCR4, IF: 2.053)
+12. Fei Ye, Yecai Guo*, Peixian Zhuang. Pansharpening via a Gradient-based Deep Network Prior. Signal Processing: Image Communication, vol. 74, pp. 322-331, 2019. (SCI, JCR2, CCF推荐, IF: 2.779) 
+13. Zhengjie Zhao, Yixiang Dai, Peixian Zhuang*. Underwater Image Enhancement with a Total Generalized Variation Illumination Prior. 2019 IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA). (EI, CCF推荐, 并行和分布式应用处理国际会议) 
+14. Haiyu Li, Peixian Zhuang*, Wei Wang, Jingjing Li. Underwater Image Enhancement based on Dehazing and Color Correction. 2019 IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA). (EI, CCF推荐, 并行和分布式应用处理国际会议) 
+15. Peixian Zhuang*. Pan-sharpening with a Gradient Domain Guided Image Filtering Prior. Oral Presentation, IEEE International Conference on Signal and Image Processing (IEEE ICSIP), pp. 1031-1036, 2019. (EI, 信号与图像处理国际会议) 
+16. Jiaying Xiong, Yuxiang Dai, Peixian Zhuang*. Underwater Image Enhancement by Gaussian Curvature Filter. Oral Presentation, IEEE International Conference on Signal and Image Processing (IEEE ICSIP), pp. 1026-1030, 2019. (EI, 信号与图像处理国际会议) 
+17. Peixian Zhuang*, Xinghao Ding, Jinming Duan. Subspace-based Non-blind Deconvolution. 2019 International Conference on Artificial Intelligence and Security (ICAIS), and have been recommended to be published on Mathematical Biosciences and Engineering. (SCI, JCR4, IF: 1.285) 
+18. Pengfei Xiao, Yecai Guo*, Peixian Zhuang. Removing Stripe Noise from Infrared Cloud Images via Deep Convolutional Networks. IEEE Photonics Journal, vol. 10, no. 4, 2018. (SCI, JCR3, IF: 2.833) 
+19. Peixian Zhuang, Xueyang Fu, Yue Huang, Xinghao Ding*. Image Enhancement Using Divide-and-Conquer Strategy. Journal of Visual Communication and Image Representation, vol. 45, pp. 137-146, 2017. (SCI, JCR3, CCF推荐, IF: 2.479)
+20. Peixian Zhuang, Yue Huang, Delu Zeng, Xinghao Ding*. Non-Blind Deconvolution with L1-Norm of High-Frequency Fidelity. Multimedia Tools and Applications, vol. 76, no. 22, pp. 23607-23625, 2017. (SCI, JCR4, CCF推荐, IF: 2.313)
+21. Peixian Zhuang, Yue Huang, Delu Zeng, Xinghao Ding*. Mixed Noise Removal Based on A Novel Non-parametric Bayesian Sparse Outlier Model. Neurocomputing, vol. 174, pp. 858-865, 2016. (人工智能TOP期刊, SCI, JCR2, CCF推荐, IF: 4.438) 
+22. Peixian Zhuang, Xueyang Fu, Yue Huang, Delu Zeng, Xinghao Ding*. A Novel Framework Method for Non-Blind Deconvolution Using Subspace Images Priors. Signal Processing: Image Communication, vol. 46, pp. 17-26, 2016. (SCI, JCR2, CCF推荐, IF: 2.779).
+23. Xueyang Fu, Peixian Zhuang, Yue Huang, Yinghao Liao, Xiao-Ping Zhang, Xinghao Ding*. A retinex-based enhancing approach for single underwater image. IEEE International Conference on Image Processing (IEEE ICIP), pp. 4572-4576, 2014. (EI, CCF推荐, 信号处理旗舰会议) 
+24. Peixian Zhuang, Wei Wang, Delu Zeng, Xinghao Ding*. Robust Mixed Noise Removal with Non-parametric Bayesian Sparse Outlier Model. IEEE International Workshop on Multimedia Signal Processing (IEEE MMSP), pp. 1-5, 2014. (EI)
+25. Shengkui Dai*, Peixian Zhuang, Wenjie Xiang. GSO: An improved PSO based on geese flight theory. International Conference in Swarm Intelligence (ICSI), pp. 87-95, 2013. 
+26. Peixian Zhuang, Shengkui Dai*. Improved Geese Swarm Optimization Algorithm Based on Gaussian Weighted Sum. Computer Science, vol. 40, no. Z6, pp. 87-89, 2013.
 
 
