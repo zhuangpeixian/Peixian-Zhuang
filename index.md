@@ -123,14 +123,8 @@ Journal of Electronics and Advanced Electrical Engineering.
 6. 熊佳颖，2017-2021, 本科，发表1篇IEEE International Conference on Image Processing (ICIP) 信号处理旗舰会议论文, Poster Presentation; 1篇IEEE International Conference on Signal and Image Processing (ICSIP) 信号与图像处理国际会议论文, Oral Presentation, 已保研，南京大学攻读硕士	
 7. 周凯, 2017-2021, 本科，发表1篇IEEE International Conference on Image Processing (ICIP) 信号处理旗舰会议论文, Poster Presentation
 
+## Communication Email
+zhuangpeixian0624@163.com
 
-
-
-
-
-
-
-
-
-
-
+## Communication Address
+Department of Automation, Tsinghua University, Beijing 100084, China
