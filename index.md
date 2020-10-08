@@ -17,7 +17,7 @@
 10. One paper titled “Underwater Image Enhancement Using a Multi-Scale Dense Generative Adversarial Network” has been accepted on IEEE Journal of Oceanic Engineering (海洋工程TOP期刊, SCI JCR 2区, IF：2. 435) !
 11. I am honor to be the Session Chair (Image Processing II) and a member of Technical Committee on 2019 IEEE International Conference on Signal and Image Processing (IEEE ICSIP, 信号与图像处理国际EI会议) ！
 12. Two papers titled “Pan-sharpening with a Gradient Domain Guided Image Filtering Prior” and “Underwater Image Enhancement by Gaussian Curvature Filter” have been accepted on 2019 IEEE International Conference on Signal and Image Processing, Oral Presentation (IEEE ICSIP, 信号与图像处理国际EI会议) ！
-13. One paper titled “Compressed Sensing MRI via a Multi-scale Dilated Residual Convolution Network” has been accepted on Magnetic Resonance Imaging (SCI JCR 3区, IF：2.564) !
+13. One paper titled “Compressed Sensing MRI via a Multi-scale Dilated Residual Convolution Network” has been accepted on Magnetic Resonance Imaging (核磁共振成像TOP期刊, SCI JCR 4区, IF：2.564) !
 14. One paper titled “Pan-sharpening via a gradient-based deep network prior” has been accepted on Signal Processing: Image Communications (SCI JCR 2区, CCF推荐, IF：2. 814) !
 15. One paper titled “Removing Stripe Noise from Infrared Cloud Image via Deep Convolutional Network” has been accepted on IEEE Photonics Journal (SCI JCR 3区, IF：2. 627) !
 16. I win to be a Professional Master Supervisor in School of Electronic and Information Engineering, Nanjing University of Information Science and Technology (2017.02-2020.02)!
@@ -39,7 +39,7 @@
 8. **Peixian Zhuang***, Xiaowen Zhu, and Xinghao Ding.  MRI Reconstruction with an Edge-Preserving Filtering Prior. Signal Processing, vol. 155, pp. 346-357, 2019. (信号处理TOP期刊, SCI, JCR1, CCF推荐, IF: 4.384) 
 9. **Peixian Zhuang***, Qingshan Liu, and Xinghao Ding. Pan-GGF: A Probabilistic Method for Pan-Sharpening With Gradient Domain Guided Image Filtering. Signal Processing, vol. 156, pp. 177-190, 2019. (信号处理TOP期刊, SCI, JCR1, CCF推荐, IF: 4.384) 
 10. **Peixian Zhuang***, Xinghao Ding. Compressed Sensing MRI with Joint Image-Level and Patch-Level Priors. IEEE International Conference on Image Processing (IEEE ICIP), pp. 2080-2084, 2019. (EI, CCF推荐, 信号处理旗舰会议) 
-11. Yuxiang Dai, **Peixian Zhuang***. Compressed Sensing MRI via a Multi-scale Dilated Residual Convolution Network. Magnetic Resonance Imaging, vol. 63, pp. 93-104, 2019. (SCI, JCR4, IF: 2.053)
+11. Yuxiang Dai, **Peixian Zhuang***. Compressed Sensing MRI via a Multi-scale Dilated Residual Convolution Network. Magnetic Resonance Imaging, vol. 63, pp. 93-104, 2019. (核磁共振成像TOP期刊, SCI, JCR4, IF: 2.053)
 12. Fei Ye, Yecai Guo*, **Peixian Zhuang**. Pansharpening via a Gradient-based Deep Network Prior. Signal Processing: Image Communication, vol. 74, pp. 322-331, 2019. (SCI, JCR2, CCF推荐, IF: 2.779) 
 13. Zhengjie Zhao, Yixiang Dai, **Peixian Zhuang***. Underwater Image Enhancement with a Total Generalized Variation Illumination Prior. 2019 IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA). (EI, CCF推荐, 并行和分布式应用处理国际会议) 
 14. Haiyu Li, **Peixian Zhuang***, Wei Wang, Jingjing Li. Underwater Image Enhancement based on Dehazing and Color Correction. 2019 IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA). (EI, CCF推荐, 并行和分布式应用处理国际会议) 
@@ -58,7 +58,7 @@
 
 ### Submissions
 27.	Haiyu Li, Peixian Zhuang*, DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Major Revision, Signal Processing: Image Communication. (SCI, JCR2, CCF推荐, IF: 2.779).
-28. Peixian Zhuang*, Xinghao Ding. Bayesian Retinex Underwater Image Enhancement. Submitted to Information Sciences. (计算智能TOP期刊, SCI, JCR1, CCF推荐, IF: 5.91) 
+28. Peixian Zhuang*, Xinghao Ding. Bayesian Retinex Underwater Image Enhancement. Submitted to Artificial Intelligence. (人工智能TOP期刊, SCI, JCR2, CCF推荐, IF: 6.628) 
 
 ### Projects
 0. 国家自然科学基金重大科研仪器设备研制专项（No. 20161311307），多维多尺度高分辨率计算摄像仪器，2017 – 2021，参与人，在研
@@ -76,8 +76,8 @@ IEEE Transactions on Cybernetics（控制论领域TOP期刊）,
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing（遥感信息处理领域权威期刊）,
 Knowledge-Based Systems（人工智能TOP期刊）, 
 Signal Processing（信号处理TOP期刊）, 
-Engineering Applications of Artificial Intelligence, 
 Magnetic Resonance Imaging（核磁共振成像TOP期刊）,
+Engineering Applications of Artificial Intelligence, 
 EURASIP Journal on Wireless Communications and Networking,
 Big Data Research, 
 Journal of Computational Methods in Sciences and Engineering, etc.
@@ -112,7 +112,7 @@ Journal of Electronics and Advanced Electrical Engineering.
 2020 International Conference on Information Security and Privacy Protection (TC member), etc.
 
 ## Group Members
-1. 戴于翔, 2017-2020，硕士，发表1篇JCR3区SCI期刊论文（核磁成像TOP期刊Magnetic Resonance Imaging）, 2019研究生国家奖学金，目前在复旦大学攻读博士（博导: 王鹤
+1. 戴于翔, 2017-2020，硕士，发表1篇JCR4区SCI期刊论文（核磁成像TOP期刊Magnetic Resonance Imaging）, 2019研究生国家奖学金，目前在复旦大学攻读博士（博导: 王鹤
 研究员）
 2. 郭彭浩，2018-2021，硕士，发表1篇JCR2区遥感信息处理权威SCI期刊（IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing），
 1篇International Conference on Image and Graphics Processing (ICIGP) 图像与图形处理国际会议论文, Oral Presentation
