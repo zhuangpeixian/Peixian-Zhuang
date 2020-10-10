@@ -55,10 +55,11 @@
 24. **Peixian Zhuang**, Wei Wang, Delu Zeng, Xinghao Ding*. Robust Mixed Noise Removal with Non-parametric Bayesian Sparse Outlier Model. IEEE International Workshop on Multimedia Signal Processing (IEEE MMSP), pp. 1-5, 2014. (EI)
 25. Shengkui Dai*, **Peixian Zhuang**, Wenjie Xiang. GSO: An improved PSO based on geese flight theory. International Conference in Swarm Intelligence (ICSI), pp. 87-95, 2013. 
 26. **Peixian Zhuang**, Shengkui Dai*. Improved Geese Swarm Optimization Algorithm Based on Gaussian Weighted Sum. Computer Science, vol. 40, no. Z6, pp. 87-89, 2013.
+27. **Peixian Zhuang**, Shengkui Dai*. Pedestrian Tracking Algorithm Based on Modified Particle Filtering. Communications Technology, vol. 45, no. 12, pp. 95-97, 2012.
 
 ### Submissions
-27.	Haiyu Li, Peixian Zhuang*, DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Major Revision, Signal Processing: Image Communication. (SCI, JCR2, CCF推荐, IF: 2.779).
-28. Peixian Zhuang*, Xinghao Ding. Bayesian Retinex Underwater Image Enhancement. Submitted to Artificial Intelligence. (人工智能TOP期刊, SCI, JCR2, CCF推荐, IF: 6.628) 
+28.	Haiyu Li, Peixian Zhuang*, DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Major Revision, Signal Processing: Image Communication. (SCI, JCR2, CCF推荐, IF: 2.779).
+29. Peixian Zhuang*, Xinghao Ding. Bayesian Retinex Underwater Image Enhancement. Submitted to Artificial Intelligence. (人工智能TOP期刊, SCI, JCR2, CCF推荐, IF: 6.628) 
 
 ### Projects
 0. 国家自然科学基金重大科研仪器设备研制专项（No. 20161311307），多维多尺度高分辨率计算摄像仪器，2017 – 2021，参与人，在研
