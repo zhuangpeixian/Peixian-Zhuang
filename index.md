@@ -80,6 +80,7 @@ Magnetic Resonance Imaging（核磁共振成像TOP期刊）,
 Engineering Applications of Artificial Intelligence, 
 EURASIP Journal on Wireless Communications and Networking,
 Big Data Research, 
+Journal of Healthcare Engineering,
 Journal of Computational Methods in Sciences and Engineering, etc.
 
 ### Conference Reviewers
