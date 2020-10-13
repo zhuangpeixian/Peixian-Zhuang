@@ -23,7 +23,7 @@
 17. I am a winner of the Best PhD. Thesis Award in Fujian Province in 2017 (福建省优秀博士学位论文)!
 18. I win the National Natural Science Foundation of China under Grant (国家自然科学基金青年项目, No. 61701245, 2018.01-2020.12)！
 
-### Google Citation：178+.   
+### Google Citation：179+.   
 ### SCI IF：40+
 
 ### Publications
@@ -58,7 +58,7 @@
 
 ### Submissions
 28.	Haiyu Li, Peixian Zhuang*, DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Major Revision, Signal Processing: Image Communication. (SCI, JCR2, CCF推荐, IF: 2.779).
-29. Peixian Zhuang*, Xinghao Ding. Bayesian Retinex Underwater Image Enhancement. Submitted to Artificial Intelligence. (人工智能TOP期刊, SCI, JCR2, CCF推荐, IF: 6.628) 
+29. Peixian Zhuang*, Xinghao Ding. Bayesian Retinex Underwater Image Enhancement. Submitted to Ocean Engineering. (海洋工程TOP期刊, SCI, JCR2, CCF推荐, IF: 3.068) 
 
 ### Projects
 0. 国家自然科学基金重大科研仪器设备研制专项（No. 20161311307），多维多尺度高分辨率计算摄像仪器，2017 – 2021，参与人，在研
@@ -87,7 +87,8 @@ Journal of Computational Methods in Sciences and Engineering, etc.
 2021 AAAI Conference on Artificial Intelligence (AAAI)(人工智能领域TOP会议), 
 2020 and 2019 IEEE International Conference on Multimedia and Expo (ICME)（多媒体领域TOP会议）, 
 2021 and 2020 International Conference on Image and Graphics Processing, 
-2020 and 2019 IEEE International Conference on Signal and Image Processing, 
+2020 and 2019 IEEE International Conference on Signal and Image Processing,
+2021 Asia Symposium on Image Processing,
 2020 International Conference on Vision, Image and Signal Processing, 
 2020 International Conference on Biological Information and Biomedical Engineering, 
 2020 International Conference on Fuzzy Systems and Data Mining, 
