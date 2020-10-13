@@ -58,7 +58,7 @@
 
 ### Submissions
 28.	Haiyu Li, Peixian Zhuang*, DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Major Revision, Signal Processing: Image Communication. (SCI, JCR2, CCF推荐, IF: 2.779).
-29. Peixian Zhuang*, Xinghao Ding. Bayesian Retinex Underwater Image Enhancement. Submitted to Ocean Engineering. (海洋工程TOP期刊, SCI, JCR2, CCF推荐, IF: 3.068) 
+29. Peixian Zhuang*, Xinghao Ding. Bayesian Retinex Underwater Image Enhancement. Submitted to Ocean Engineering. (海洋工程TOP期刊, SCI, JCR1, CCF推荐, IF: 3.068) 
 
 ### Projects
 0. 国家自然科学基金重大科研仪器设备研制专项（No. 20161311307），多维多尺度高分辨率计算摄像仪器，2017 – 2021，参与人，在研
