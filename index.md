@@ -60,6 +60,10 @@
 28.	Haiyu Li, Peixian Zhuang*, DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Major Revision, Signal Processing: Image Communication. (SCI, JCR2, CCF推荐, IF: 2.779).
 29. Peixian Zhuang*, Xinghao Ding. Bayesian Retinex Underwater Image Enhancement. Submitted to Ocean Engineering. (海洋工程TOP期刊, SCI, JCR1, CCF推荐, IF: 3.068) 
 30. Yuxiang Dai, Chenyan Wang, Peixian Zhuang, He Wang. Compressed sensing MRI via a fusion model based on image and gradient priors. Submitted to IEEE Transactions on Biomedical Engineering (生物医学领域权威期刊，SCI, JCR2, IF: 4.424).
+
+### Chinese Patents
+1. 庄培显; 郭彭浩; 戴于翔; 熊佳颖. 一种台风云图增强方法与流程. 发明专利, 申请中（技术公布日：2019.08.27）
+
 ### Projects
 0. 国家自然科学基金重大科研仪器设备研制专项（No. 20161311307），多维多尺度高分辨率计算摄像仪器，2017 – 2021，参与人，在研
 1. 国家自然科学基金青年基金（No. 61701245），基于非参数层次贝叶斯景深估计模型的水下降质图像质量提升研究，2018 – 2020，主持人，在研
