@@ -27,8 +27,8 @@
 ### SCI IF：40+
 
 ### Publications
-1. Peixian Zhuang*, Xinghao Ding. Bayesian Retinex Underwater Image Enhancement. Submitted to Ocean Engineering. (海洋工程TOP期刊, SCI, JCR1, CCF推荐, IF: 3.068) 
-2.	Haiyu Li, Peixian Zhuang*, DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Major Revision, Signal Processing: Image Communication. (SCI, JCR2, CCF推荐, IF: 2.779).
+1. Peixian Zhuang*, Xinghao Ding. ** Underwater Image Enhancement. Submitted to ****** (信号处理TOP期刊, SCI, JCR1, CCF推荐, IF: *) 
+2. Haiyu Li, Peixian Zhuang*, DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Major Revision, Signal Processing: Image Communication. (SCI, JCR2, CCF推荐, IF: 2.779).
 3. Yuxiang Dai, Chenyan Wang, Peixian Zhuang, He Wang. Compressed sensing MRI via a fusion model based on image and gradient priors. Submitted to IEEE Transactions on Biomedical Engineering (生物医学领域权威期刊，SCI, JCR2, IF: 4.424).
 4. **Peixian Zhuang***, Kai Zhou. MGF: An algorithm for compressed sensing MRI with gradient domain guided image filtering. Accepted, Oral Presentation, International Conference on Image and Graphics Processing (ICIGP), 2021. (EI, 图像与图形处理国际会议)
 5. Kai Zhou, **Peixian Zhuang***(co-first author), Jiaying Xiong, Jin Zhao, Muyao Du. Blind Image Deblurring with Joint Extreme Channels and L0-Regularized Intensity and Gradient Priors. IEEE International Conference on Image Processing (IEEE ICIP), pp. 473-478, 2020. (EI, CCF推荐, 信号处理旗舰会议)
