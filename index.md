@@ -57,6 +57,7 @@
 28. **Peixian Zhuang**, Wei Wang, Delu Zeng, Xinghao Ding*. Robust Mixed Noise Removal with Non-parametric Bayesian Sparse Outlier Model. IEEE International Workshop on Multimedia Signal Processing (IEEE MMSP), pp. 1-5, 2014. (EI)
 29. Shengkui Dai*, **Peixian Zhuang**, Wenjie Xiang. GSO: An improved PSO based on geese flight theory. International Conference in Swarm Intelligence (ICSI), pp. 87-95, 2013. 
 30. **Peixian Zhuang**, Shengkui Dai*. Improved Geese Swarm Optimization Algorithm Based on Gaussian Weighted Sum. Computer Science, vol. 40, no. Z6, pp. 87-89, 2013.
+31. **Zhuang Peixian**, Dai Sheng-kui*. Pedestrian Tracking Algorithm based on Modified Particle Filtering. Communications Technology, vol. 45, no.12, pp. 95-97, 2012.
 
 ### Chinese Patents
 1. 庄培显; 郭彭浩; 戴于翔; 熊佳颖. 一种台风云图增强方法与流程. 发明专利, 申请中（技术公布日：2019.08.27）
