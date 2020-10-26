@@ -128,16 +128,16 @@ Journal of Electronics and Advanced Electrical Engineering (Editor).
 7. 周凯, 2017-2021, 本科，发表1篇IEEE International Conference on Image Processing (ICIP) 信号处理旗舰会议论文, Poster Presentation
 
 ## Co-authors and Friends
-1. Xueyang Fu:      University of Science and Technology of China, https://xueyangfu.github.io/
-2. Xinghao Ding:    Xiamen University, https://xmu-smartdsp.github.io/teamindex/xhding.html
-3. Yue Huang:       Xiamen University, https://huangyue05.github.io/
-4. Liyan Sun:       Xiamen University, https://lynnsunxmu.github.io/
-5. Xiaoyan Kuai：  University of Electronic Science and Technology of China，http://www.ncl.uestc.edu.cn/info/1082/1746.htm
-6. Yunquan Dong:    Nanjing University of Information Science and Technology, https://dxy.nuist.edu.cn/info/1071/1885.htm
-7. Yecai Guo:       Nanjing University of Information Science and Technology, https://dxy.nuist.edu.cn/info/1071/1888.htm
-8. Qingshan Liu:    Nanjing University of Information Science and Technology, https://faculty.nuist.edu.cn/liuqingshan/zh_CN/index.htm
-9. Qing Tian：      Nanjing University of Information Science and Technology, https://www.x-mol.com/university/faculty/136659
-10. Taotao Lai：   Mingjing University, http://ccce.mju.edu.cn/2019/0613/c2248a72571/page.htm
+1. Xueyang Fu: https://xueyangfu.github.io/
+2. Xinghao Ding: https://xmu-smartdsp.github.io/teamindex/xhding.html
+3. Yue Huang: https://huangyue05.github.io/
+4. Liyan Sun: https://lynnsunxmu.github.io/
+5. Xiaoyan Kuai: http://www.ncl.uestc.edu.cn/info/1082/1746.htm
+6. Liangjian Deng: http://www.math.uestc.edu.cn/info/1082/2114.htm
+7. Yunquan Dong: https://dxy.nuist.edu.cn/info/1071/1885.htm
+8. Yecai Guo: https://dxy.nuist.edu.cn/info/1071/1888.htm
+9. Qingshan Liu: https://faculty.nuist.edu.cn/liuqingshan/zh_CN/index.htm
+10. Taotao Lai: http://ccce.mju.edu.cn/2019/0613/c2248a72571/page.htm
 
 ## Communication Email
 **zhuangpeixian0624@163.com**
