@@ -129,15 +129,25 @@ Journal of Electronics and Advanced Electrical Engineering (Editor).
 
 ## Co-authors and Friends
 Xueyang Fu:      University of Science and Technology of China, https://xueyangfu.github.io/
+
 Xinghao Ding:    Xiamen University, https://xmu-smartdsp.github.io/teamindex/xhding.html
+
 Yue Huang:       Xiamen University, https://huangyue05.github.io/
+
 Liyan Sun:       Xiamen University, https://lynnsunxmu.github.io/
+
 Lianghjian Deng：University of Electronic Science and Technology of China，http://www.math.uestc.edu.cn/info/1079/1988.htm 
+
 Xiaoyan Kuai：   University of Electronic Science and Technology of China，http://www.ncl.uestc.edu.cn/info/1082/1746.htm
+
 Yunquan Dong:    Nanjing University of Information Science and Technology, https://dxy.nuist.edu.cn/info/1071/1885.htm
+
 Yecai Guo:       Nanjing University of Information Science and Technology, https://dxy.nuist.edu.cn/info/1071/1888.htm
+
 Qingshan Liu:    Nanjing University of Information Science and Technology, https://faculty.nuist.edu.cn/liuqingshan/zh_CN/index.htm
+
 Qing Tian：      Nanjing University of Information Science and Technology, https://www.x-mol.com/university/faculty/136659
+
 Taotao Lai：     Mingjing University, http://ccce.mju.edu.cn/2019/0613/c2248a72571/page.htm
 
 ## Communication Email
