@@ -109,6 +109,7 @@ Journal of Electronics and Advanced Electrical Engineering (Editor).
 2020 and 2021 International Conference on Image and Graphics Processing (TC member),
 2021 International Conference on Virtual Reality (TPC member), 
 2020 and 2021 IEEE International Conference on Signal and Image Processing (TC member), 
+2021 International Conference on Electronics, Communications and Networks (TPC member),
 2020 International Conference on Vision, Image and Signal Processing (TC member), 
 2020 International Conference on Medical Science and Biomedical Engineering (TPC member), 
 2020 International Conference on Computer Science and Electronics& Electrical Engineering (TC member), 
