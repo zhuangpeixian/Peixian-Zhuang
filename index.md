@@ -26,7 +26,8 @@
 ### Google Citation：185+.   
 ### SCI IF：40+
 
-### Publications
+### Publications (* corresponding author)
+0. **Peixian Zhuang***. Bayesian Retinex Underwater Image Enhancement. Submitted to Engineering Applications of Artificial Intelligence (SCI, JCR2, CCF推荐, IF: 4.201)
 1. Yuxiang Dai, Chenyan Wang, **Peixian Zhuang**, He Wang. Compressed sensing MRI via a fusion model based on image and gradient priors. Submitted to IEEE Transactions on Biomedical Engineering (生物医学领域权威期刊，SCI, JCR2, IF: 4.424).
 2. Haiyu Li, **Peixian Zhuang***, DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Major Revision, Signal Processing: Image Communication. (SCI, JCR2, CCF推荐, IF: 2.779).
 3. **Peixian Zhuang***, Kai Zhou. MGF: An algorithm for compressed sensing MRI with gradient domain guided image filtering. Accepted, Oral Presentation, International Conference on Image and Graphics Processing (ICIGP), 2021. (EI, 图像与图形处理国际会议)
