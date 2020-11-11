@@ -63,7 +63,7 @@
 1. 庄培显; 郭彭浩; 戴于翔; 熊佳颖. 一种台风云图增强方法与流程. 发明专利, 申请中（技术公布日：2019.08.27）
 
 ### Projects
-0. 国家自然科学基金重大科研仪器设备研制专项（No. 20161311307），多维多尺度高分辨率计算摄像仪器，2017 – 2021，参与人，在研
+0. 国家自然科学基金重大科研仪器设备研制专项（No. 61327902），多维多尺度高分辨率计算摄像仪器，2017 – 2021，参与人，在研
 1. 国家自然科学基金青年基金（No. 61701245），基于非参数层次贝叶斯景深估计模型的水下降质图像质量提升研究，2018 – 2020，主持人，在研
 2. 国家自然科学基金青年基金（No. 61701247），基于能量采集的无线传感网络中的优化能量控制，2018 – 2020，第一参与人，在研
 3. 国家自然科学基金面上项目（No. 61571382），基于部分K空间数据子空间分解的贝叶斯非参数压缩感知MRI重构方法，2016 – 2019，主研人，结题
@@ -141,7 +141,7 @@ Journal of Electronics and Advanced Electrical Engineering (Editor).
 10. Taotao Lai: http://ccce.mju.edu.cn/2019/0613/c2248a72571/page.htm
 
 ## Communication Email
-**zhuangpeixian0624@163.com**
+**zhuangpeixian0624@163.com**, **zhuangpeixian@mail.tsinghua.edu.cn**
 
 ## Communication Address
 **Department of Automation, Tsinghua University, Beijing 100084, China**
