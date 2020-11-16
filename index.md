@@ -27,10 +27,10 @@
 ### SCI IF：<font color="red">40+</font>+
 
 ### Publications (* corresponding author)
-<font color="red">0. **Peixian Zhuang***. Bayesian Retinex Underwater Image Enhancement. Submitted to Engineering Applications of Artificial Intelligence (SCI, JCR2, CCF推荐, IF: 4.201)
+0. **Peixian Zhuang***. Bayesian Retinex Underwater Image Enhancement. Submitted to Engineering Applications of Artificial Intelligence (SCI, JCR2, CCF推荐, IF: 4.201)
 1. **Peixian Zhuang***. Retinex Underwater Image Enhancement with Multiorder Gradient Priors. Submitted to 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (IEEE ICASSP) (EI, CCF推荐, 信号处理及应用TOP会议). 
 2. Yuxiang Dai, Chenyan Wang, **Peixian Zhuang**, He Wang. Compressed sensing MRI via a fusion model based on image and gradient priors. Submitted to IEEE Transactions on Biomedical Engineering (生物医学领域权威期刊，SCI, JCR2, IF: 4.424).
-3. Haiyu Li, **Peixian Zhuang***, DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Major Revision, Signal Processing: Image Communication. (SCI, JCR2, CCF推荐, IF: 2.779).</font>
+3. Haiyu Li, **Peixian Zhuang***, DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Major Revision, Signal Processing: Image Communication. (SCI, JCR2, CCF推荐, IF: 2.779).
 4. **Peixian Zhuang***, Kai Zhou. MGF: An algorithm for compressed sensing MRI with gradient domain guided image filtering. Accepted, Oral Presentation, International Conference on Image and Graphics Processing (ICIGP), 2021. (EI, 图像与图形处理国际会议)
 5. Kai Zhou, **Peixian Zhuang***(co-first author), Jiaying Xiong, Jin Zhao, Muyao Du. Blind Image Deblurring with Joint Extreme Channels and L0-Regularized Intensity and Gradient Priors. IEEE International Conference on Image Processing (IEEE ICIP), pp. 473-478, 2020. (EI, CCF推荐, 信号处理旗舰会议)
 6. Jiaying Xiong, **Peixian Zhuang***(co-first author), Yanan Zhang. An Efficient Underwater Image Enhancement Model with Extensive Beer-Lambert Law. IEEE International Conference on Image Processing (IEEE ICIP), pp. 493-498, 2020. (EI, CCF推荐, 信号处理旗舰会议) 
@@ -64,8 +64,8 @@
 1. 庄培显; 郭彭浩; 戴于翔; 熊佳颖. 一种台风云图增强方法与流程. 发明专利, 申请中（技术公布日：2019.08.27）
 
 ### Projects
-<font color="red"> 0. 国家自然科学基金重大科研仪器设备研制专项（No. 61327902），多维多尺度高分辨率计算摄像仪器，2017 – 2021，参与人，在研
-1. 国家自然科学基金青年基金（No. 61701245），基于非参数层次贝叶斯景深估计模型的水下降质图像质量提升研究，2018 – 2020，主持人，在研</font>
+0. 国家自然科学基金重大科研仪器设备研制专项（No. 61327902），多维多尺度高分辨率计算摄像仪器，2017 – 2021，参与人，在研
+1. 国家自然科学基金青年基金（No. 61701245），基于非参数层次贝叶斯景深估计模型的水下降质图像质量提升研究，2018 – 2020，主持人，在研
 2. 国家自然科学基金青年基金（No. 61701247），基于能量采集的无线传感网络中的优化能量控制，2018 – 2020，第一参与人，在研
 3. 国家自然科学基金面上项目（No. 61571382），基于部分K空间数据子空间分解的贝叶斯非参数压缩感知MRI重构方法，2016 – 2019，主研人，结题
 4. 国家自然科学基金面上项目（No. 61571005），基于PDE的鲁棒性视觉显著性目标感知先验的图像分割，2016 – 2019，参与人，结题
