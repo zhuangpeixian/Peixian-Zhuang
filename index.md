@@ -23,14 +23,14 @@
 17. I am a winner of the Best PhD. Thesis Award in Fujian Province in 2017 (福建省优秀博士学位论文)!
 18. I win the National Natural Science Foundation of China under Grant (国家自然科学基金青年项目, No. 61701245, 2018.01-2020.12)！
 
-### Google Citation：190+.   
-### SCI IF：40+
+### Google Citation：<font color="red">190+</font>.   
+### SCI IF：<font color="red">40+</font>+
 
 ### Publications (* corresponding author)
-0. **Peixian Zhuang***. Bayesian Retinex Underwater Image Enhancement. Submitted to Engineering Applications of Artificial Intelligence (SCI, JCR2, CCF推荐, IF: 4.201)
-1. **Peixian Zhuang***. Retinex Underwater Image Enhancement with Multiorder Gradient Priors. Submitted to 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (IEEE ICASSP) (EI, CCF推荐, 信号处理及应用顶级会议). 
+<font color="red">0. **Peixian Zhuang***. Bayesian Retinex Underwater Image Enhancement. Submitted to Engineering Applications of Artificial Intelligence (SCI, JCR2, CCF推荐, IF: 4.201)
+1. **Peixian Zhuang***. Retinex Underwater Image Enhancement with Multiorder Gradient Priors. Submitted to 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (IEEE ICASSP) (EI, CCF推荐, 信号处理及应用TOP会议). 
 2. Yuxiang Dai, Chenyan Wang, **Peixian Zhuang**, He Wang. Compressed sensing MRI via a fusion model based on image and gradient priors. Submitted to IEEE Transactions on Biomedical Engineering (生物医学领域权威期刊，SCI, JCR2, IF: 4.424).
-3. Haiyu Li, **Peixian Zhuang***, DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Major Revision, Signal Processing: Image Communication. (SCI, JCR2, CCF推荐, IF: 2.779).
+3. Haiyu Li, **Peixian Zhuang***, DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Major Revision, Signal Processing: Image Communication. (SCI, JCR2, CCF推荐, IF: 2.779).</font>
 4. **Peixian Zhuang***, Kai Zhou. MGF: An algorithm for compressed sensing MRI with gradient domain guided image filtering. Accepted, Oral Presentation, International Conference on Image and Graphics Processing (ICIGP), 2021. (EI, 图像与图形处理国际会议)
 5. Kai Zhou, **Peixian Zhuang***(co-first author), Jiaying Xiong, Jin Zhao, Muyao Du. Blind Image Deblurring with Joint Extreme Channels and L0-Regularized Intensity and Gradient Priors. IEEE International Conference on Image Processing (IEEE ICIP), pp. 473-478, 2020. (EI, CCF推荐, 信号处理旗舰会议)
 6. Jiaying Xiong, **Peixian Zhuang***(co-first author), Yanan Zhang. An Efficient Underwater Image Enhancement Model with Extensive Beer-Lambert Law. IEEE International Conference on Image Processing (IEEE ICIP), pp. 493-498, 2020. (EI, CCF推荐, 信号处理旗舰会议) 
@@ -64,8 +64,8 @@
 1. 庄培显; 郭彭浩; 戴于翔; 熊佳颖. 一种台风云图增强方法与流程. 发明专利, 申请中（技术公布日：2019.08.27）
 
 ### Projects
-0. 国家自然科学基金重大科研仪器设备研制专项（No. 61327902），多维多尺度高分辨率计算摄像仪器，2017 – 2021，参与人，在研
-1. 国家自然科学基金青年基金（No. 61701245），基于非参数层次贝叶斯景深估计模型的水下降质图像质量提升研究，2018 – 2020，主持人，在研
+<font color="red"> 0. 国家自然科学基金重大科研仪器设备研制专项（No. 61327902），多维多尺度高分辨率计算摄像仪器，2017 – 2021，参与人，在研
+1. 国家自然科学基金青年基金（No. 61701245），基于非参数层次贝叶斯景深估计模型的水下降质图像质量提升研究，2018 – 2020，主持人，在研</font>
 2. 国家自然科学基金青年基金（No. 61701247），基于能量采集的无线传感网络中的优化能量控制，2018 – 2020，第一参与人，在研
 3. 国家自然科学基金面上项目（No. 61571382），基于部分K空间数据子空间分解的贝叶斯非参数压缩感知MRI重构方法，2016 – 2019，主研人，结题
 4. 国家自然科学基金面上项目（No. 61571005），基于PDE的鲁棒性视觉显著性目标感知先验的图像分割，2016 – 2019，参与人，结题
@@ -80,7 +80,7 @@ Signal Processing（信号处理TOP期刊）,
 Knowledge-Based Systems（人工智能TOP期刊）, 
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing（遥感信息处理领域权威期刊）,
 Magnetic Resonance Imaging（核磁共振成像权威期刊）,
-Engineering Applications of Artificial Intelligence（人工智能权威期刊）</font>, 
+Engineering Applications of Artificial Intelligence（人工智能权威期刊）,</font>
 EURASIP Journal on Wireless Communications and Networking,
 Big Data Research, 
 Journal of Healthcare Engineering,
@@ -88,7 +88,7 @@ Journal of Computational Methods in Sciences and Engineering, etc.
 
 ### Conference Reviewers
 <font color="red">2021 AAAI Conference on Artificial Intelligence (AAAI)(人工智能领域TOP会议), 
-2021，2020 and 2019 IEEE International Conference on Multimedia and Expo (ICME)（多媒体领域TOP会议 </font>,
+2021，2020 and 2019 IEEE International Conference on Multimedia and Expo (ICME)（多媒体领域TOP会议) ,</font>
 2021 and 2020 International Conference on Image and Graphics Processing, 
 2020 and 2019 IEEE International Conference on Signal and Image Processing,
 2021 Asia Symposium on Image Processing,
