@@ -42,7 +42,7 @@
 12. **Peixian Zhuang***, Xiaowen Zhu, and Xinghao Ding.  MRI Reconstruction with an Edge-Preserving Filtering Prior. Signal Processing, vol. 155, pp. 346-357, 2019. (信号处理TOP期刊, SCI, JCR1, CCF推荐, IF: 4.384) 
 13. **Peixian Zhuang***, Qingshan Liu, and Xinghao Ding. Pan-GGF: A Probabilistic Method for Pan-Sharpening With Gradient Domain Guided Image Filtering. Signal Processing, vol. 156, pp. 177-190, 2019. (信号处理TOP期刊, SCI, JCR1, CCF推荐, IF: 4.384) 
 14. **Peixian Zhuang***, Xinghao Ding. Compressed Sensing MRI with Joint Image-Level and Patch-Level Priors. IEEE International Conference on Image Processing (IEEE ICIP), pp. 2080-2084, 2019. (EI, CCF推荐, 信号处理旗舰会议) 
-15. Yuxiang Dai, **Peixian Zhuang***. Compressed Sensing MRI via a Multi-scale Dilated Residual Convolution Network. Magnetic Resonance Imaging, vol. 63, pp. 93-104, 2019. (核磁共振成像TOP期刊, SCI, JCR4, IF: 2.053)
+15. Yuxiang Dai, **Peixian Zhuang***. Compressed Sensing MRI via a Multi-scale Dilated Residual Convolution Network. Magnetic Resonance Imaging, vol. 63, pp. 93-104, 2019. (核磁共振成像权威期刊, SCI, JCR4, IF: 2.053)
 16. Fei Ye, Yecai Guo*, **Peixian Zhuang**. Pansharpening via a Gradient-based Deep Network Prior. Signal Processing: Image Communication, vol. 74, pp. 322-331, 2019. (SCI, JCR2, CCF推荐, IF: 2.779) 
 17. Zhengjie Zhao, Yixiang Dai, **Peixian Zhuang***. Underwater Image Enhancement with a Total Generalized Variation Illumination Prior. 2019 IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA). (EI, CCF推荐, 并行和分布式应用处理国际会议) 
 18. Haiyu Li, **Peixian Zhuang***, Wei Wang, Jingjing Li. Underwater Image Enhancement based on Dehazing and Color Correction. 2019 IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA). (EI, CCF推荐, 并行和分布式应用处理国际会议) 
@@ -65,7 +65,7 @@
 
 ### Projects
 0. 国家自然科学基金重大科研仪器设备研制专项（No. 61327902），多维多尺度高分辨率计算摄像仪器，2017 – 2021，参与人，在研
-<font color="red">1. 国家自然科学基金青年基金（No. 61701245），基于非参数层次贝叶斯景深估计模型的水下降质图像质量提升研究，2018 – 2020，主持人，在研</font>
+1. 国家自然科学基金青年基金（No. 61701245），基于非参数层次贝叶斯景深估计模型的水下降质图像质量提升研究，2018 – 2020，主持人，在研
 2. 国家自然科学基金青年基金（No. 61701247），基于能量采集的无线传感网络中的优化能量控制，2018 – 2020，第一参与人，在研
 3. 国家自然科学基金面上项目（No. 61571382），基于部分K空间数据子空间分解的贝叶斯非参数压缩感知MRI重构方法，2016 – 2019，主研人，结题
 4. 国家自然科学基金面上项目（No. 61571005），基于PDE的鲁棒性视觉显著性目标感知先验的图像分割，2016 – 2019，参与人，结题
