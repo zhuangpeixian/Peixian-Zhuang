@@ -23,7 +23,7 @@
 17. I am a winner of the Best PhD. Thesis Award in Fujian Province in 2017 (福建省优秀博士学位论文)!
 18. I win the National Natural Science Foundation of China under Grant (国家自然科学基金青年项目, No. 61701245, 2018.01-2020.12)！
 
-### Google Citation：<font color="red">191+</font>   
+### Google Citation：<font color="red">193+</font>   
 ### SCI IF：<font color="red">40+</font>
 
 ### Publications (* corresponding author)
@@ -36,7 +36,7 @@
 6. Jiaying Xiong, **Peixian Zhuang***(co-first author), Yanan Zhang. An Efficient Underwater Image Enhancement Model with Extensive Beer-Lambert Law. IEEE International Conference on Image Processing (IEEE ICIP), pp. 493-498, 2020. (EI, CCF推荐, 信号处理旗舰会议) 
 7. Haopeng Guo, **Peixian Zhuang***(co-first author), Yecai Guo. Bayesian Pan-sharpening with Multi-order Gradient-based Deep Network Constraints. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (遥感信息处理权威期刊), vol.13, pp. 950-962, 2020. (SCI, JCR2, IF: 3.392)
 8. **Peixian Zhuang***, and Xinghao Ding. Underwater Image Enhancement Using An Edge-Preserving Filtering Retinex Algorithm. Multimedia Tools and Applications, vol 79, pp. 17279, 2020. (SCI, JCR4, CCF推荐, IF: 2.313)
-9. Yecai Guo*, Haiyu Li, and **Peixian Zhuang**. Underwater Image Enhancement Using a Multi-Scale Dense Generative Adversarial Network. IEEE Journal of Oceanic Engineering, vol. 45, no. 3, pp. 862-870, 2020. (海洋工程TOP期刊, SCI, JCR2, IF: 3.005) <font color="red">（Cite: 23次, 被TIP2019, PR2019, ICCP2020等TOP期刊与顶级会议引用!）</font>
+9. Yecai Guo*, Haiyu Li, and **Peixian Zhuang**. Underwater Image Enhancement Using a Multi-Scale Dense Generative Adversarial Network. IEEE Journal of Oceanic Engineering, vol. 45, no. 3, pp. 862-870, 2020. (海洋工程TOP期刊, SCI, JCR2, IF: 3.005) <font color="red">（Cite: 24次, 被TIP2019, PR2019, ICCP2020等TOP期刊与顶级会议引用!）</font>
 10. **Peixian Zhuang***, Haopeng Guo, Yuxiang Dai. An Enhancing Approach for Typhoon Cloud Image. Oral Presentation, International Conference on Image and Graphics Processing (ICIGP), 2020. (EI, 图像与图形处理国际会议)
 11. **Peixian Zhuang***, Xinghao Ding. Divide-and-Conquer Framework for Image Restoration and Enhancement. Engineering Applications of Artificial Intelligence, vol. 85, pp. 830-844, 2019. (SCI, JCR2, CCF推荐, IF: 4.201)  <font color="red">（A Summary Paper for Divide-and-Conquer Strategy for Image Processing in Publications 24-27!）</font>
 12. **Peixian Zhuang***, Xiaowen Zhu, and Xinghao Ding.  MRI Reconstruction with an Edge-Preserving Filtering Prior. Signal Processing, vol. 155, pp. 346-357, 2019. (信号处理TOP期刊, SCI, JCR1, CCF推荐, IF: 4.384) 
@@ -49,12 +49,12 @@
 19. **Peixian Zhuang***. Pan-sharpening with a Gradient Domain Guided Image Filtering Prior. Oral Presentation, IEEE International Conference on Signal and Image Processing (IEEE ICSIP), pp. 1031-1036, 2019. (EI, 信号与图像处理国际会议) 
 20. Jiaying Xiong, Yuxiang Dai, **Peixian Zhuang***. Underwater Image Enhancement by Gaussian Curvature Filter. Oral Presentation, IEEE International Conference on Signal and Image Processing (IEEE ICSIP), pp. 1026-1030, 2019. (EI, 信号与图像处理国际会议) 
 21. **Peixian Zhuang***, Xinghao Ding, Jinming Duan. Subspace-based Non-blind Deconvolution. 2019 International Conference on Artificial Intelligence and Security (ICAIS), and have been recommended to be published on Mathematical Biosciences and Engineering. (SCI, JCR4, IF: 1.285) 
-22. Pengfei Xiao, Yecai Guo*, **Peixian Zhuang**. Removing Stripe Noise from Infrared Cloud Images via Deep Convolutional Networks. IEEE Photonics Journal, vol. 10, no. 4, 2018. (SCI, JCR3, IF: 2.833) <font color="red">（Cite: 14次, 被IEEE TGRS2020, Neural Networks2020等TOP期刊引用!）</font>
+22. Pengfei Xiao, Yecai Guo*, **Peixian Zhuang**. Removing Stripe Noise from Infrared Cloud Images via Deep Convolutional Networks. IEEE Photonics Journal, vol. 10, no. 4, 2018. (SCI, JCR3, IF: 2.833) <font color="red">（Cite: 15次, 被IEEE TGRS2020, Neural Networks2020等TOP期刊引用!）</font>
 23. **Peixian Zhuang**, Xueyang Fu, Yue Huang, Xinghao Ding*. Image Enhancement Using Divide-and-Conquer Strategy. Journal of Visual Communication and Image Representation, vol. 45, pp. 137-146, 2017. (SCI, JCR3, CCF推荐, IF: 2.479)
 24. **Peixian Zhuang**, Yue Huang, Delu Zeng, Xinghao Ding*. Non-Blind Deconvolution with L1-Norm of High-Frequency Fidelity. Multimedia Tools and Applications, vol. 76, no. 22, pp. 23607-23625, 2017. (SCI, JCR4, CCF推荐, IF: 2.313)
 25. **Peixian Zhuang**, Yue Huang, Delu Zeng, Xinghao Ding*. Mixed Noise Removal Based on A Novel Non-parametric Bayesian Sparse Outlier Model. Neurocomputing, vol. 174, pp. 858-865, 2016. (人工智能TOP期刊, SCI, JCR2, CCF推荐, IF: 4.438) 
 26. **Peixian Zhuang**, Xueyang Fu, Yue Huang, Delu Zeng, Xinghao Ding*. A Novel Framework Method for Non-Blind Deconvolution Using Subspace Images Priors. Signal Processing: Image Communication, vol. 46, pp. 17-26, 2016. (SCI, JCR2, CCF推荐, IF: 2.779).
-27. Xueyang Fu, **Peixian Zhuang**, Yue Huang, Yinghao Liao, Xiao-Ping Zhang, Xinghao Ding*. A retinex-based enhancing approach for single underwater image. IEEE International Conference on Image Processing (IEEE ICIP), pp. 4572-4576, 2014. (EI, CCF推荐, 信号处理旗舰会议) <font color="red">（Cite: 120次, 被TIP2018, TIP2019, TCVST2019, TCS-I2018, CVPR2019等TOP期刊与顶级会议引用!）</font>
+27. Xueyang Fu, **Peixian Zhuang**, Yue Huang, Yinghao Liao, Xiao-Ping Zhang, Xinghao Ding*. A retinex-based enhancing approach for single underwater image. IEEE International Conference on Image Processing (IEEE ICIP), pp. 4572-4576, 2014. (EI, CCF推荐, 信号处理旗舰会议) <font color="red">（Cite: 121次, 被TIP2018, TIP2019, TCVST2019, TCS-I2018, CVPR2019等TOP期刊与顶级会议引用!）</font>
 28. **Peixian Zhuang**, Wei Wang, Delu Zeng, Xinghao Ding*. Robust Mixed Noise Removal with Non-parametric Bayesian Sparse Outlier Model. IEEE International Workshop on Multimedia Signal Processing (IEEE MMSP), pp. 1-5, 2014. (EI)
 29. Shengkui Dai*, **Peixian Zhuang**, Wenjie Xiang. GSO: An improved PSO based on geese flight theory. International Conference in Swarm Intelligence (ICSI), pp. 87-95, 2013. 
 30. **Peixian Zhuang**, Shengkui Dai*. Improved Geese Swarm Optimization Algorithm Based on Gaussian Weighted Sum. Computer Science, vol. 40, no. Z6, pp. 87-89, 2013.
