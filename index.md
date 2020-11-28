@@ -27,9 +27,8 @@
 ### SCI IF：<font color="red">40+</font>
 
 ### Publications (* corresponding author)
-0. **Peixian Zhuang***. Bayesian Retinex Underwater Image Enhancement. Submitted to Engineering Applications of Artificial Intelligence (SCI, JCR2, CCF推荐, IF: 4.201)
-1. **Peixian Zhuang***. Retinex Underwater Image Enhancement with Multiorder Gradient Priors. Submitted to 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (IEEE ICASSP) (EI, CCF推荐, 信号处理及应用TOP会议). 
-2. Yuxiang Dai, Chenyan Wang, **Peixian Zhuang**, He Wang*. Compressed sensing MRI via a fusion model based on image and gradient priors. Submitted to Physics in Medicine and Biology (生物核医学领域TOP期刊，SCI, JCR2, IF: 2.883).
+1. **Peixian Zhuang***. Bayesian Retinex Underwater Image Enhancement. Submitted to Engineering Applications of Artificial Intelligence (SCI, JCR2, CCF推荐, IF: 4.201)
+2. **Peixian Zhuang***. Retinex Underwater Image Enhancement with Multiorder Gradient Priors. Submitted to 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (IEEE ICASSP) (EI, CCF推荐, 信号处理及应用TOP会议). 
 3. Haiyu Li, **Peixian Zhuang***, DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Major Revision, Signal Processing: Image Communication. (SCI, JCR2, CCF推荐, IF: 2.779).
 4. **Peixian Zhuang***, Kai Zhou. MGF: An algorithm for compressed sensing MRI with gradient domain guided image filtering. Accepted, Oral Presentation, International Conference on Image and Graphics Processing (ICIGP), 2021. (EI, 图像与图形处理国际会议)
 5. Kai Zhou, **Peixian Zhuang***(co-first author), Jiaying Xiong, Jin Zhao, Muyao Du. Blind Image Deblurring with Joint Extreme Channels and L0-Regularized Intensity and Gradient Priors. IEEE International Conference on Image Processing (IEEE ICIP), pp. 473-478, 2020. (EI, CCF推荐, 信号处理旗舰会议)
