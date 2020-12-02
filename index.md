@@ -73,21 +73,22 @@
 7. 国家自然科学基金面上项目（No. 61172179），基于非参数层次贝叶斯模型的自适应字典稀疏表示方法及应用，2012 – 2015，参与人，结题
 
 ### Journal Reviewers
-<font color="red">IEEE Transactions on Circuits and Systems for Video Technology（视频处理与多媒体领域TOP期刊）, 
+IEEE Transactions on Circuits and Systems for Video Technology（视频处理与多媒体领域TOP期刊）, 
+IEEE Transactions on  Geoscience and Remote Sensing （遥感信息处理领域TOP期刊）,
 IEEE Transactions on Cybernetics（控制论领域TOP期刊）, 
 Signal Processing（信号处理TOP期刊）, 
 Knowledge-Based Systems（人工智能TOP期刊）, 
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing（遥感信息处理领域权威期刊）,
 Magnetic Resonance Imaging（核磁共振成像权威期刊）,
-Engineering Applications of Artificial Intelligence（人工智能权威期刊）,</font>
+Engineering Applications of Artificial Intelligence（人工智能权威期刊）,
 EURASIP Journal on Wireless Communications and Networking,
 Big Data Research, 
 Journal of Healthcare Engineering,
 Journal of Computational Methods in Sciences and Engineering, etc.
 
 ### Conference Reviewers
-<font color="red">2021 AAAI Conference on Artificial Intelligence (AAAI)(人工智能领域TOP会议), 
-2021，2020 and 2019 IEEE International Conference on Multimedia and Expo (ICME)（多媒体领域TOP会议) ,</font>
+2021 AAAI Conference on Artificial Intelligence (AAAI)(人工智能领域TOP会议), 
+2021，2020 and 2019 IEEE International Conference on Multimedia and Expo (ICME)（多媒体领域TOP会议) ,
 2021 and 2020 International Conference on Image and Graphics Processing, 
 2020 and 2019 IEEE International Conference on Signal and Image Processing,
 2021 Asia Symposium on Image Processing,
