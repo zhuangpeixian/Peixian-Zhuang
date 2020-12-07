@@ -146,7 +146,7 @@ Journal of Electronics and Advanced Electrical Engineering (Editor).
 13. Jian Su: https://faculty.nuist.edu.cn/sujian/zh_CN/index/88381/list/index.htm
 14. Liangliang Liu: https://dxy.nuist.edu.cn/info/1073/1960.htm
 15. Xu Wang：http://www.scholat.com/xuwang.en
-16. Dipeng Huang：http://vcc.szu.edu.cn/_pengdi.html
+16. Pengdi Huang：http://vcc.szu.edu.cn/_pengdi.html
 17. Mengqi Ji：http://mengqiji.com/
 18. Sen Wan：https://www.researchgate.net/profile/Sen_Wan
 19. Jiamin Wu：https://www.researchgate.net/profile/Jiamin_Wu
