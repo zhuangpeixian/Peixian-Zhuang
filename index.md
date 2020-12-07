@@ -74,8 +74,9 @@
 
 ### Journal Reviewers
 IEEE Transactions on Circuits and Systems for Video Technology（视频处理与多媒体领域TOP期刊）, 
-IEEE Transactions on  Geoscience and Remote Sensing（遥感信息处理领域TOP期刊）,
+IEEE Transactions on Geoscience and Remote Sensing（遥感信息处理领域TOP期刊）,
 IEEE Transactions on Cybernetics（控制论领域TOP期刊）, 
+IEEE Transactions on Computational Imaging（图像处理TOP期刊）,
 Signal Processing（信号处理TOP期刊）, 
 Knowledge-Based Systems（人工智能TOP期刊）, 
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing（遥感信息处理领域权威期刊）,
