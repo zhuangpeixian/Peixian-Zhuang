@@ -23,7 +23,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 17. I am a winner of the Best PhD. Thesis Award in Fujian Province in 2017 (福建省优秀博士学位论文)!
 18. I win the National Natural Science Foundation of China under Grant (国家自然科学基金青年项目, No. 61701245, 2018.01-2020.12)！
 
-### Google Citation：<font color="red">205+</font>   
+### Google Citation：<font color="red">206+</font>   
 ### SCI IF：<font color="red">40+</font>
 
 ### Publications (* corresponding author)
@@ -81,7 +81,7 @@ Knowledge-Based Systems（人工智能顶级期刊）,
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing（遥感信息处理领域权威期刊）,
 Magnetic Resonance Imaging（核磁共振成像权威期刊）,
 Engineering Applications of Artificial Intelligence（人工智能权威期刊）,
-Chinese Journal of Computers （计算机学报）
+Chinese Journal of Computers （计算机学报，计算机领域权威期刊）
 EURASIP Journal on Wireless Communications and Networking,
 Big Data Research, 
 Journal of Healthcare Engineering,
