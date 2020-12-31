@@ -142,12 +142,10 @@ Journal of Electronics and Advanced Electrical Engineering (Editor).
 9. Qingshan Liu: https://faculty.nuist.edu.cn/liuqingshan/zh_CN/index.htm
 10. Taotao Lai: http://ccce.mju.edu.cn/2019/0613/c2248a72571/page.htm
 11. Jinming Duan: https://www.cs.bham.ac.uk/~duanj/
-12. Guobao Xiao：https://scholar.google.com/citations?user=YC2B2OEAAAAJ&hl=zh-CN
-13. Jian Su: https://faculty.nuist.edu.cn/sujian/zh_CN/index/88381/list/index.htm
-14. Liangliang Liu: https://dxy.nuist.edu.cn/info/1073/1960.htm
-15. Xu Wang：http://www.scholat.com/xuwang.en
-16. Pengdi Huang：http://vcc.szu.edu.cn/_pengdi.html
-17. Mengqi Ji：http://mengqiji.com/
+12. Liangliang Liu: https://dxy.nuist.edu.cn/info/1073/1960.htm
+13. Xu Wang：http://www.scholat.com/xuwang.en
+14. Pengdi Huang：http://vcc.szu.edu.cn/_pengdi.html
+15. Mengqi Ji：http://mengqiji.com/
 
 ## Communication Email
 **zhuangpeixian0624@163.com**, **zhuangpeixian@mail.tsinghua.edu.cn**
