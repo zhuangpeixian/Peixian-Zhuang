@@ -148,9 +148,6 @@ Journal of Electronics and Advanced Electrical Engineering (Editor).
 15. Xu Wang：http://www.scholat.com/xuwang.en
 16. Pengdi Huang：http://vcc.szu.edu.cn/_pengdi.html
 17. Mengqi Ji：http://mengqiji.com/
-18. Sen Wan：https://www.researchgate.net/profile/Sen_Wan
-19. Jiamin Wu：https://www.researchgate.net/profile/Jiamin_Wu
-20. Hao Xie: https://www.researchgate.net/profile/Hao_Xie3
 
 ## Communication Email
 **zhuangpeixian0624@163.com**, **zhuangpeixian@mail.tsinghua.edu.cn**
