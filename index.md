@@ -24,7 +24,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 18. I win the National Natural Science Foundation of China under Grant (国家自然科学基金青年项目, No. 61701245, 2018.01-2020.12)！
 
 ### Google Citation：<font color="red">225+</font>   
-### SCI IF：<font color="red">40+</font>
+### SCI IF：<font color="red">44+</font>
 
 ### Publications (* corresponding author)
 1. **Peixian Zhuang***. Retinex Underwater Image Enhancement with Multiorder Gradient Priors. Under Review, Submitted to 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (IEEE ICASSP) (EI, CCF推荐, 信号处理及应用顶级会议).
