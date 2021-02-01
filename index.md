@@ -27,8 +27,8 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 ### SCI IF：<font color="red">44+</font>
 
 ### Publications (* corresponding author)
-0. **Peixian Zhuang***. Underwater Image Enhancement with *** Priors. Preparing.
-1. **Peixian Zhuang***. Retinex Underwater Image Enhancement with Multiorder Gradient Priors. Under Review, Submitted to IEEE International Conference on Image Processing (IEEE ICIP) (EI, CCF推荐, 图像处理旗舰会议).
+0. **Peixian Zhuang***. Underwater Image Enhancement with ****** Priors. Preparing.
+1. **Peixian Zhuang***. Retinex Underwater Image Enhancement with Multiorder Gradient Priors. Submitted to IEEE International Conference on Image Processing (IEEE ICIP) (EI, CCF推荐, 图像处理旗舰会议).
 2. Haiyu Li, **Peixian Zhuang***(co-first author). DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. <font color="red"> Minor Revision </font>, Signal Processing: Image Communication. (SCI, JCR2, CCF推荐, IF: 2.779).
 3. **Peixian Zhuang***, Chongyi Li, Jiamin Wu. Bayesian Retinex Underwater Image Enhancement. <font color="red"> Accepted </font>, Engineering Applications of Artificial Intelligence (人工智能顶级期刊, SCI, JCR1, CCF推荐, IF: 4.201)
 4. **Peixian Zhuang***. MGF: An algorithm for compressed sensing MRI with gradient domain guided image filtering. Oral Presentation, International Conference on Image and Graphics Processing (ICIGP), 2021. (EI, 图像与图形处理国际会议)
@@ -57,7 +57,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 27. Xueyang Fu, **Peixian Zhuang**, Yue Huang, Yinghao Liao, Xiao-Ping Zhang, Xinghao Ding*. A retinex-based enhancing approach for single underwater image. IEEE International Conference on Image Processing (IEEE ICIP), pp. 4572-4576, 2014. (EI, CCF推荐, 图像处理旗舰会议) <font color="red">（Cite: 133次, 被TIP2018, TIP2019, TCVST2019, TCS-I2018, CVPR2019等顶级期刊与顶级会议引用!）</font>
 28. **Peixian Zhuang**, Wei Wang, Delu Zeng, Xinghao Ding*. Robust Mixed Noise Removal with Non-parametric Bayesian Sparse Outlier Model. IEEE International Workshop on Multimedia Signal Processing (IEEE MMSP), pp. 1-5, 2014. (EI)
 29. Shengkui Dai*, **Peixian Zhuang**, Wenjie Xiang. GSO: An improved PSO based on geese flight theory. International Conference in Swarm Intelligence (ICSI), pp. 87-95, 2013. 
-30. **Peixian Zhuang**, Shengkui Dai*. Improved Geese Swarm Optimization Algorithm Based on Gaussian Weighted Sum. Computer Science（计算机科学）, vol. 40, no. Z6, pp. 87-89, 2013.
+30. **Peixian Zhuang**, Shengkui Dai*. Improved Geese Swarm Optimization Algorithm Based on Gaussian Weighted Sum (基于高斯加权的GeesePSO改进算法). Computer Science（计算机科学，中文版核心期刊）, vol. 40, no. Z6, pp. 87-89, 2013.
 
 ### Chinese Patents
 1. 庄培显; 郭彭浩; 戴于翔; 熊佳颖. 一种台风云图增强方法与流程. 发明专利, 申请中（技术公布日：2019.08.27）
