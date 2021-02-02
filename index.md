@@ -82,7 +82,7 @@ IEEE Transactions on Geoscience and Remote Sensing（遥感信息处理领域顶
 IEEE Transactions on Cybernetics（控制论领域顶级期刊）, 
 IEEE Transactions on Computational Imaging（图像处理顶级期刊）,
 Signal Processing（信号处理顶级期刊）, 
-Engineering Applications of Artificial Intelligence（人工智能权威期刊）,
+Engineering Applications of Artificial Intelligence（人工智能顶级期刊）,
 Knowledge-Based Systems（人工智能顶级期刊）, 
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing（遥感信息处理领域权威期刊）,
 Magnetic Resonance Imaging（核磁共振成像权威期刊）,
