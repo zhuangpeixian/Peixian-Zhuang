@@ -24,7 +24,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 18. I win the National Natural Science Foundation of China under Grant (国家自然科学基金青年项目, No. 61701245, 2018.01-2020.12)！
 
 ### Google Citation：<font color="red">250+</font>   
-### SCI IF：<font color="red">44+</font>
+### SCI IF：<font color="red">48+</font>
 
 ### Publications (* corresponding author)
 0. **Peixian Zhuang***. Underwater Image Enhancement with ****** Priors. Preparing.
