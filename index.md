@@ -27,10 +27,9 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 ### SCI IF：<font color="red">50+</font>
 
 ### Publications (* corresponding author)
-0. **Peixian Zhuang***. Underwater Image Enhancement with ****** Priors. Preparing.
-1. **Peixian Zhuang***. Retinex Underwater Image Enhancement with Multiorder Gradient Priors. Submitted to IEEE International Conference on Image Processing (IEEE ICIP) (EI, CCF推荐, 图像处理旗舰会议).
-2. Haiyu Li, **Peixian Zhuang***(co-first author). DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. <font color="red"> Accepted with Minor Revision </font>, Signal Processing: Image Communication. (SCI, JCR2, CCF推荐, IF: 2.779).
-3. **Peixian Zhuang***, Chongyi Li, Jiamin Wu. Bayesian Retinex Underwater Image Enhancement. Engineering Applications of Artificial Intelligence (人工智能顶级期刊, SCI, JCR1, CCF推荐, IF: 4.201)
+1. **Peixian Zhuang***. Underwater Image Enhancement with ****** Priors. Preparing.
+2. Haiyu Li, **Peixian Zhuang***(co-first author). DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. <font color="red"> Accepted </font>, Signal Processing: Image Communication. (SCI, JCR3, CCF推荐, IF: 2.779).
+3. **Peixian Zhuang***, Chongyi Li, Jiamin Wu. Bayesian Retinex Underwater Image Enhancement. Engineering Applications of Artificial Intelligence, vol.101, pp. 104171, 2021. (人工智能顶级期刊, SCI, JCR1, CCF推荐, IF: 4.201)
 4. **Peixian Zhuang***. MGF: An algorithm for compressed sensing MRI with gradient domain guided image filtering. Oral Presentation, International Conference on Image and Graphics Processing (ICIGP), 2021. (EI, 图像与图形处理国际会议)
 5. Kai Zhou, **Peixian Zhuang***(co-first author), Jiaying Xiong, Jin Zhao, Muyao Du. Blind Image Deblurring with Joint Extreme Channels and L0-Regularized Intensity and Gradient Priors. IEEE International Conference on Image Processing (IEEE ICIP), pp. 473-478, 2020. (EI, CCF推荐, 图像处理旗舰会议)
 6. Jiaying Xiong, **Peixian Zhuang***(co-first author), Yanan Zhang. An Efficient Underwater Image Enhancement Model with Extensive Beer-Lambert Law. IEEE International Conference on Image Processing (IEEE ICIP), pp. 493-498, 2020. (EI, CCF推荐, 图像处理旗舰会议) 
