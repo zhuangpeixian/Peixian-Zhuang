@@ -138,20 +138,15 @@ Journal of Electronics and Advanced Electrical Engineering (Editor).
 
 ## Co-authors and Friends
 1. Xueyang Fu: https://xueyangfu.github.io/
-2. Xinghao Ding: https://xmu-smartdsp.github.io/teamindex/xhding.html
-3. Yue Huang: https://huangyue05.github.io/
-4. Liyan Sun: https://lynnsunxmu.github.io/
-5. Xiaoyan Kuai: http://www.ncl.uestc.edu.cn/info/1082/1746.htm
-6. Liangjian Deng: http://www.math.uestc.edu.cn/info/1082/2114.htm
-7. Yunquan Dong: https://dxy.nuist.edu.cn/info/1071/1885.htm
-8. Yecai Guo: https://dxy.nuist.edu.cn/info/1071/1888.htm
-9. Qingshan Liu: https://faculty.nuist.edu.cn/liuqingshan/zh_CN/index.htm
-10. Taotao Lai: http://ccce.mju.edu.cn/2019/0613/c2248a72571/page.htm
-11. Jinming Duan: https://www.cs.bham.ac.uk/~duanj/
-12. Liangliang Liu: https://dxy.nuist.edu.cn/info/1073/1960.htm
-13. Xu Wang：http://www.scholat.com/xuwang.en
-14. Pengdi Huang：http://vcc.szu.edu.cn/_pengdi.html
-15. Mengqi Ji：http://mengqiji.com/
+2. Yue Huang: https://huangyue05.github.io/
+3. Liyan Sun: https://lynnsunxmu.github.io/
+4. Xiaoyan Kuai: http://www.ncl.uestc.edu.cn/info/1082/1746.htm
+5. Liangjian Deng: http://www.math.uestc.edu.cn/info/1082/2114.htm
+6. Yunquan Dong: https://dxy.nuist.edu.cn/info/1071/1885.htm
+7. Mengqi Ji：http://mengqiji.com/
+8. Taotao Lai: http://ccce.mju.edu.cn/2019/0613/c2248a72571/page.htm
+9. Liangliang Liu: https://dxy.nuist.edu.cn/info/1073/1960.htm
+10. Pengdi Huang：http://vcc.szu.edu.cn/_pengdi.html
 
 ## Communication Email
 **zhuangpeixian0624@163.com**, **zhuangpeixian@mail.tsinghua.edu.cn**
