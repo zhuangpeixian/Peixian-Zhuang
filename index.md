@@ -131,7 +131,7 @@ Journal of Electronics and Advanced Electrical Engineering (Editor).
 1篇International Conference on Image and Graphics Processing (ICIGP) 图像与图形处理国际会议论文, Oral Presentation
 3. 叶飞, 2016-2019，硕士，发表1篇JCR2区SCI期刊论文（CCF推荐Signal Processing: Image Communication）, 目前在南京理工大学攻读博士（博导: 吴泽彬教授）
 4. 李撼宇, 2017-2020，硕士，1篇JCR2区海洋工程顶级SCI期刊（IEEE Journal of Oceanic Engineering）, 1篇CCF推荐IEEE International Symposium on Parallel and Distributed Processing with Applications（ISPA）国际会议论文，南京理工大学攻读博士（博导：唐镇民教授）
-5. 赵正杰, 2016-2020, 本科，发表1篇CCF推荐IEEE International Symposium on Parallel and Distributed Processing with Applications（ISPA）国际会议论文，目前在纽约大学攻读硕士
+5. 赵正杰, 2016-2020, 本科，发表1篇CCF推荐IEEE International Symposium on Parallel and Distributed Processing with Applications（ISPA）国际会议论文，目前在南加州大学攻读硕士
 6. 熊佳颖，2017-2021, 本科，发表1篇IEEE International Conference on Image Processing (ICIP) 信号处理旗舰会议论文, Poster Presentation; 1篇IEEE International Conference on Signal and Image Processing (ICSIP) 信号与图像处理国际会议论文, Oral Presentation, 准备在中科院攻读硕士
 7. 周凯, 2017-2021, 本科，发表1篇IEEE International Conference on Image Processing (ICIP) 信号处理旗舰会议论文, Poster Presentation, 准备在东南大学攻读硕士
 
