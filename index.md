@@ -87,6 +87,7 @@ Knowledge-Based Systems（人工智能顶级期刊）,
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing（遥感信息处理领域权威期刊）,
 Magnetic Resonance Imaging（核磁共振成像权威期刊）,
 Chinese Journal of Computers （计算机学报，计算机领域权威期刊）,
+Applied Soft Computing（计算机科学顶级期刊）
 EURASIP Journal on Wireless Communications and Networking,
 Big Data Research, 
 Journal of Healthcare Engineering,
