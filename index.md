@@ -27,8 +27,8 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 ### SCI IF：<font color="red">50+</font>
 
 ### Publications (* corresponding author)
-1. **Peixian Zhuang***. Underwater Image Enhancement with *** Priors. Preparing.
-2. **Peixian Zhuang***. Retinex Underwater Image Enhancement with Multi-Order Gradient Priors. Submitted to ICIP 2021.
+1. **Peixian Zhuang***. Underwater Image Enhancement with *** Priors. Preparing for IEEE TIP.
+2. **Peixian Zhuang***. Retinex Underwater Image Enhancement with Multi-Order Gradient Priors. Accepted, IEEE International Conference on Image Processing (IEEE ICIP), 2021. (EI, CCF推荐, 图像处理旗舰会议) .
 3. Haiyu Li, **Peixian Zhuang***(co-first author). DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Signal Processing: Image Communication, vol. 95, pp. 116248, 2021. (SCI, JCR3, CCF推荐, IF: 2.779).
 4. **Peixian Zhuang***, Chongyi Li, Jiamin Wu. Bayesian Retinex Underwater Image Enhancement. Engineering Applications of Artificial Intelligence, vol.101, pp. 104171, 2021. (人工智能顶级期刊, SCI, JCR1, CCF推荐, IF: 4.201)
 5. **Peixian Zhuang***. MGF: An algorithm for compressed sensing MRI with gradient domain guided image filtering. Oral Presentation, International Conference on Image and Graphics Processing (ICIGP), 2021. (EI, 图像与图形处理国际会议)
