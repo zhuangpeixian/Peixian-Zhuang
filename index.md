@@ -1,6 +1,6 @@
 ![image](./1.jpg) 
 ## Peixian Zhuang （庄培显）
-Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士后研究员, 助理研究员), advised by Prof. Qionghai Dai (戴琼海先生, 中国工程院院士、国务院参事、中国人工智能学会理事长、中国人工智能学会会士、清华大学信息学院院长、清华大学自动化系教授、生命科学学院兼职教授), Tsinghua University（清华大学）**. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the **Best PhD. Thesis Award in Fujian Province**（**福建省优秀博士学位论文**）in 2017. From 2017.02 to 2020.07, I am a **Lecturer (讲师)** and **Master Supervisor（硕士生导师）**in the School of Electronic and Information Engineering, **Nanjing University of Information Science and Technology(南京信息工程大学，双一流建设大学)**. My research interests focus on Bayesian modeling, sparse representation and deep learning, including image restoration, image naturalization, medical image reconstruction, remote sensing fusion, and underwater image enhancement, and so on. And my current interests focus on Neuron signal extraction and calcium signal descattering in the BBNC Lab.
+Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士后研究员), advised by Prof. Qionghai Dai (戴琼海先生, 中国工程院院士、国务院参事、中国人工智能学会理事长、中国人工智能学会会士、清华大学信息学院院长、清华大学自动化系教授、生命科学学院兼职教授), Tsinghua University（清华大学）**. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the **Best PhD. Thesis Award in Fujian Province**（**福建省优秀博士学位论文**）in 2017. From 2017.02 to 2020.07, I am a **Lecturer (讲师)** and **Master Supervisor（硕士生导师）**in the School of Electronic and Information Engineering, **Nanjing University of Information Science and Technology(南京信息工程大学，双一流建设大学)**. My research interests focus on Bayesian modeling, sparse representation and deep learning, including image restoration, image naturalization, medical image reconstruction, remote sensing fusion, and underwater image enhancement, and so on. And my current interests focus on Neuron signal extraction and calcium signal descattering in the BBNC Lab.
 
 
 ### Code! Retinex Variational Underwater Image Enhancement (<font color="red">https://github.com/zhuangpeixian</font>) 
@@ -144,13 +144,11 @@ Journal of Electronics and Advanced Electrical Engineering (Editor).
 1. Xueyang Fu: https://xueyangfu.github.io/
 2. Yue Huang: https://huangyue05.github.io/
 3. Liyan Sun: https://lynnsunxmu.github.io/
-4. Xiaoyan Kuai: http://www.ncl.uestc.edu.cn/info/1082/1746.htm
-5. Liangjian Deng: http://www.math.uestc.edu.cn/info/1082/2114.htm
-6. Yunquan Dong: https://dxy.nuist.edu.cn/info/1071/1885.htm
-7. Mengqi Ji：http://mengqiji.com/
-8. Taotao Lai: http://ccce.mju.edu.cn/2019/0613/c2248a72571/page.htm
-9. Liangliang Liu: https://dxy.nuist.edu.cn/info/1073/1960.htm
-10. Pengdi Huang：http://vcc.szu.edu.cn/_pengdi.html
+4. Liangjian Deng: http://www.math.uestc.edu.cn/info/1082/2114.htm
+5. Yunquan Dong: https://dxy.nuist.edu.cn/info/1071/1885.htm
+6. Mengqi Ji：http://mengqiji.com/
+7. Taotao Lai: http://ccce.mju.edu.cn/2019/0613/c2248a72571/page.htm
+8. Pengdi Huang：http://vcc.szu.edu.cn/_pengdi.html
 
 ## Communication Email
 **zhuangpeixian0624@163.com**, **zhuangpeixian@mail.tsinghua.edu.cn**
