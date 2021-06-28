@@ -91,7 +91,8 @@ Knowledge-Based Systems（人工智能顶级期刊）,
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing（遥感信息处理领域权威期刊）,
 Magnetic Resonance Imaging（核磁共振成像权威期刊）,
 Chinese Journal of Computers （计算机学报，计算机领域权威期刊）,
-Applied Soft Computing（计算机科学顶级期刊）
+Applied Soft Computing（计算机科学顶级期刊）,
+Signal Processing: Image Communication,
 EURASIP Journal on Wireless Communications and Networking,
 Big Data Research, 
 Journal of Healthcare Engineering,
@@ -141,15 +142,16 @@ Journal of Electronics and Advanced Electrical Engineering (Editor).
 
 ## Co-authors and Friends
 1. Xueyang Fu: https://xueyangfu.github.io/
-2. Yue Huang: https://huangyue05.github.io/
-3. Liyan Sun: https://lynnsunxmu.github.io/
+2. Chongyi Li: https://li-chongyi.github.io/
+3. Mengqi Ji：http://mengqiji.com/
 4. Liangjian Deng: http://www.math.uestc.edu.cn/info/1082/2114.htm
 5. Yunquan Dong: https://dxy.nuist.edu.cn/info/1071/1885.htm
-6. Mengqi Ji：http://mengqiji.com/
-7. Taotao Lai: http://ccce.mju.edu.cn/2019/0613/c2248a72571/page.htm
-8. Pengdi Huang：http://vcc.szu.edu.cn/_pengdi.html
-9. Chongyi Li: https://li-chongyi.github.io/
+6. Taotao Lai: http://ccce.mju.edu.cn/2019/0613/c2248a72571/page.htm
+7. Pengdi Huang：http://vcc.szu.edu.cn/_pengdi.html
+8. Xinghao Ding: https://xmu-smartdsp.github.io/teamindex/xhding.html
+9. Yue Huang: https://huangyue05.github.io/
 10. Qingshan Liu: http://www.nlpr.ia.ac.cn/iva/homepage/qingshan/
+
 
 ## Communication Email
 **zhuangpeixian0624@163.com**, **zhuangpeixian@mail.tsinghua.edu.cn**
