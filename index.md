@@ -27,7 +27,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 17. I am a winner of the Best PhD. Thesis Award in Fujian Province in 2017 (福建省优秀博士学位论文)!
 18. I win the National Natural Science Foundation of China under Grant (国家自然科学基金青年项目, No. 61701245, 2018.01-2020.12)！
 
-### Google Citation：<font color="red">289+</font>   
+### Google Citation：<font color="red">290+</font>   
 ### SCI IF：<font color="red">50+</font>
 
 ### Publications (* corresponding author)
@@ -53,7 +53,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 20. **Peixian Zhuang***. Pan-sharpening with a Gradient Domain Guided Image Filtering Prior. Oral Presentation, IEEE International Conference on Signal and Image Processing (IEEE ICSIP), pp. 1031-1036, 2019. (EI, 信号与图像处理国际会议) 
 21. Jiaying Xiong, Yuxiang Dai, **Peixian Zhuang***. Underwater Image Enhancement by Gaussian Curvature Filter. Oral Presentation, IEEE International Conference on Signal and Image Processing (IEEE ICSIP), pp. 1026-1030, 2019. (EI, 信号与图像处理国际会议) 
 22. **Peixian Zhuang***, Xinghao Ding, Jinming Duan. Subspace-based Non-blind Deconvolution. 2019 International Conference on Artificial Intelligence and Security (ICAIS), and have been recommended to be published on Mathematical Biosciences and Engineering. (SCI, JCR4, IF: 1.285) 
-23. Pengfei Xiao, Yecai Guo*, **Peixian Zhuang**. Removing Stripe Noise from Infrared Cloud Images via Deep Convolutional Networks. IEEE Photonics Journal, vol. 10, no. 4, 2018. (SCI, JCR3, IF: 2.833) <font color="red">（Cite: 18次）</font>
+23. Pengfei Xiao, Yecai Guo*, **Peixian Zhuang**. Removing Stripe Noise from Infrared Cloud Images via Deep Convolutional Networks. IEEE Photonics Journal, vol. 10, no. 4, 2018. (SCI, JCR3, IF: 2.833) <font color="red">（Cite: 19次）</font>
 24. **Peixian Zhuang**, Xueyang Fu, Yue Huang, Xinghao Ding*. Image Enhancement Using Divide-and-Conquer Strategy. Journal of Visual Communication and Image Representation, vol. 45, pp. 137-146, 2017. (SCI, JCR3, CCF推荐, IF: 2.479) <font color="red">（Cite: 8次）</font>
 25. **Peixian Zhuang**, Yue Huang, Delu Zeng, Xinghao Ding*. Non-Blind Deconvolution with L1-Norm of High-Frequency Fidelity. Multimedia Tools and Applications, vol. 76, no. 22, pp. 23607-23625, 2017. (SCI, JCR4, CCF推荐, IF: 2.313)
 26. **Peixian Zhuang**, Yue Huang, Delu Zeng, Xinghao Ding*. Mixed Noise Removal Based on A Novel Non-parametric Bayesian Sparse Outlier Model. Neurocomputing, vol. 174, pp. 858-865, 2016. (人工智能顶级期刊, SCI, JCR2, CCF推荐, IF: 4.438) <font color="red">（Cite: 7次）</font>
