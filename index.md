@@ -94,6 +94,7 @@ Chinese Journal of Computers （计算机学报，计算机领域权威期刊）
 Applied Soft Computing（计算机科学顶级期刊）,
 Signal Processing: Image Communication,
 EURASIP Journal on Wireless Communications and Networking,
+Computers and Electrical Engineering,
 Big Data Research, 
 Journal of Healthcare Engineering,
 Journal of Computational Methods in Sciences and Engineering, etc.
