@@ -117,6 +117,7 @@ Committee Members in 2021 AAAI</font>),
 2020 and 2018 International Conference on Artificial Intelligence and Security, etc.
 
 ### Journal Editors
+电子与信息学报 (“恶劣环境下的图像处理技术” 专题主编),
 Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization (Associate Editor), 
 Journal of Electronics and Advanced Electrical Engineering (Editor).
 
