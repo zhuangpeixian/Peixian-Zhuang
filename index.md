@@ -122,8 +122,8 @@ Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualiza
 Journal of Electronics and Advanced Electrical Engineering (Editor).
 
 ### Conference Technical Committees 
-2019 and 2020 IEEE International Conference on Signal and Image Processing (<font color="red">Session Chair for Image Processing II</font>, and TC member), 
-2020 and 2021 International Conference on Image and Graphics Processing (TC member),
+2021, 2020 and 2019 IEEE International Conference on Signal and Image Processing (<font color="red">Session Chair for Image Processing II</font>, and TC member), 
+2022, 2021 and 2020 International Conference on Image and Graphics Processing (TC member),
 2021 International Conference on Virtual Reality (TPC member), 
 2020 and 2021 IEEE International Conference on Signal and Image Processing (TC member), 
 2021 International Conference on Electronics, Communications and Networks (TPC member),
