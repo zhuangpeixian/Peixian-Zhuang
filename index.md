@@ -27,7 +27,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 17. I am a winner of the Best PhD. Thesis Award in Fujian Province in 2017 (福建省优秀博士学位论文)!
 18. I win the National Natural Science Foundation of China under Grant (国家自然科学基金青年项目, No. 61701245, 2018.01-2020.12)！
 
-### Google Citation：<font color="red">309+</font>   
+### Google Citation：<font color="red">313+</font>   
 ### SCI IF：<font color="red">50+</font>
 
 ### Publications (* corresponding author)
@@ -58,7 +58,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 25. **Peixian Zhuang**, Yue Huang, Delu Zeng, Xinghao Ding*. Non-Blind Deconvolution with L1-Norm of High-Frequency Fidelity. Multimedia Tools and Applications, vol. 76, no. 22, pp. 23607-23625, 2017. (SCI, JCR4, CCF推荐, IF: 2.313)
 26. **Peixian Zhuang**, Yue Huang, Delu Zeng, Xinghao Ding*. Mixed Noise Removal Based on A Novel Non-parametric Bayesian Sparse Outlier Model. Neurocomputing, vol. 174, pp. 858-865, 2016. (人工智能顶级期刊, SCI, JCR2, CCF推荐, IF: 4.438) <font color="red">（Cite: 7次）</font>
 27. **Peixian Zhuang**, Xueyang Fu, Yue Huang, Delu Zeng, Xinghao Ding*. A Novel Framework Method for Non-Blind Deconvolution Using Subspace Images Priors. Signal Processing: Image Communication, vol. 46, pp. 17-26, 2016. (SCI, JCR2, CCF推荐, IF: 2.779).
-28. Xueyang Fu, **Peixian Zhuang**, Yue Huang, Yinghao Liao, Xiao-Ping Zhang, Xinghao Ding*. A retinex-based enhancing approach for single underwater image. IEEE International Conference on Image Processing (IEEE ICIP), pp. 4572-4576, 2014. (EI, CCF推荐, 图像处理旗舰会议) <font color="red">（Cite: 171次）</font>
+28. Xueyang Fu, **Peixian Zhuang**, Yue Huang, Yinghao Liao, Xiao-Ping Zhang, Xinghao Ding*. A retinex-based enhancing approach for single underwater image. IEEE International Conference on Image Processing (IEEE ICIP), pp. 4572-4576, 2014. (EI, CCF推荐, 图像处理旗舰会议) <font color="red">（Cite: 174次）</font>
 29. **Peixian Zhuang**, Wei Wang, Delu Zeng, Xinghao Ding*. Robust Mixed Noise Removal with Non-parametric Bayesian Sparse Outlier Model. IEEE International Workshop on Multimedia Signal Processing (IEEE MMSP), pp. 1-5, 2014. (EI)
 30. Shengkui Dai*, **Peixian Zhuang**, Wenjie Xiang. GSO: An improved PSO based on geese flight theory. International Conference in Swarm Intelligence (ICSI), pp. 87-95, 2013. 
 31. **Peixian Zhuang**, Shengkui Dai*. Improved Geese Swarm Optimization Algorithm Based on Gaussian Weighted Sum (基于高斯加权的GeesePSO改进算法). Computer Science（计算机科学，中文版核心期刊）, vol. 40, no. Z6, pp. 87-89, 2013.
