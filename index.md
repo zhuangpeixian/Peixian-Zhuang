@@ -31,7 +31,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 ### SCI IF：<font color="red">50+</font>
 
 ### Publications (* corresponding author)
-1. **Peixian Zhuang***, Chongyi Liy, Jiamin Wu, Fatih Porikli. Underwater Image Enhancement with Hyper-Laplacian Reflectance Priors. Submitted to IEEE TIP.
+1. <font color="red">**Peixian Zhuang***, Chongyi Li, Jiamin Wu, Fatih Porikli. Underwater Image Enhancement with Hyper-Laplacian Reflectance Priors. Submitted to IEEE TIP.</font>
 2. **Peixian Zhuang***. Retinex Underwater Image Enhancement with Multi-Order Gradient Priors. Accepted, IEEE International Conference on Image Processing (IEEE ICIP), 2021. (EI, CCF推荐, 图像处理旗舰会议) .
 3. Haiyu Li, **Peixian Zhuang***(co-first author). DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Signal Processing: Image Communication, vol. 95, pp. 116248, 2021. (SCI, JCR3, CCF推荐, IF: 2.779).
 4. **Peixian Zhuang***, Chongyi Li, Jiamin Wu. Bayesian Retinex Underwater Image Enhancement. Engineering Applications of Artificial Intelligence, vol.101, pp. 104171, 2021. (人工智能顶级期刊, SCI, JCR1, CCF推荐, IF: 6.212)
@@ -70,7 +70,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 1. 厦门大学硕士研究生学位论文评审人
 
 ### Projects
-0. 国家自然科学基金面上项目（No. 62171252），基于先验知识与数据驱动景深估计模型的神经元提取研究，2022 – 2025，主持，在研
+0. <font color="red">国家自然科学基金面上项目（No. 62171252），基于先验知识与数据驱动景深估计模型的神经元提取研究，2022 – 2025，主持，在研</font>
 1. 国家自然科学基金青年基金（No. 61701245），基于非参数层次贝叶斯景深估计模型的水下降质图像质量提升研究，2018 – 2020，主持，结题
 2. 国家自然科学基金委员会科学中心项目（No. 62088102），认知计算基础科学中心，2021-2025，参加，在研
 3. 国家自然科学基金重大科研仪器设备研制专项（No. 61327902），多维多尺度高分辨率计算摄像仪器，2017 – 2021，参与，在研
@@ -120,7 +120,7 @@ Committee Members in 2021 AAAI</font>),
 2020 and 2018 International Conference on Artificial Intelligence and Security, etc.
 
 ### Journal Editors
-电子与信息学报 (恶劣环境下的图像处理技术, 专题主编),
+<font color="red">电子与信息学报 (恶劣环境下的图像处理技术, 专题主编),</font>
 Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization (Associate Editor), 
 Journal of Electronics and Advanced Electrical Engineering (Editor).
 
