@@ -28,7 +28,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 18. I am a winner of the Best PhD. Thesis Award in Fujian Province in 2017 (福建省优秀博士学位论文)!
 19. I win the National Natural Science Foundation of China under Grant (国家自然科学基金青年项目, No. 61701245, 2018.01-2020.12)！
 
-### Google Citation：<font color="red">334+</font>   
+### Google Citation：<font color="red">336+</font>   
 ### SCI IF：<font color="red">50+</font>
 
 ### Publications (* corresponding author)
