@@ -32,8 +32,8 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 ### SCI IF：<font color="red">50+</font>
 
 ### Publications (* corresponding author)
-1. <font color="red">Peixian Zhuang*, Chongyi Li, Jiamin Wu, Fatih Porikli. Underwater Image Enhancement with Hyper-Laplacian Reflectance Priors. Submitted to IEEE TIP.</font>
-2. <font color="red"> Weidong Zhang, Chongyi Li*, Peixian Zhuang, Haihan Sun, Guohou Li, Sam Kwong. Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement. Submitted to IEEE TIP.</font>
+1. <font color="red">Peixian Zhuang*, Chongyi Li, Jiamin Wu, Fatih Porikli. Underwater Image Enhancement with Hyper-Laplacian Reflectance Priors. Submitted to IEEE Transactions on Image Processing.</font>
+2. <font color="red"> Weidong Zhang, Chongyi Li*, Peixian Zhuang, Haihan Sun, Guohou Li, Sam Kwong. Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement. Submitted to IEEE Transactions on Image Processing.</font>
 3. **Peixian Zhuang***. Retinex Underwater Image Enhancement with Multi-Order Gradient Priors. IEEE International Conference on Image Processing (IEEE ICIP), pp. 1709-1713, 2021. (EI, CCF推荐, 图像处理旗舰会议) .
 4. Haiyu Li, **Peixian Zhuang***(co-first author). DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Signal Processing: Image Communication, vol. 95, pp. 116248, 2021. (SCI, JCR3, CCF推荐, IF: 2.779).
 5. **Peixian Zhuang***, Chongyi Li, Jiamin Wu. Bayesian Retinex Underwater Image Enhancement. Engineering Applications of Artificial Intelligence, vol.101, pp. 104171, 2021. (人工智能顶级期刊, SCI, JCR1, CCF推荐, IF: 6.212)
