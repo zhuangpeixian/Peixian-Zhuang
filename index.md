@@ -28,7 +28,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 18. I am a winner of the Best PhD. Thesis Award in Fujian Province in 2017 (福建省优秀博士学位论文)!
 19. I win the National Natural Science Foundation of China under Grant (国家自然科学基金青年项目, No. 61701245, 2018.01-2020.12)！
 
-### Google Citation：<font color="red">340+</font>   
+### Google Citation：<font color="red">347+</font>   
 ### SCI IF：<font color="red">50+</font>
 
 ### Publications (* corresponding author)
@@ -42,7 +42,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 8. Jiaying Xiong, **Peixian Zhuang***(co-first author), Yanan Zhang. An Efficient Underwater Image Enhancement Model with Extensive Beer-Lambert Law. IEEE International Conference on Image Processing (IEEE ICIP), pp. 493-498, 2020. (EI, CCF推荐, 图像处理旗舰会议) 
 9. Haopeng Guo, **Peixian Zhuang***(co-first author), Yecai Guo. Bayesian Pan-sharpening with Multi-order Gradient-based Deep Network Constraints. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (遥感信息处理权威期刊), vol.13, pp. 950-962, 2020. (SCI, JCR2, IF: 3.392)
 10. **Peixian Zhuang***, and Xinghao Ding. Underwater Image Enhancement Using An Edge-Preserving Filtering Retinex Algorithm. Multimedia Tools and Applications, vol 79, pp. 17279, 2020. (SCI, JCR4, CCF推荐, IF: 2.313) <font color="red">（Cite: 6次）</font>
-11. Yecai Guo*, Haiyu Li, and **Peixian Zhuang**. Underwater Image Enhancement Using a Multi-Scale Dense Generative Adversarial Network. IEEE Journal of Oceanic Engineering, vol. 45, no. 3, pp. 862-870, 2020. (海洋工程顶级期刊, SCI, JCR2, IF: 3.005) <font color="red">（*ESI Highly Cited Paper*, The Second Popular Article of IEEE JOE; Cite: 64次）</font> 
+11. Yecai Guo*, Haiyu Li, and **Peixian Zhuang**. Underwater Image Enhancement Using a Multi-Scale Dense Generative Adversarial Network. IEEE Journal of Oceanic Engineering, vol. 45, no. 3, pp. 862-870, 2020. (海洋工程顶级期刊, SCI, JCR2, IF: 3.005) <font color="red">（*ESI Highly Cited Paper*, The Second Popular Article of IEEE JOE; Cite: 65次）</font> 
 12. **Peixian Zhuang***, Haopeng Guo, Yuxiang Dai. An Enhancing Approach for Typhoon Cloud Image. Oral Presentation, International Conference on Image and Graphics Processing (ICIGP), 2020. (EI, 图像与图形处理国际会议)
 13. **Peixian Zhuang***, Xinghao Ding. Divide-and-Conquer Framework for Image Restoration and Enhancement. Engineering Applications of Artificial Intelligence, vol. 85, pp. 830-844, 2019. (人工智能顶级期刊, SCI, JCR1, CCF推荐, IF: 6.212)  <font color="red">（A Summary Paper for Divide-and-Conquer Strategy for Image Processing in Publications 24-27!）</font>
 14. **Peixian Zhuang***, Xiaowen Zhu, and Xinghao Ding.  MRI Reconstruction with an Edge-Preserving Filtering Prior. Signal Processing, vol. 155, pp. 346-357, 2019. (信号处理顶级期刊, SCI, JCR1, CCF推荐, IF: 4.662) <font color="red">（Cite: 8次）</font>
@@ -60,7 +60,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 26. **Peixian Zhuang**, Yue Huang, Delu Zeng, Xinghao Ding*. Non-Blind Deconvolution with L1-Norm of High-Frequency Fidelity. Multimedia Tools and Applications, vol. 76, no. 22, pp. 23607-23625, 2017. (SCI, JCR4, CCF推荐, IF: 2.313)
 27. **Peixian Zhuang**, Yue Huang, Delu Zeng, Xinghao Ding*. Mixed Noise Removal Based on A Novel Non-parametric Bayesian Sparse Outlier Model. Neurocomputing, vol. 174, pp. 858-865, 2016. (人工智能顶级期刊, SCI, JCR2, CCF推荐, IF: 4.438) <font color="red">（Cite: 7次）</font>
 28. **Peixian Zhuang**, Xueyang Fu, Yue Huang, Delu Zeng, Xinghao Ding*. A Novel Framework Method for Non-Blind Deconvolution Using Subspace Images Priors. Signal Processing: Image Communication, vol. 46, pp. 17-26, 2016. (SCI, JCR2, CCF推荐, IF: 2.779).
-29. Xueyang Fu, **Peixian Zhuang**, Yue Huang, Yinghao Liao, Xiao-Ping Zhang, Xinghao Ding*. A retinex-based enhancing approach for single underwater image. IEEE International Conference on Image Processing (IEEE ICIP), pp. 4572-4576, 2014. (EI, CCF推荐, 图像处理旗舰会议) <font color="red">（Cite: 183次）</font>
+29. Xueyang Fu, **Peixian Zhuang**, Yue Huang, Yinghao Liao, Xiao-Ping Zhang, Xinghao Ding*. A retinex-based enhancing approach for single underwater image. IEEE International Conference on Image Processing (IEEE ICIP), pp. 4572-4576, 2014. (EI, CCF推荐, 图像处理旗舰会议) <font color="red">（Cite: 185次）</font>
 30. **Peixian Zhuang**, Wei Wang, Delu Zeng, Xinghao Ding*. Robust Mixed Noise Removal with Non-parametric Bayesian Sparse Outlier Model. IEEE International Workshop on Multimedia Signal Processing (IEEE MMSP), pp. 1-5, 2014. (EI)
 31. Shengkui Dai*, **Peixian Zhuang**, Wenjie Xiang. GSO: An improved PSO based on geese flight theory. International Conference in Swarm Intelligence (ICSI), pp. 87-95, 2013. 
 32. **Peixian Zhuang**, Shengkui Dai*. Improved Geese Swarm Optimization Algorithm Based on Gaussian Weighted Sum (基于高斯加权的GeesePSO改进算法). Computer Science（计算机科学，中文版核心期刊）, vol. 40, no. Z6, pp. 87-89, 2013.
@@ -140,7 +140,7 @@ Journal of Electronics and Advanced Electrical Engineering (Editor).
 2020 International Conference on Modern Management based on Big Data (TPC member), 
 2020 International Conference on Information Security and Privacy Protection (TC member), etc.
 
-## Group Members
+## Alumni
 1. 戴于翔, 2017-2020，硕士，发表1篇JCR4区SCI期刊论文（核磁成像权威期刊Magnetic Resonance Imaging）, 2019研究生国家奖学金，目前在复旦大学攻读博士（博导: 王鹤
 研究员）
 2. 郭彭浩，2018-2021，硕士，发表1篇JCR2区遥感信息处理权威SCI期刊（IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing），
