@@ -108,7 +108,7 @@ Journal of Healthcare Engineering,
 Journal of Computational Methods in Sciences and Engineering, etc.
 
 ### Conference Reviewers
-2022 and 2021 AAAI Conference on Artificial Intelligence (AAAI)(人工智能领域顶级会议)(<font color="red">selected to be top 25% of Program 
+2022 and 2021 AAAI Conference on Artificial Intelligence (AAAI)(人工智能领域顶级会议)(<font color="red">top 25% of Program 
 Committee Members in 2021 AAAI</font>), 
 2021，2020 and 2019 IEEE International Conference on Multimedia and Expo (ICME)（多媒体领域顶级会议) ,
 2021 and 2020 International Conference on Image and Graphics Processing, 
