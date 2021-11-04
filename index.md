@@ -114,7 +114,8 @@ Journal of Computational Methods in Sciences and Engineering, etc.
 2022 and 2021 AAAI Conference on Artificial Intelligence (AAAI)(人工智能领域顶级会议)(<font color="red">top 25% of Program 
 Committee Members in 2021 AAAI</font>), 
 2021，2020 and 2019 IEEE International Conference on Multimedia and Expo (ICME)（多媒体领域顶级会议) ,
-2021 and 2020 International Conference on Image and Graphics Processing, 
+2022, 2021 and 2020 International Conference on Image and Graphics Processing, 
+2022 International Conference on Virtual Reality,
 2021 International Conference on Network and Information Security,
 2020 and 2019 IEEE International Conference on Signal and Image Processing,
 2021 Asia Symposium on Image Processing,
