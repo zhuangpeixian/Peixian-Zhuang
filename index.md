@@ -96,18 +96,20 @@ IEEE Transactions on Circuits and Systems for Video Technology（视频处理与
 IEEE Transactions on Geoscience and Remote Sensing（遥感信息处理领域顶级期刊）,
 IEEE Transactions on Cybernetics（控制论领域顶级期刊）, 
 IEEE Transactions on Computational Imaging（图像处理顶级期刊）,
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing（遥感信息处理领域权威期刊）,
+IEEE Geoscience and Remote Sensing Letters,
+Knowledge-Based Systems（人工智能顶级期刊）, 
 Signal Processing（信号处理顶级期刊）, 
 Engineering Applications of Artificial Intelligence（人工智能顶级期刊）,
-Knowledge-Based Systems（人工智能顶级期刊）, 
-IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing（遥感信息处理领域权威期刊）,
 Magnetic Resonance Imaging（核磁共振成像权威期刊）,
 Medical Physics（核医学顶级期刊）,
-Chinese Journal of Computers （计算机学报，计算机领域权威期刊）,
-Applied Soft Computing（计算机科学顶级期刊）,
 Signal Processing: Image Communication,
 EURASIP Journal on Wireless Communications and Networking,
-Computers and Electrical Engineering, 
+Applied Soft Computing（计算机科学顶级期刊）,
+Chinese Journal of Computers （计算机学报，计算机领域权威期刊）,
+Journal of Electronics & Information Technology (电子与信息学报),
 Infrared Physics and Technology,
+Computers and Electrical Engineering, 
 Displays,
 Big Data Research, 
 Journal of Healthcare Engineering,
@@ -132,7 +134,7 @@ Committee Members in 2021 AAAI</font>),
 2020 and 2018 International Conference on Artificial Intelligence and Security, etc.
 
 ### Journal Editors
-<font color="red">电子与信息学报 (恶劣环境下的图像处理技术, 专题主编),</font>
+<font color="red">Journal of Electronics & Information Technology (电子与信息学报, 恶劣环境下的图像处理技术专题主编),</font>
 Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization (Associate Editor), 
 Journal of Electronics and Advanced Electrical Engineering (Editor).
 
