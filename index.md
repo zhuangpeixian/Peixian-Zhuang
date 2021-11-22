@@ -106,9 +106,10 @@ Medical Physics（核医学顶级期刊）,
 Signal Processing: Image Communication,
 EURASIP Journal on Wireless Communications and Networking,
 Applied Soft Computing（计算机科学顶级期刊）,
-Chinese Journal of Computers （计算机学报，计算机领域权威期刊）,
-Journal of Electronics & Information Technology (电子与信息学报),
+计算机学报（计算机领域权威期刊）,
+电子与信息学报（电子信息领域权威期刊）,
 Infrared Physics and Technology,
+Applied Intelligence，
 Computers and Electrical Engineering, 
 Displays,
 Big Data Research, 
@@ -134,7 +135,7 @@ Committee Members in 2021 AAAI</font>),
 2020 and 2018 International Conference on Artificial Intelligence and Security, etc.
 
 ### Journal Editors
-<font color="red">Journal of Electronics & Information Technology (电子与信息学报, 恶劣环境下的图像处理技术专题主编),</font>
+<font color="red">电子与信息学报 (恶劣环境下的图像处理技术, 专题主编),</font>
 Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization (Associate Editor), 
 Journal of Electronics and Advanced Electrical Engineering (Editor).
 
