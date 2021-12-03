@@ -49,7 +49,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 10. **Peixian Zhuang***, and Xinghao Ding. Underwater Image Enhancement Using An Edge-Preserving Filtering Retinex Algorithm. Multimedia Tools and Applications, vol 79, pp. 17279, 2020. (SCI, JCR4, CCF推荐, IF: 2.313) <font color="red">（Cite: 6次）</font>
 11. Yecai Guo*, Hanyu Li, and **Peixian Zhuang**. Underwater Image Enhancement Using a Multi-Scale Dense Generative Adversarial Network. IEEE Journal of Oceanic Engineering, vol. 45, no. 3, pp. 862-870, 2020. (海洋工程顶级期刊, SCI, JCR2, IF: 3.005) <font color="red">（*ESI Highly Cited Paper*, Popular Article of IEEE JOE; Cite: 75次）</font> 
 12. **Peixian Zhuang***, Haopeng Guo, Yuxiang Dai. An Enhancing Approach for Typhoon Cloud Image. Oral Presentation, International Conference on Image and Graphics Processing (ICIGP), 2020. (EI, 图像与图形处理国际会议)
-13. **Peixian Zhuang***, Xinghao Ding. Divide-and-Conquer Framework for Image Restoration and Enhancement. Engineering Applications of Artificial Intelligence, vol. 85, pp. 830-844, 2019. (人工智能顶级期刊, SCI, JCR1, CCF推荐, IF: 6.212)  <font color="red">（A Summary Paper for Divide-and-Conquer Strategy for Image Processing in Publications 24-27!）</font>
+13. **Peixian Zhuang***, Xinghao Ding. Divide-and-Conquer Framework for Image Restoration and Enhancement. Engineering Applications of Artificial Intelligence, vol. 85, pp. 830-844, 2019. (人工智能顶级期刊, SCI, JCR1, CCF推荐, IF: 6.212)  <font color="red">（Summary Paper for Divide-and-Conquer Strategy for Image Processing!）</font>
 14. **Peixian Zhuang***, Xiaowen Zhu, and Xinghao Ding.  MRI Reconstruction with an Edge-Preserving Filtering Prior. Signal Processing, vol. 155, pp. 346-357, 2019. (信号处理顶级期刊, SCI, JCR1, CCF推荐, IF: 4.662) <font color="red">（Cite: 8次）</font>
 15. **Peixian Zhuang***, Qingshan Liu, and Xinghao Ding. Pan-GGF: A Probabilistic Method for Pan-Sharpening With Gradient Domain Guided Image Filtering. Signal Processing, vol. 156, pp. 177-190, 2019. (信号处理顶级期刊, SCI, JCR1, CCF推荐, IF: 4.662) 
 16. **Peixian Zhuang***, Xinghao Ding. Compressed Sensing MRI with Joint Image-Level and Patch-Level Priors. IEEE International Conference on Image Processing (IEEE ICIP), pp. 2080-2084, 2019. (EI, CCF推荐, 图像处理旗舰会议) 
@@ -90,6 +90,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 11. 国家自然科学基金面上项目（No. 61671309），基于有限新息率理论的高分辨率工业超声成像重构算法研究，2016 – 2019，参与，结题
 12. 国家自然科学基金面上项目（No. 61172179），基于非参数层次贝叶斯模型的自适应字典稀疏表示方法及应用，2012 – 2015，60万，参与，结题
 13. 江苏省大学生创新训练项目（No. 201910300079Y）, 基于图像稀疏表示的非盲去模糊方法研究, 2019 – 2020, 0.6万，第一指导教师, 结题
+14. 南京信息工程大学人才启动项目（NUIST 2243141701030), 基于非参数层次贝叶斯景深估计模型的水下降质图像质量提升研究, 2017-2020, 10万，主持，结题 
 
 ### Journal Reviewers
 IEEE Transactions on Circuits and Systems for Video Technology（视频处理与多媒体领域顶级期刊）, 
