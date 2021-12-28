@@ -33,15 +33,15 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 21. I am a winner of the Best PhD. Thesis Award in Fujian Province in 2017 (福建省优秀博士学位论文)!
 22. I win the National Natural Science Foundation of China under Grant (国家自然科学基金青年项目, No. 61701245, 2018.01-2020.12)！
 
-### Google Citation：<font color="red">399+</font>   
+### Google Citation：<font color="red">405+</font>   
 ### SCI IF：<font color="red">50+</font>
 
 ### Publications (* corresponding author)
 1. <font color="red">Peixian Zhuang*, Chongyi Li, Jiamin Wu, Fatih Porikli. Underwater Image Enhancement with Hyper-Laplacian Reflectance Priors. Submitted to IEEE Transactions on Image Processing.</font>
 2. <font color="red"> Weidong Zhang, Chongyi Li*, Peixian Zhuang, Haihan Sun, Guohou Li, Sam Kwong. Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement. Submitted to IEEE Transactions on Image Processing.</font>
-3. **Peixian Zhuang***. Retinex Underwater Image Enhancement with Multi-Order Gradient Priors. IEEE International Conference on Image Processing (IEEE ICIP), pp. 1709-1713, 2021. (EI, CCF推荐, 图像处理旗舰会议) .
+3. **Peixian Zhuang***. Retinex Underwater Image Enhancement with Multi-Order Gradient Priors. IEEE International Conference on Image Processing (IEEE ICIP), pp. 1709-1713, 2021. (EI, CCF推荐, 图像处理旗舰会议) . 
 4. Hanyu Li, **Peixian Zhuang***(co-first author). DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Signal Processing: Image Communication, vol. 95, pp. 116248, 2021. (SCI, JCR3, CCF推荐, IF: 2.779).
-5. **Peixian Zhuang***, Chongyi Li, Jiamin Wu. Bayesian Retinex Underwater Image Enhancement. Engineering Applications of Artificial Intelligence, vol.101, pp. 104171, 2021. (人工智能顶级期刊, SCI, JCR1, CCF推荐, IF: 6.212)
+5. **Peixian Zhuang***, Chongyi Li, Jiamin Wu. Bayesian Retinex Underwater Image Enhancement. Engineering Applications of Artificial Intelligence, vol.101, pp. 104171, 2021. (人工智能顶级期刊, SCI, JCR1, CCF推荐, IF: 6.212) <font color="red">（Cite: 8次）</font>
 6. **Peixian Zhuang***. MGF: An algorithm for compressed sensing MRI with gradient domain guided image filtering. Oral Presentation, International Conference on Image and Graphics Processing (ICIGP), pp. 214-218, 2021. (EI, 图像与图形处理国际会议)
 7. Kai Zhou, **Peixian Zhuang***(co-first author), Jiaying Xiong, Jin Zhao, Muyao Du. Blind Image Deblurring with Joint Extreme Channels and L0-Regularized Intensity and Gradient Priors. IEEE International Conference on Image Processing (IEEE ICIP), pp. 473-478, 2020. (EI, CCF推荐, 图像处理旗舰会议)
 8. Jiaying Xiong, **Peixian Zhuang***(co-first author), Yanan Zhang. An Efficient Underwater Image Enhancement Model with Extensive Beer-Lambert Law. IEEE International Conference on Image Processing (IEEE ICIP), pp. 493-498, 2020. (EI, CCF推荐, 图像处理旗舰会议) 
@@ -53,7 +53,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 14. **Peixian Zhuang***, Xiaowen Zhu, and Xinghao Ding.  MRI Reconstruction with an Edge-Preserving Filtering Prior. Signal Processing, vol. 155, pp. 346-357, 2019. (信号处理顶级期刊, SCI, JCR1, CCF推荐, IF: 4.662) <font color="red">（Cite: 9次）</font>
 15. **Peixian Zhuang***, Qingshan Liu, and Xinghao Ding. Pan-GGF: A Probabilistic Method for Pan-Sharpening With Gradient Domain Guided Image Filtering. Signal Processing, vol. 156, pp. 177-190, 2019. (信号处理顶级期刊, SCI, JCR1, CCF推荐, IF: 4.662) 
 16. **Peixian Zhuang***, Xinghao Ding. Compressed Sensing MRI with Joint Image-Level and Patch-Level Priors. IEEE International Conference on Image Processing (IEEE ICIP), pp. 2080-2084, 2019. (EI, CCF推荐, 图像处理旗舰会议) 
-17. Yuxiang Dai, **Peixian Zhuang***. Compressed Sensing MRI via a Multi-scale Dilated Residual Convolution Network. Magnetic Resonance Imaging, vol. 63, pp. 93-104, 2019. (核磁共振成像权威期刊, SCI, JCR4, IF: 2.053) <font color="red">（Cite: 13次）</font>
+17. Yuxiang Dai, **Peixian Zhuang***. Compressed Sensing MRI via a Multi-scale Dilated Residual Convolution Network. Magnetic Resonance Imaging, vol. 63, pp. 93-104, 2019. (核磁共振成像权威期刊, SCI, JCR4, IF: 2.053) <font color="red">（Cite: 14次）</font>
 18. Fei Ye, Yecai Guo*, **Peixian Zhuang**. Pansharpening via a Gradient-based Deep Network Prior. Signal Processing: Image Communication, vol. 74, pp. 322-331, 2019. (SCI, JCR2, CCF推荐, IF: 2.779) 
 19. Zhengjie Zhao, Yuxiang Dai, **Peixian Zhuang***. Underwater Image Enhancement with a Total Generalized Variation Illumination Prior. 2019 IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA). (EI, CCF推荐, 并行和分布式应用处理国际会议) 
 20. Hanyu Li, **Peixian Zhuang***, Wei Wang, Jingjing Li. Underwater Image Enhancement based on Dehazing and Color Correction. 2019 IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA). (EI, CCF推荐, 并行和分布式应用处理国际会议) 
