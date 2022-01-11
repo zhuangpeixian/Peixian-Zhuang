@@ -181,6 +181,12 @@ Journal of Electronics and Advanced Electrical Engineering (Editor).
 14. Yecai Guo: https://dxy.nuist.edu.cn/info/1071/1888.htm
 15. Qing Tian: https://faculty.nuist.edu.cn/tianqing/zh_CN/index.htm
 16. Liangliang Liu: http://faculty.nuaa.edu.cn/liuliangliang/en/index.htm
+17. Xiaoyan Kuai: https://www.ncl.uestc.edu.cn/info/1082/1746.htm
+18. Huaixia Zhao: http://cly.njtech.edu.cn/info/1039/6128.htm
+19. Xiaoyong Cao: http://gr.xjtu.edu.cn/web/caoxiangyong/home?p_p_id=588&p_p_lifecycle=1&p_p_state=normal
+20. Jun Liu: https://math127.nenu.edu.cn/shuxue/WebPage/Math.php?WorkType=jglb
+
+
 
 ## Communication Email
 **zhuangpeixian0624@163.com**, **zhuangpeixian@mail.tsinghua.edu.cn**
