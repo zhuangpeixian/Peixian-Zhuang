@@ -1,6 +1,6 @@
 ![image](./1.jpg) 
 ## Peixian Zhuang （庄培显）
-Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士后, 助理研究员), advised by Prof. Qionghai Dai (戴琼海先生, 中国工程院院士、国务院参事、中国人工智能学会理事长、中国人工智能学会会士、清华大学信息学院院长、清华大学自动化系教授、生命科学学院兼职教授), Tsinghua University（清华大学）**. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the **Best PhD. Thesis Award in Fujian Province**（**福建省优秀博士学位论文**）in 2017. From 2017.02 to 2020.07, I am a **Lecturer (讲师)** and **Master Supervisor（硕士生导师）**in the School of Electronic and Information Engineering, **Nanjing University of Information Science and Technology(南京信息工程大学，双一流建设大学)**. My research interests focus on Bayesian modeling, sparse representation and deep learning, including image restoration, image naturalization, medical image reconstruction, remote sensing fusion, and underwater image enhancement, and so on. And my current interests focus on Neuron signal extraction and calcium signal descattering in the BBNC Lab.
+Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士后, 助理研究员), advised by Prof. Qionghai Dai (戴琼海先生, 中国工程院院士、国务院参事、中国人工智能学会理事长、中国人工智能学会会士、清华大学信息学院院长), Tsinghua University（清华大学）**. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the **Best PhD. Thesis Award in Fujian Province**（**福建省优秀博士学位论文**）in 2017. From 2017.02 to 2020.07, I am a **Lecturer (讲师)** and **Master Supervisor（硕士生导师）**in the School of Electronic and Information Engineering, **Nanjing University of Information Science and Technology(南京信息工程大学，双一流建设大学)**. My research interests focus on Bayesian modeling, sparse representation and deep learning, including image restoration, image naturalization, medical image reconstruction, remote sensing fusion, and underwater image enhancement, and so on. And my current interests focus on Neuron signal extraction and calcium signal descattering in the BBNC Lab.
 
 ### Note: <font color="red">I am looking for a teaching position of a university! </font>
 
@@ -13,7 +13,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 1. <font color="red">Lastest News: Our paper titled 'Underwater Image Enhancement Using a Multi-Scale Dense Generative Adversarial Network' has been the ESI Highly Cited Paper（ESI高被引论文）！ </font>
 2. <font color="red">Lastest News: I win the General Program from China Postdoctoral Science Foundation (中国博士后科学基金面上项目, 2021.11-2022.09)！ </font>
 3. <font color="red">Lastest News: Our paper titled 'A retinex-based enhancing approach for single underwater image' has reached 200+ google scholar‬ citations（200次谷歌学术引用）！ </font>
-4. Recent News: I am honor to join the BBNC lab (http://media.au.tsinghua.edu.cn/) as a Postdoctoral Fellow, advised by Prof. Qionghai Dai (戴琼海先生, 中国工程院院士、国务院参事、中国人工智能学会理事长、中国人工智能学会会士、清华大学信息学院院长、清华大学自动化系教授、生命科学学院兼职教授)！
+4. Recent News: I am honor to join the BBNC lab (http://media.au.tsinghua.edu.cn/) as a Postdoctoral Fellow, advised by Prof. Qionghai Dai (戴琼海先生, 中国工程院院士、国务院参事、中国人工智能学会理事长、中国人工智能学会会士、清华大学信息学院院长)！
 5. I am honor to be an Editor Board Member for Journal of Electronics and Advanced Electrical Engineering, and an Associate Editor for Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization! Hope you will contribute your manuscript on these journals!
 6. Two papers titled “An efficient underwater image enhancement model with extensive Beer-Lambert law”and “Blind image deblurring with joint extreme channels and L0-regularized intensity and gradient priors” have been accepted on 2020 IEEE International Conference on Image Processing (IEEE ICIP, CCF推荐EI会议, 信号处理3大旗舰会议之一)！
 7. One paper titled “Bayesian Pan-sharpening with Multi-order Gradient-based Deep Network Constraints”  has been accepted on IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (SCI JCR 2区, IF: 3.392)！
@@ -122,7 +122,7 @@ Journal of Computational Methods in Sciences and Engineering, etc.
 ### Conference Reviewers
 2022 and 2021 AAAI Conference on Artificial Intelligence (AAAI)(人工智能领域顶级会议)(<font color="red">top 25% of Program 
 Committee Members in 2021 AAAI</font>), 
-2021，2020 and 2019 IEEE International Conference on Multimedia and Expo (ICME)（多媒体领域顶级会议) ,
+2022，2021，2020 and 2019 IEEE International Conference on Multimedia and Expo (ICME)（多媒体领域顶级会议) ,
 2022, 2021 and 2020 International Conference on Image and Graphics Processing, 
 2022 International Conference on Virtual Reality,
 2021 International Conference on Network and Information Security,
