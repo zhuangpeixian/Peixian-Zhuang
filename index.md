@@ -1,6 +1,6 @@
 ![image](./1.jpg) 
 ## Peixian Zhuang （庄培显）
-Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士后, 助理研究员), advised by Prof. Qionghai Dai (戴琼海先生, 中国工程院院士、国务院参事、中国人工智能学会理事长、中国人工智能学会会士、清华大学信息学院院长), Tsinghua University（清华大学）**. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the **Best PhD. Thesis Award in Fujian Province**（**福建省优秀博士学位论文**）in 2017. From 2017.02 to 2020.07, I am a **Lecturer (讲师)** and **Master Supervisor（硕士生导师）**in the School of Electronic and Information Engineering, **Nanjing University of Information Science and Technology (南京信息工程大学，双一流建设大学)**. My research interests focus on Bayesian modeling, sparse representation and deep learning, including image restoration, image naturalization, medical image reconstruction, remote sensing fusion, and underwater image enhancement, and so on. And my current interests focus on Neuron signal extraction and calcium signal descattering in the BBNC Lab.
+Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士后, 助理研究员), advised by Prof. Qionghai Dai (戴琼海先生, 中国工程院院士、国务院参事、中国人工智能学会理事长、清华大学信息学院院长), Tsinghua University（清华大学）**. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the **Best PhD. Thesis Award in Fujian Province**（**福建省优秀博士学位论文**）in 2017. From 2017.02 to 2020.07, I am a **Lecturer (讲师)** and **Master Supervisor（硕士生导师）**in the School of Electronic and Information Engineering, **Nanjing University of Information Science and Technology (南京信息工程大学，双一流建设大学)**. My research interests focus on Bayesian modeling, sparse representation and deep learning, including image restoration, image naturalization, medical image reconstruction, remote sensing fusion, and underwater image enhancement, and so on. And my current interests focus on Neuron signal extraction and calcium signal descattering in the BBNC Lab.
 
 ### Note: <font color="red">I am looking for a teaching position of a university! </font>
 
@@ -13,7 +13,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 1. <font color="red">Lastest News: Our paper titled 'Underwater Image Enhancement Using a Multi-Scale Dense Generative Adversarial Network' has been the ESI Highly Cited Paper（ESI高被引论文）！ </font>
 2. <font color="red">Lastest News: I win the General Program from China Postdoctoral Science Foundation (中国博士后科学基金面上项目, 2021.11-2022.09)！ </font>
 3. <font color="red">Lastest News: Our paper titled 'A retinex-based enhancing approach for single underwater image' has reached 200+ google scholar‬ citations（200次谷歌学术引用）！ </font>
-4. Recent News: I am honor to join the BBNC lab (http://media.au.tsinghua.edu.cn/) as a Postdoctoral Fellow, advised by Prof. Qionghai Dai (戴琼海先生, 中国工程院院士、国务院参事、中国人工智能学会理事长、中国人工智能学会会士、清华大学信息学院院长)！
+4. Recent News: I am honor to join the BBNC lab (http://media.au.tsinghua.edu.cn/) as a Postdoctoral Fellow, advised by Prof. Qionghai Dai (戴琼海先生, 中国工程院院士、国务院参事、中国人工智能学会理事长、清华大学信息学院院长)！
 5. I am honor to be an Editor Board Member for Journal of Electronics and Advanced Electrical Engineering, and an Associate Editor for Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization! Hope you will contribute your manuscript on these journals!
 6. Two papers titled “An efficient underwater image enhancement model with extensive Beer-Lambert law”and “Blind image deblurring with joint extreme channels and L0-regularized intensity and gradient priors” have been accepted on 2020 IEEE International Conference on Image Processing (IEEE ICIP, CCF推荐EI会议, 信号处理3大旗舰会议之一)！
 7. One paper titled “Bayesian Pan-sharpening with Multi-order Gradient-based Deep Network Constraints”  has been accepted on IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (SCI JCR 2区, IF: 3.392)！
@@ -33,7 +33,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 21. I am a winner of the Best PhD. Thesis Award in Fujian Province in 2017 (福建省优秀博士学位论文)!
 22. I win the National Natural Science Foundation of China under Grant (国家自然科学基金青年项目, No. 61701245, 2018.01-2020.12)！
 
-### Google Citation：<font color="red">414+</font>   
+### Google Citation：<font color="red">421+</font>   
 ### SCI IF：<font color="red">50+</font>
 
 ### Publications (* corresponding author)
@@ -47,7 +47,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 8. Jiaying Xiong, **Peixian Zhuang***(co-first author), Yanan Zhang. An Efficient Underwater Image Enhancement Model with Extensive Beer-Lambert Law. IEEE International Conference on Image Processing (IEEE ICIP), pp. 493-498, 2020. (EI, CCF推荐, 图像处理旗舰会议) 
 9. Haopeng Guo, **Peixian Zhuang***(co-first author), Yecai Guo. Bayesian Pan-sharpening with Multi-order Gradient-based Deep Network Constraints. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (遥感信息处理权威期刊), vol.13, pp. 950-962, 2020. (SCI, JCR2, IF: 3.392)
 10. **Peixian Zhuang***, and Xinghao Ding. Underwater Image Enhancement Using An Edge-Preserving Filtering Retinex Algorithm. Multimedia Tools and Applications, vol 79, pp. 17279, 2020. (SCI, JCR4, CCF推荐, IF: 2.313) <font color="red">（Cite: 12次）</font>
-11. Yecai Guo*, Hanyu Li, and **Peixian Zhuang**. Underwater Image Enhancement Using a Multi-Scale Dense Generative Adversarial Network. IEEE Journal of Oceanic Engineering, vol. 45, no. 3, pp. 862-870, 2020. (海洋工程顶级期刊, SCI, JCR2, IF: 3.005) <font color="red">（*ESI Highly Cited Paper*, Popular Article of IEEE JOE; Cite: 80次）</font>
+11. Yecai Guo*, Hanyu Li, and **Peixian Zhuang**. Underwater Image Enhancement Using a Multi-Scale Dense Generative Adversarial Network. IEEE Journal of Oceanic Engineering, vol. 45, no. 3, pp. 862-870, 2020. (海洋工程顶级期刊, SCI, JCR2, IF: 3.005) <font color="red">（*ESI Highly Cited Paper*, Popular Article of IEEE JOE; Cite: 82次）</font>
 12. **Peixian Zhuang***, Haopeng Guo, Yuxiang Dai. An Enhancing Approach for Typhoon Cloud Image. Oral Presentation, International Conference on Image and Graphics Processing (ICIGP), 2020. (EI, 图像与图形处理国际会议)
 13. **Peixian Zhuang***, Xinghao Ding. Divide-and-Conquer Framework for Image Restoration and Enhancement. Engineering Applications of Artificial Intelligence, vol. 85, pp. 830-844, 2019. (人工智能顶级期刊, SCI, JCR1, CCF推荐, IF: 6.212)  <font color="red">（Summary Paper for Divide-and-Conquer Strategy for Image Processing!）</font>
 14. **Peixian Zhuang***, Xiaowen Zhu, and Xinghao Ding.  MRI Reconstruction with an Edge-Preserving Filtering Prior. Signal Processing, vol. 155, pp. 346-357, 2019. (信号处理顶级期刊, SCI, JCR1, CCF推荐, IF: 4.662) <font color="red">（Cite: 9次）</font>
