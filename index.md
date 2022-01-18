@@ -182,7 +182,7 @@ Journal of Electronics and Advanced Electrical Engineering (Editor).
 16. Liangliang Liu: http://faculty.nuaa.edu.cn/liuliangliang/en/index.htm
 17. Xiaoyan Kuai: https://www.ncl.uestc.edu.cn/info/1082/1746.htm
 18. Huaixia Zhao: http://cly.njtech.edu.cn/info/1039/6128.htm
-19. Xiaoyong Cao: http://math.xjtu.edu.cn/info/1337/7601.htm
+19. Xiangyong Cao: http://math.xjtu.edu.cn/info/1337/7601.htm
 20. Jun Liu: https://math127.nenu.edu.cn/shuxue/WebPage/Math.php?WorkType=jglb
 
 
