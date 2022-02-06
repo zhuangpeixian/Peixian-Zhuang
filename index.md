@@ -37,6 +37,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 ### SCI IF：<font color="red">50+</font>
 
 ### Publications (* corresponding author)
+0. <font color="red">Peixian Zhuang, Jiamin Wu*. Reinforcing neuron extraction from calcium imaging data via depth-estimation constrained nonnegative matrix factorization. Submitted to 2022 IEEE International Conference on Image Processing (EI, CCF推荐, 图像处理旗舰会议) </font> 
 1. <font color="red">Peixian Zhuang*, Chongyi Li, Jiamin Wu, Fatih Porikli. Underwater Image Enhancement with Hyper-Laplacian Reflectance Priors. Submitted to IEEE Transactions on Image Processing, Peer Review.</font>
 2. <font color="red"> Weidong Zhang, Chongyi Li*, Peixian Zhuang, Haihan Sun, Guohou Li, Sam Kwong. Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement. Submitted to IEEE Transactions on Image Processing, Peer Review.</font>
 3. **Peixian Zhuang***. Retinex Underwater Image Enhancement with Multi-Order Gradient Priors. IEEE International Conference on Image Processing (IEEE ICIP), pp. 1709-1713, 2021. (EI, CCF推荐, 图像处理旗舰会议) . 
