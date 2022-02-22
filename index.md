@@ -95,10 +95,11 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 15. 南京信息工程大学人才启动项目（NUIST 2243141701030), 基于非参数层次贝叶斯景深估计模型的水下降质图像质量提升研究, 2017-2020, 10万，主持，结题 
 
 ### Journal Reviewers
+IEEE Transactions on Image Processing（图像处理顶级期刊）,
 IEEE Transactions on Circuits and Systems for Video Technology（视频处理与多媒体领域顶级期刊）, 
+IEEE Transactions on Computational Imaging（计算成像顶级期刊）,
 IEEE Transactions on Geoscience and Remote Sensing（遥感信息处理领域顶级期刊）,
 IEEE Transactions on Cybernetics（控制论领域顶级期刊）, 
-IEEE Transactions on Computational Imaging（图像处理顶级期刊）,
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing（遥感信息处理领域权威期刊）,
 IEEE Geoscience and Remote Sensing Letters,
 Knowledge-Based Systems（人工智能顶级期刊）, 
