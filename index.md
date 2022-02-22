@@ -96,8 +96,8 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 
 ### Journal Reviewers
 IEEE Transactions on Image Processing（图像处理顶级期刊）,
-IEEE Transactions on Circuits and Systems for Video Technology（视频处理与多媒体领域顶级期刊）, 
 IEEE Transactions on Computational Imaging（计算成像顶级期刊）,
+IEEE Transactions on Circuits and Systems for Video Technology（视频处理与多媒体领域顶级期刊）, 
 IEEE Transactions on Geoscience and Remote Sensing（遥感信息处理领域顶级期刊）,
 IEEE Transactions on Cybernetics（控制论领域顶级期刊）, 
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing（遥感信息处理领域权威期刊）,
@@ -113,8 +113,8 @@ Applied Soft Computing（计算机科学顶级期刊）,
 计算机学报（计算机领域权威期刊）,
 电子与信息学报（电子信息领域权威期刊）,
 Applied Optics,
-Infrared Physics and Technology,
 Applied Intelligence，
+Infrared Physics and Technology,
 Computers and Electrical Engineering, 
 Displays,
 Big Data Research, 
