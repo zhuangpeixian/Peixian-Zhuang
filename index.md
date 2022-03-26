@@ -10,7 +10,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 
 ### Last News
 0. <font color="red">Lastest News: I win the National Natural Science Foundation of China under Grant (国家自然科学基金面上项目, No. 62171252, 2022.01-2025.12)！</font>
-1. <font color="red">Lastest News: Our paper titled 'Underwater Image Enhancement Using a Multi-Scale Dense Generative Adversarial Network' has been the ESI Highly Cited Paper（ESI高被引论文）！ </font>
+1. <font color="red">Lastest News: Our paper titled 'Underwater Image Enhancement Using a Multi-Scale Dense Generative Adversarial Network' has been the ESI Highly Cited Paper（ESI高被引论文） and has reached 100+ google scholar‬ citations（100次谷歌学术引用）！ </font>
 2. <font color="red">Lastest News: I win the General Program from China Postdoctoral Science Foundation (中国博士后科学基金面上项目, 2021.11-2022.09)！ </font>
 3. <font color="red">Lastest News: Our paper titled 'A retinex-based enhancing approach for single underwater image' has reached 200+ google scholar‬ citations（200次谷歌学术引用）！ </font>
 4. Recent News: I am honor to join the BBNC lab (http://media.au.tsinghua.edu.cn/) as a Postdoctoral Fellow, advised by Prof. Qionghai Dai (戴琼海教授, 中国工程院院士、国务院参事、中国人工智能学会理事长、清华大学信息学院院长)！
