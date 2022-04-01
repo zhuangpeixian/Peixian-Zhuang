@@ -2,7 +2,7 @@
 ## Peixian Zhuang （庄培显）
 Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士后, 助理研究员), advised by Prof. Qionghai Dai (戴琼海教授, 中国工程院院士、国务院参事、中国人工智能学会理事长、清华大学信息学院院长), Tsinghua University（清华大学）**. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the **Best PhD. Thesis Award in Fujian Province**（**福建省优秀博士学位论文**）in 2017. From 2017.02 to 2020.07, I am a **Lecturer (讲师)** and **Master Supervisor（硕士生导师）**in the School of Electronic and Information Engineering, **Nanjing University of Information Science and Technology (南京信息工程大学，双一流建设大学)**. My research interests focus on Bayesian modeling, sparse representation and deep learning, including image restoration, image naturalization, medical image reconstruction, remote sensing fusion, and underwater image enhancement, and so on. And my current interests focus on Neuron signal extraction and calcium signal descattering in the BBNC Lab.
 
-### Long-term Note(长期有效): <font color="red">I am looking for a teaching position of a university in Beijing！（本人寻求北京高校的教职工作，欢迎随时联系!）</font>
+### Long-term Note(长期有效): <font color="red">I am looking for a teaching position of a university in Beijing！（本人寻求北京高校的教职工作，欢迎随时联系！）</font>
 
 
 ### Matlab Code! Retinex Variational Underwater Image Enhancement (<font color="red">https://github.com/zhuangpeixian</font>) 
@@ -33,7 +33,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 21. I am a winner of the Best PhD. Thesis Award in Fujian Province in 2017 (福建省优秀博士学位论文)!
 22. I win the National Natural Science Foundation of China under Grant (国家自然科学基金青年项目, No. 61701245, 2018.01-2020.12)！
 
-### Google Citation：<font color="red">501+</font>   
+### Google Citation：<font color="red">500+</font>   
 ### SCI IF：<font color="red">50+</font>
 
 ### Publications (* corresponding author)
