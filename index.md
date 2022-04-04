@@ -114,7 +114,7 @@ Applied Soft Computing（计算机科学顶级期刊）,
 计算机学报（计算机领域权威期刊）,
 电子与信息学报（电子信息领域权威期刊）,
 Applied Optics,
-Applied Intelligence，
+Applied Intelligence,
 PLoS One,
 Infrared Physics and Technology,
 Computers and Electrical Engineering, 
