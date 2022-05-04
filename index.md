@@ -2,7 +2,7 @@
 ## Peixian Zhuang （庄培显）
 Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士后, 助理研究员), advised by Prof. Qionghai Dai (戴琼海教授, 中国工程院院士、国务院参事、中国人工智能学会理事长、清华大学信息学院院长), Tsinghua University（清华大学）**. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the **Best PhD. Thesis Award in Fujian Province**（**福建省优秀博士学位论文**）in 2017. From 2017.02 to 2020.07, I am a **Lecturer (讲师)** and **Master Supervisor（硕士生导师）**in the School of Electronic and Information Engineering, **Nanjing University of Information Science and Technology (南京信息工程大学，双一流建设大学)**. My research interests focus on Bayesian modeling, sparse representation and deep learning, including image restoration, image naturalization, medical image reconstruction, remote sensing fusion, and underwater image enhancement, and so on. And my current interests focus on Neuron signal extraction and calcium signal descattering in the BBNC Lab (http://media.au.tsinghua.edu.cn/).
 
-### Long-term Note (长期有效): <font color="red">I am looking for a teaching position of a university in Beijing！Communication email: zhuangpeixian0624@163.com.（本人寻求北京高校的教职工作，欢迎随时联系！）</font>
+### Long-term Note (长期有效): <font color="red">I am looking for a teaching position of a university in Beijing！Communication email: zhuangpeixian0624@163.com.（寻求北京高校的教职工作，欢迎随时联系！）</font>
 
 ### Communication Address (通信地址)
 **Department of Automation, Tsinghua University, Beijing 100084, China**
@@ -12,7 +12,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 ### Google Citation：<font color="red">559+</font>   
 ### SCI IF：<font color="red">50+</font>
 
-### Publications（发表论文）(* corresponding author)
+### Publications（发表论文）(* corresponding author 通信作者)
 0. <font color="red">Peixian Zhuang, Jiamin Wu*. Reinforcing neuron extraction from calcium imaging data via depth-estimation constrained nonnegative matrix factorization. Submitted to 2022 IEEE International Conference on Image Processing (EI, CCF推荐, 图像处理旗舰会议) </font> 
 1. <font color="red">Peixian Zhuang*, Chongyi Li, Jiamin Wu, Fatih Porikli. Underwater Image Enhancement with Hyper-Laplacian Reflectance Priors. Submitted to IEEE Transactions on Image Processing, Under Review.</font>
 2. Weidong Zhang, Peixian Zhuang, Haihan Sun, Guohou Li, Sam Kwong, Chongyi Li*. Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement. IEEE Transactions on Image Processing, <font color="red">Minor Revision.</font>
@@ -107,7 +107,7 @@ Big Data Research,
 Journal of Healthcare Engineering,
 Journal of Computational Methods in Sciences and Engineering, etc.
 
-### Conference Technical Committees（会议技术委员）
+### Conference Technical Committees（技术委员）
 2022, 2021, 2020 and 2019 IEEE International Conference on Signal and Image Processing (<font color="red">2019 分会主席Session Chair for Image Processing II</font>, and TC member), 
 2022, 2021 and 2020 International Conference on Image and Graphics Processing (TC member),
 2022 and 2021 International Conference on Virtual Reality (TPC member), 
@@ -146,7 +146,7 @@ Committee Members in 2021 AAAI</font>),
 5. 熊佳颖，2017-2021, 本科，发表1篇IEEE International Conference on Image Processing (ICIP) 信号处理旗舰会议论文, Poster Presentation; 1篇IEEE International Conference on Signal and Image Processing (ICSIP) 信号与图像处理国际会议论文, Oral Presentation, 中科院攻读硕士，导师：吴岳良院士
 6. 周凯, 2017-2021, 本科，发表1篇IEEE International Conference on Image Processing (ICIP) 信号处理旗舰会议论文, Poster Presentation, 东南大学攻读硕士
 
-## Co-authors and Friends (合作与朋友)
+## Co-authors and Friends (合作朋友)
 1. Chongyi Li: https://li-chongyi.github.io/
 2. Xueyang Fu: https://xueyangfu.github.io/
 3. Xinghao Ding: https://xmu-smartdsp.github.io/teamindex/xhding.html
