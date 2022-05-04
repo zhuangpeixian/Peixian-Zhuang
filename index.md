@@ -2,7 +2,7 @@
 ## Peixian Zhuang （庄培显）
 Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士后, 助理研究员), advised by Prof. Qionghai Dai (戴琼海教授, 中国工程院院士、国务院参事、中国人工智能学会理事长、清华大学信息学院院长), Tsinghua University（清华大学）**. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the **Best PhD. Thesis Award in Fujian Province**（**福建省优秀博士学位论文**）in 2017. From 2017.02 to 2020.07, I am a **Lecturer (讲师)** and **Master Supervisor（硕士生导师）**in the School of Electronic and Information Engineering, **Nanjing University of Information Science and Technology (南京信息工程大学，双一流建设大学)**. My research interests focus on Bayesian modeling, sparse representation and deep learning, including image restoration, image naturalization, medical image reconstruction, remote sensing fusion, and underwater image enhancement, and so on. And my current interests focus on Neuron signal extraction and calcium signal descattering in the BBNC Lab.
 
-### Long-term Note(长期有效): <font color="red">I am looking for a teaching position of a university in Beijing！ Communication email is zhuangpeixian0624@163.com（本人寻求北京高校的教职工作，欢迎随时联系！）</font>
+### Long-term Note (长期有效): <font color="red">I am looking for a teaching position of a university in Beijing！Communication email: zhuangpeixian0624@163.com.（本人寻求北京高校的教职工作，欢迎随时联系！）</font>
 
 ### Communication Address (通信地址)
 **Department of Automation, Tsinghua University, Beijing 100084, China**
@@ -69,6 +69,9 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 
 ### Chinese Patents
 庄培显; 郭彭浩; 戴于翔; 熊佳颖. 一种台风云图增强方法与流程. 发明专利, 申请专利号 CN201910421483.5.
+
+### Poject Reviewers 
+<font color="red">国家自然科学基金评审人</font>
 
 ### Dissertation Reviewers
 厦门大学硕士研究生学位论文评审人
