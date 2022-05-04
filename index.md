@@ -9,7 +9,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 
 ### Matlab Code! Retinex Variational Underwater Image Enhancement (<font color="red">https://github.com/zhuangpeixian</font>) 
 
-### Google Citation：<font color="red">559+</font>   
+### Google Citation（引用次数）：<font color="red">559+</font>   
 ### SCI IF：<font color="red">50+</font>
 
 ### Publications（发表论文）(* corresponding author 通信作者)
@@ -47,7 +47,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 31. Shengkui Dai*, **Peixian Zhuang**, Wenjie Xiang. GSO: An improved PSO based on geese flight theory. International Conference in Swarm Intelligence (ICSI), pp. 87-95, 2013. 
 32. **Peixian Zhuang**, Shengkui Dai*. Improved Geese Swarm Optimization Algorithm Based on Gaussian Weighted Sum (基于高斯加权的GeesePSO改进算法). Computer Science（计算机科学，中文版核心期刊）, vol. 40, no. Z6, pp. 87-89, 2013.
 
-### Projects（主持与参与项目）
+### Projects（项目情况）
 1. <font color="red">国家自然科学基金面上项目（No. 62171252），基于先验知识与数据驱动景深估计模型的神经元提取研究，2022 – 2025，63万，主持，在研</font>
 2. <font color="red">中国博士后科学基金面上项目，基于多阶保真与联合先验的贝叶斯CSMRI方法研究，2021 – 2022，8万，主持，在研</font>
 3. <font color="red">科技创新2030 — "新一代人工智能" 重大项目，复杂不确定条件下无人集群系统态势感知和认知（No.2020AAA0108202），2020-2023，333万，项目骨干，在研</font>
