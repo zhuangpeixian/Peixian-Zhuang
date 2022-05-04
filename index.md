@@ -12,7 +12,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 ### Google Citation：<font color="red">559+</font>   
 ### SCI IF：<font color="red">50+</font>
 
-### Publications (* corresponding author)
+### Publications（发表论文）(* corresponding author)
 0. <font color="red">Peixian Zhuang, Jiamin Wu*. Reinforcing neuron extraction from calcium imaging data via depth-estimation constrained nonnegative matrix factorization. Submitted to 2022 IEEE International Conference on Image Processing (EI, CCF推荐, 图像处理旗舰会议) </font> 
 1. <font color="red">Peixian Zhuang*, Chongyi Li, Jiamin Wu, Fatih Porikli. Underwater Image Enhancement with Hyper-Laplacian Reflectance Priors. Submitted to IEEE Transactions on Image Processing, Under Review.</font>
 2. Weidong Zhang, Peixian Zhuang, Haihan Sun, Guohou Li, Sam Kwong, Chongyi Li*. Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement. IEEE Transactions on Image Processing, <font color="red">Minor Revision.</font>
@@ -47,7 +47,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 31. Shengkui Dai*, **Peixian Zhuang**, Wenjie Xiang. GSO: An improved PSO based on geese flight theory. International Conference in Swarm Intelligence (ICSI), pp. 87-95, 2013. 
 32. **Peixian Zhuang**, Shengkui Dai*. Improved Geese Swarm Optimization Algorithm Based on Gaussian Weighted Sum (基于高斯加权的GeesePSO改进算法). Computer Science（计算机科学，中文版核心期刊）, vol. 40, no. Z6, pp. 87-89, 2013.
 
-### Projects
+### Projects（主持与参与项目）
 1. <font color="red">国家自然科学基金面上项目（No. 62171252），基于先验知识与数据驱动景深估计模型的神经元提取研究，2022 – 2025，63万，主持，在研</font>
 2. <font color="red">中国博士后科学基金面上项目，基于多阶保真与联合先验的贝叶斯CSMRI方法研究，2021 – 2022，8万，主持，在研</font>
 3. <font color="red">科技创新2030 — "新一代人工智能" 重大项目，复杂不确定条件下无人集群系统态势感知和认知（No.2020AAA0108202），2020-2023，333万，项目骨干，在研</font>
@@ -64,18 +64,16 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 14. 江苏省大学生创新训练项目（No. 201910300079Y）, 基于图像稀疏表示的非盲去模糊方法研究, 2019 – 2020, 0.6万，第一指导教师, 结题
 15. 南京信息工程大学人才启动项目（NUIST 2243141701030), 基于非参数层次贝叶斯景深估计模型的水下降质图像质量提升研究, 2017-2020, 10万，主持，结题 
 
-
-### Chinese Patents
+### Chinese Patents（发明专利）
 庄培显; 郭彭浩; 戴于翔; 熊佳颖. 一种台风云图增强方法与流程. 发明专利, 申请专利号 CN201910421483.5.
 
-### Poject Reviewers 
+### Poject Reviewers（项目评审）
 <font color="red">国家自然科学基金评审人</font>
 
-### Dissertation Reviewers
+### Dissertation Reviewers（论文评审）
 厦门大学硕士研究生学位论文评审人
 
-
-### Journal Editors
+### Journal Editors（期刊主编）
 <font color="red">电子与信息学报 (恶劣环境下的图像处理技术, 专题主编),</font>
 Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization (Associate Editor), 
 Journal of Electronics and Advanced Electrical Engineering (Editor).
@@ -109,8 +107,7 @@ Big Data Research,
 Journal of Healthcare Engineering,
 Journal of Computational Methods in Sciences and Engineering, etc.
 
-
-### Conference Technical Committees 
+### Conference Technical Committees（会议技术委员）
 2022, 2021, 2020 and 2019 IEEE International Conference on Signal and Image Processing (<font color="red">2019 分会主席Session Chair for Image Processing II</font>, and TC member), 
 2022, 2021 and 2020 International Conference on Image and Graphics Processing (TC member),
 2022 and 2021 International Conference on Virtual Reality (TPC member), 
