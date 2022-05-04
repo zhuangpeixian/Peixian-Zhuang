@@ -3,10 +3,9 @@
 Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士后, 助理研究员), advised by Prof. Qionghai Dai (戴琼海教授, 中国工程院院士、国务院参事、中国人工智能学会理事长、清华大学信息学院院长), Tsinghua University（清华大学）**. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the **Best PhD. Thesis Award in Fujian Province**（**福建省优秀博士学位论文**）in 2017. From 2017.02 to 2020.07, I am a **Lecturer (讲师)** and **Master Supervisor（硕士生导师）**in the School of Electronic and Information Engineering, **Nanjing University of Information Science and Technology (南京信息工程大学，双一流建设大学)**. My research interests focus on Bayesian modeling, sparse representation and deep learning, including image restoration, image naturalization, medical image reconstruction, remote sensing fusion, and underwater image enhancement, and so on. And my current interests focus on Neuron signal extraction and calcium signal descattering in the BBNC Lab.
 
 ### Long-term Note(长期有效): <font color="red">I am looking for a teaching position of a university in Beijing！（本人寻求北京高校的教职工作，欢迎随时联系！）</font>
-## Communication Email (通信邮箱)
-**zhuangpeixian0624@163.com**, **zhuangpeixian@mail.tsinghua.edu.cn**
-## Communication Address (通信地址)
-**Department of Automation, Tsinghua University, Beijing 100084, China**
+**Communication Email (通信邮箱): zhuangpeixian0624@163.com**, **zhuangpeixian@mail.tsinghua.edu.cn**
+**Communication Address (通信地址): Department of Automation, Tsinghua University, Beijing 100084, China**
+
 
 ### Matlab Code! Retinex Variational Underwater Image Enhancement (<font color="red">https://github.com/zhuangpeixian</font>) 
 
@@ -49,12 +48,6 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 31. Shengkui Dai*, **Peixian Zhuang**, Wenjie Xiang. GSO: An improved PSO based on geese flight theory. International Conference in Swarm Intelligence (ICSI), pp. 87-95, 2013. 
 32. **Peixian Zhuang**, Shengkui Dai*. Improved Geese Swarm Optimization Algorithm Based on Gaussian Weighted Sum (基于高斯加权的GeesePSO改进算法). Computer Science（计算机科学，中文版核心期刊）, vol. 40, no. Z6, pp. 87-89, 2013.
 
-### Chinese Patents
-1. 庄培显; 郭彭浩; 戴于翔; 熊佳颖. 一种台风云图增强方法与流程. 发明专利, 申请专利号 CN201910421483.5.
-
-### Dissertation Reviewers
-1. 厦门大学硕士研究生学位论文评审人
-
 ### Projects
 1. <font color="red">国家自然科学基金面上项目（No. 62171252），基于先验知识与数据驱动景深估计模型的神经元提取研究，2022 – 2025，63万，主持，在研</font>
 2. <font color="red">中国博士后科学基金面上项目，基于多阶保真与联合先验的贝叶斯CSMRI方法研究，2021 – 2022，8万，主持，在研</font>
@@ -71,6 +64,19 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 13. 国家自然科学基金面上项目（No. 61172179），基于非参数层次贝叶斯模型的自适应字典稀疏表示方法及应用，2012 – 2015，60万，参与，结题
 14. 江苏省大学生创新训练项目（No. 201910300079Y）, 基于图像稀疏表示的非盲去模糊方法研究, 2019 – 2020, 0.6万，第一指导教师, 结题
 15. 南京信息工程大学人才启动项目（NUIST 2243141701030), 基于非参数层次贝叶斯景深估计模型的水下降质图像质量提升研究, 2017-2020, 10万，主持，结题 
+
+
+### Chinese Patents
+庄培显; 郭彭浩; 戴于翔; 熊佳颖. 一种台风云图增强方法与流程. 发明专利, 申请专利号 CN201910421483.5.
+
+### Dissertation Reviewers
+厦门大学硕士研究生学位论文评审人
+
+
+### Journal Editors
+<font color="red">电子与信息学报 (恶劣环境下的图像处理技术, 专题主编),</font>
+Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization (Associate Editor), 
+Journal of Electronics and Advanced Electrical Engineering (Editor).
 
 ### Journal Reviewers
 IEEE Transactions on Image Processing（图像处理顶级期刊）,
@@ -101,6 +107,18 @@ Big Data Research,
 Journal of Healthcare Engineering,
 Journal of Computational Methods in Sciences and Engineering, etc.
 
+
+### Conference Technical Committees 
+2022, 2021, 2020 and 2019 IEEE International Conference on Signal and Image Processing (<font color="red">2019 分会主席Session Chair for Image Processing II</font>, and TC member), 
+2022, 2021 and 2020 International Conference on Image and Graphics Processing (TC member),
+2022 and 2021 International Conference on Virtual Reality (TPC member), 
+2021 International Conference on Electronics, Communications and Networks (TPC member),
+2020 International Conference on Vision, Image and Signal Processing (TC member), 
+2020 International Conference on Medical Science and Biomedical Engineering (TPC member), 
+2020 International Conference on Computer Science and Electronics& Electrical Engineering (TC member), 
+2020 International Conference on Modern Management based on Big Data (TPC member), 
+2020 International Conference on Information Security and Privacy Protection (TC member), etc.
+
 ### Conference Reviewers
 2022 and 2021 AAAI Conference on Artificial Intelligence (AAAI)(人工智能领域顶级会议)(<font color="red">top 25% of Program 
 Committee Members in 2021 AAAI</font>), 
@@ -118,22 +136,6 @@ Committee Members in 2021 AAAI</font>),
 2019 International Conference on Computer Science and Application Engineering, 
 2018 IEEE International Conference on Wireless Communications and Signal Processing, 
 2020 and 2018 International Conference on Artificial Intelligence and Security, etc.
-
-### Journal Editors
-<font color="red">电子与信息学报 (恶劣环境下的图像处理技术, 专题主编),</font>
-Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization (Associate Editor), 
-Journal of Electronics and Advanced Electrical Engineering (Editor).
-
-### Conference Technical Committees 
-2022, 2021, 2020 and 2019 IEEE International Conference on Signal and Image Processing (<font color="red">2019 分会主席Session Chair for Image Processing II</font>, and TC member), 
-2022, 2021 and 2020 International Conference on Image and Graphics Processing (TC member),
-2022 and 2021 International Conference on Virtual Reality (TPC member), 
-2021 International Conference on Electronics, Communications and Networks (TPC member),
-2020 International Conference on Vision, Image and Signal Processing (TC member), 
-2020 International Conference on Medical Science and Biomedical Engineering (TPC member), 
-2020 International Conference on Computer Science and Electronics& Electrical Engineering (TC member), 
-2020 International Conference on Modern Management based on Big Data (TPC member), 
-2020 International Conference on Information Security and Privacy Protection (TC member), etc.
 
 ## Alumni
 1. 戴于翔, 2017-2020，硕士，发表1篇JCR4区SCI期刊论文（核磁成像权威期刊Magnetic Resonance Imaging）, 2019研究生国家奖学金，目前在复旦大学攻读博士（博导: 王鹤
