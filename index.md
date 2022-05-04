@@ -3,35 +3,13 @@
 Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士后, 助理研究员), advised by Prof. Qionghai Dai (戴琼海教授, 中国工程院院士、国务院参事、中国人工智能学会理事长、清华大学信息学院院长), Tsinghua University（清华大学）**. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the **Best PhD. Thesis Award in Fujian Province**（**福建省优秀博士学位论文**）in 2017. From 2017.02 to 2020.07, I am a **Lecturer (讲师)** and **Master Supervisor（硕士生导师）**in the School of Electronic and Information Engineering, **Nanjing University of Information Science and Technology (南京信息工程大学，双一流建设大学)**. My research interests focus on Bayesian modeling, sparse representation and deep learning, including image restoration, image naturalization, medical image reconstruction, remote sensing fusion, and underwater image enhancement, and so on. And my current interests focus on Neuron signal extraction and calcium signal descattering in the BBNC Lab.
 
 ### Long-term Note(长期有效): <font color="red">I am looking for a teaching position of a university in Beijing！（本人寻求北京高校的教职工作，欢迎随时联系！）</font>
-
+## Communication Email (通信邮箱)
+**zhuangpeixian0624@163.com**, **zhuangpeixian@mail.tsinghua.edu.cn**
+## Communication Address (通信地址)
+**Department of Automation, Tsinghua University, Beijing 100084, China**
 
 ### Matlab Code! Retinex Variational Underwater Image Enhancement (<font color="red">https://github.com/zhuangpeixian</font>) 
 
-
-### Last News
-0. <font color="red">Lastest News: I win the National Natural Science Foundation of China under Grant (国家自然科学基金面上项目, No. 62171252, 2022.01-2025.12)！</font>
-1. <font color="red">Lastest News: Our paper titled 'Underwater Image Enhancement Using a Multi-Scale Dense Generative Adversarial Network' has been the ESI Highly Cited Paper（ESI高被引论文） and has reached 100+ google scholar‬ citations（100次谷歌学术引用）！ </font>
-2. <font color="red">Lastest News: I win the General Program from China Postdoctoral Science Foundation (中国博士后科学基金面上项目, 2021.11-2022.09)！ </font>
-3. <font color="red">Lastest News: Our paper titled 'A retinex-based enhancing approach for single underwater image' has reached 200+ google scholar‬ citations（200次谷歌学术引用）！ </font>
-4. Recent News: I am honor to join the BBNC lab (http://media.au.tsinghua.edu.cn/) as a Postdoctoral Fellow, advised by Prof. Qionghai Dai (戴琼海教授, 中国工程院院士、国务院参事、中国人工智能学会理事长、清华大学信息学院院长)！
-5. I am honor to be an Editor Board Member for Journal of Electronics and Advanced Electrical Engineering, and an Associate Editor for Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization! Hope you will contribute your manuscript on these journals!
-6. Two papers titled “An efficient underwater image enhancement model with extensive Beer-Lambert law”and “Blind image deblurring with joint extreme channels and L0-regularized intensity and gradient priors” have been accepted on 2020 IEEE International Conference on Image Processing (IEEE ICIP, CCF推荐EI会议, 信号处理3大旗舰会议之一)！
-7. One paper titled “Bayesian Pan-sharpening with Multi-order Gradient-based Deep Network Constraints”  has been accepted on IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (SCI JCR 2区, IF: 3.392)！
-8. Two papers titled “Underwater Image Enhancement with a Total Generalized Variation Illumination Prior” and “Underwater Image Enhancement based on Dehazing and Color Correction” have been accepted on 2019 IEEE International Symposium on Parallel and Distributed Processing with Applications (IEEE ISPA, EI, CCF推荐, 并行和分布式应用处理国际会议) ！
-9. One paper titled “Underwater Image Enhancement Using An Edge-Preserving Filtering Retinex Algorithm” has been accepted on Multimedia Tools and Applications (SCI JCR 4区, CCF推荐,IF：2.101) !
-10.  I am honor to be a member of Technical Committee on 2020 International Conference on Image and Graphics Processing (图像与图形处理国际EI会议) ！And one paper titled “An Enhancing Approach for Typhoon Cloud Image” has been accepted on 2020 International Conference on Image and Graphics Processing, Oral Presentation (图像与图形处理国际EI会议) !
-11. One paper titled “Compressed Sensing MRI with Joint Image-Level and Patch-Level Priors” has been accepted on 2019 IEEE International Conference on Image Processing, Poster Presentation (IEEE ICIP, CCF推荐EI会议, 信号处理3大旗舰会议之一) ！
-12. One paper titled “Divide and Conquer Framework for Image Restoration and Enhancement” has been accepted on Engineering Applications of Artificial Intelligence (SCI JCR 2区, CCF推荐, IF：6.212) !
-13. Two papers titled “Pan-GGF: A Probabilistic Method for Pan-sharpening With Gradient Domain Guided Image Filtering” and “MRI Reconstruction with an Edge-Preserving Prior” have been accepted on Signal Processing (信号处理顶级期刊，SCI JCR 1区, CCF推荐, IF：4.662) ！
-14. One paper titled “Underwater Image Enhancement Using a Multi-Scale Dense Generative Adversarial Network” has been accepted on IEEE Journal of Oceanic Engineering (海洋工程顶级期刊, SCI JCR 2区, IF：2. 435) !
-15. I am honor to be the Session Chair (Image Processing II) and a member of Technical Committee on 2019 IEEE International Conference on Signal and Image Processing (IEEE ICSIP, 信号与图像处理国际EI会议) ！
-16. Two papers titled “Pan-sharpening with a Gradient Domain Guided Image Filtering Prior” and “Underwater Image Enhancement by Gaussian Curvature Filter” have been accepted on 2019 IEEE International Conference on Signal and Image Processing, Oral Presentation (IEEE ICSIP, 信号与图像处理国际EI会议) ！
-17. One paper titled “Compressed Sensing MRI via a Multi-scale Dilated Residual Convolution Network” has been accepted on Magnetic Resonance Imaging (核磁共振成像权威期刊, SCI JCR 4区, IF：2.564) !
-18. One paper titled “Pan-sharpening via a gradient-based deep network prior” has been accepted on Signal Processing: Image Communications (SCI JCR 2区, CCF推荐, IF：2. 814) !
-19. One paper titled “Removing Stripe Noise from Infrared Cloud Image via Deep Convolutional Network” has been accepted on IEEE Photonics Journal (SCI JCR 3区, IF：2. 627) !
-20. I win to be a Professional Master Supervisor in School of Electronic and Information Engineering, Nanjing University of Information Science and Technology (2017.02-2020.02)!
-21. I am a winner of the Best PhD. Thesis Award in Fujian Province in 2017 (福建省优秀博士学位论文)!
-22. I win the National Natural Science Foundation of China under Grant (国家自然科学基金青年项目, No. 61701245, 2018.01-2020.12)！
 
 ### Google Citation：<font color="red">559+</font>   
 ### SCI IF：<font color="red">50+</font>
@@ -183,9 +161,3 @@ Journal of Electronics and Advanced Electrical Engineering (Editor).
 13. Xiangyong Cao: http://math.xjtu.edu.cn/info/1337/7601.htm
 14. Qing Tian: https://faculty.nuist.edu.cn/tianqing/zh_CN/index.htm
 15. Liangliang Liu: http://faculty.nuaa.edu.cn/liuliangliang/en/index.htm
-
-## Communication Email
-**zhuangpeixian0624@163.com**, **zhuangpeixian@mail.tsinghua.edu.cn**
-
-## Communication Address
-**Department of Automation, Tsinghua University, Beijing 100084, China**
