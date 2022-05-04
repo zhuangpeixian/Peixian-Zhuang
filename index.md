@@ -1,23 +1,21 @@
 ![image](./1.jpg) 
 ## Peixian Zhuang （庄培显）
-Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士后, 助理研究员), advised by Prof. Qionghai Dai (戴琼海教授, 中国工程院院士、国务院参事、中国人工智能学会理事长、清华大学信息学院院长), Tsinghua University（清华大学）**. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the **Best PhD. Thesis Award in Fujian Province**（**福建省优秀博士学位论文**）in 2017. From 2017.02 to 2020.07, I am a **Lecturer (讲师)** and **Master Supervisor（硕士生导师）**in the School of Electronic and Information Engineering, **Nanjing University of Information Science and Technology (南京信息工程大学，双一流建设大学)**. My research interests focus on Bayesian modeling, sparse representation and deep learning, including image restoration, image naturalization, medical image reconstruction, remote sensing fusion, and underwater image enhancement, and so on. And my current interests focus on Neuron signal extraction and calcium signal descattering in the BBNC Lab.
+Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士后, 助理研究员), advised by Prof. Qionghai Dai (戴琼海教授, 中国工程院院士、国务院参事、中国人工智能学会理事长、清华大学信息学院院长), Tsinghua University（清华大学）**. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the **Best PhD. Thesis Award in Fujian Province**（**福建省优秀博士学位论文**）in 2017. From 2017.02 to 2020.07, I am a **Lecturer (讲师)** and **Master Supervisor（硕士生导师）**in the School of Electronic and Information Engineering, **Nanjing University of Information Science and Technology (南京信息工程大学，双一流建设大学)**. My research interests focus on Bayesian modeling, sparse representation and deep learning, including image restoration, image naturalization, medical image reconstruction, remote sensing fusion, and underwater image enhancement, and so on. And my current interests focus on Neuron signal extraction and calcium signal descattering in the BBNC Lab (http://media.au.tsinghua.edu.cn/).
 
 ### Long-term Note (长期有效): <font color="red">I am looking for a teaching position of a university in Beijing！Communication email: zhuangpeixian0624@163.com.（本人寻求北京高校的教职工作，欢迎随时联系！）</font>
 
 ### Communication Address (通信地址)
 **Department of Automation, Tsinghua University, Beijing 100084, China**
 
-
 ### Matlab Code! Retinex Variational Underwater Image Enhancement (<font color="red">https://github.com/zhuangpeixian</font>) 
-
 
 ### Google Citation：<font color="red">559+</font>   
 ### SCI IF：<font color="red">50+</font>
 
 ### Publications (* corresponding author)
 0. <font color="red">Peixian Zhuang, Jiamin Wu*. Reinforcing neuron extraction from calcium imaging data via depth-estimation constrained nonnegative matrix factorization. Submitted to 2022 IEEE International Conference on Image Processing (EI, CCF推荐, 图像处理旗舰会议) </font> 
-1. <font color="red">Peixian Zhuang*, Chongyi Li, Jiamin Wu, Fatih Porikli. Underwater Image Enhancement with Hyper-Laplacian Reflectance Priors. Submitted to IEEE Transactions on Image Processing, Peer Review.</font>
-2. <font color="red"> Weidong Zhang, Peixian Zhuang, Haihan Sun, Guohou Li, Sam Kwong, Chongyi Li*. Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement. Submitted to IEEE Transactions on Image Processing, Major Revision.</font>
+1. <font color="red">Peixian Zhuang*, Chongyi Li, Jiamin Wu, Fatih Porikli. Underwater Image Enhancement with Hyper-Laplacian Reflectance Priors. Submitted to IEEE Transactions on Image Processing, Under Review.</font>
+2. Weidong Zhang, Peixian Zhuang, Haihan Sun, Guohou Li, Sam Kwong, Chongyi Li*. Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement. IEEE Transactions on Image Processing, <font color="red">Minor Revision.</font>
 3. **Peixian Zhuang***. Retinex Underwater Image Enhancement with Multi-Order Gradient Priors. IEEE International Conference on Image Processing (IEEE ICIP), pp. 1709-1713, 2021. (EI, CCF推荐, 图像处理旗舰会议) . 
 4. Hanyu Li, **Peixian Zhuang***(co-first author). DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Signal Processing: Image Communication, vol. 95, pp. 116248, 2021. (SCI, JCR3, CCF推荐, IF: 2.779).（Cite: 5次）</font>
 5. **Peixian Zhuang***, Chongyi Li, Jiamin Wu. Bayesian Retinex Underwater Image Enhancement. Engineering Applications of Artificial Intelligence, vol.101, pp. 104171, 2021. (人工智能顶级期刊, SCI, JCR1, CCF推荐, IF: 6.212) <font color="red">（Cite: 28次）</font>
@@ -82,7 +80,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization (Associate Editor), 
 Journal of Electronics and Advanced Electrical Engineering (Editor).
 
-### Journal Reviewers
+### Journal Reviewers (期刊审稿)
 IEEE Transactions on Image Processing（图像处理顶级期刊）,
 IEEE Transactions on Computational Imaging（计算成像顶级期刊）,
 IEEE Transactions on Circuits and Systems for Video Technology（视频处理与多媒体领域顶级期刊）, 
@@ -123,7 +121,7 @@ Journal of Computational Methods in Sciences and Engineering, etc.
 2020 International Conference on Modern Management based on Big Data (TPC member), 
 2020 International Conference on Information Security and Privacy Protection (TC member), etc.
 
-### Conference Reviewers
+### Conference Reviewers (会议审稿)
 2022 and 2021 AAAI Conference on Artificial Intelligence (AAAI)(人工智能领域顶级会议)(<font color="red">top 25% of Program 
 Committee Members in 2021 AAAI</font>), 
 2022，2021，2020 and 2019 IEEE International Conference on Multimedia and Expo (ICME)（多媒体领域顶级会议) ,
@@ -141,7 +139,7 @@ Committee Members in 2021 AAAI</font>),
 2018 IEEE International Conference on Wireless Communications and Signal Processing, 
 2020 and 2018 International Conference on Artificial Intelligence and Security, etc.
 
-## Alumni
+## Alumni (团队成员)
 1. 戴于翔, 2017-2020，硕士，发表1篇JCR4区SCI期刊论文（核磁成像权威期刊Magnetic Resonance Imaging）, 2019研究生国家奖学金，目前在复旦大学攻读博士（博导: 王鹤
 研究员）
 2. 郭彭浩，2018-2021，硕士，发表1篇JCR2区遥感信息处理权威SCI期刊（IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing），
@@ -151,7 +149,7 @@ Committee Members in 2021 AAAI</font>),
 5. 熊佳颖，2017-2021, 本科，发表1篇IEEE International Conference on Image Processing (ICIP) 信号处理旗舰会议论文, Poster Presentation; 1篇IEEE International Conference on Signal and Image Processing (ICSIP) 信号与图像处理国际会议论文, Oral Presentation, 中科院攻读硕士，导师：吴岳良院士
 6. 周凯, 2017-2021, 本科，发表1篇IEEE International Conference on Image Processing (ICIP) 信号处理旗舰会议论文, Poster Presentation, 东南大学攻读硕士
 
-## Co-authors and Friends
+## Co-authors and Friends (合作与朋友)
 1. Chongyi Li: https://li-chongyi.github.io/
 2. Xueyang Fu: https://xueyangfu.github.io/
 3. Xinghao Ding: https://xmu-smartdsp.github.io/teamindex/xhding.html
