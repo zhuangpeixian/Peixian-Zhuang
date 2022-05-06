@@ -9,13 +9,13 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 
 ### Matlab Code! Retinex Variational Underwater Image Enhancement (<font color="red">https://github.com/zhuangpeixian</font>) 
 
-### Google Citation（引用次数）：<font color="red">559+</font>   
+### Google Citation（引用次数）：<font color="red">550+</font>   
 ### SCI IF：<font color="red">50+</font>
 
 ### Publications（发表论文）(* corresponding author 通信作者)
-0. <font color="red">Peixian Zhuang, Jiamin Wu*. Reinforcing neuron extraction from calcium imaging data via depth-estimation constrained nonnegative matrix factorization. Submitted to 2022 IEEE International Conference on Image Processing (EI, CCF推荐, 图像处理旗舰会议) </font> 
-1. <font color="red">Peixian Zhuang*, Chongyi Li, Jiamin Wu, Fatih Porikli. Underwater Image Enhancement with Hyper-Laplacian Reflectance Priors. Submitted to IEEE Transactions on Image Processing, Under Review.</font>
-2. Weidong Zhang, **Peixian Zhuang**, Haihan Sun, Guohou Li, Sam Kwong, Chongyi Li*. Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement. <font color="red">IEEE Transactions on Image Processing, Minor Revision.</font>
+0. <font color="red">Peixian Zhuang*, Chongyi Li, Jiamin Wu, Fatih Porikli. Underwater Image Enhancement with Hyper-Laplacian Reflectance Priors. Submitted to IEEE Transactions on Image Processing, Under Review. (图像处理顶级期刊, SCI, JCR1, CCF推荐, IF: 10.856)</font>
+1. <font color="red">Peixian Zhuang, Jiamin Wu*. Reinforcing neuron extraction from calcium imaging data via depth-estimation constrained nonnegative matrix factorization. Submitted to 2022 IEEE International Conference on Image Processing (EI, CCF推荐, 图像处理旗舰会议) </font> 
+2. Weidong Zhang, **Peixian Zhuang**, Haihan Sun, Guohou Li, Sam Kwong, Chongyi Li*. Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement. <font color="red">IEEE Transactions on Image Processing, Minor Revision.  (图像处理顶级期刊, SCI, JCR1, CCF推荐, IF: 10.856)</font>
 3. **Peixian Zhuang***. Retinex Underwater Image Enhancement with Multi-Order Gradient Priors. IEEE International Conference on Image Processing (IEEE ICIP), pp. 1709-1713, 2021. (EI, CCF推荐, 图像处理旗舰会议) . 
 4. Hanyu Li, **Peixian Zhuang***(co-first author). DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Signal Processing: Image Communication, vol. 95, pp. 116248, 2021. (SCI, JCR3, CCF推荐, IF: 2.779).（Cite: 5次）</font>
 5. **Peixian Zhuang***, Chongyi Li, Jiamin Wu. Bayesian Retinex Underwater Image Enhancement. Engineering Applications of Artificial Intelligence, vol.101, pp. 104171, 2021. (人工智能顶级期刊, SCI, JCR1, CCF推荐, IF: 6.212) <font color="red">（Cite: 28次）</font>
@@ -68,7 +68,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 庄培显; 郭彭浩; 戴于翔; 熊佳颖. 一种台风云图增强方法与流程. 发明专利, 申请专利号 CN201910421483.5.
 
 ### Poject Reviewers（项目评审）
-<font color="red">国家自然科学基金评审人</font>
+<font color="red">国家自然科学基金函评专家</font>
 
 ### Dissertation Reviewers（论文评审）
 厦门大学硕士研究生学位论文评审人
