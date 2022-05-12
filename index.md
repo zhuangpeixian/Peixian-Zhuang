@@ -73,7 +73,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 <font color="red">国家自然科学基金函评专家</font>
 
 ### Dissertation Reviewers（论文评审）
-厦门大学硕士研究生学位论文评审人
+厦门大学硕士研究生学位论文评审专家
 
 ### Journal Editors（期刊主编）
 <font color="red">电子与信息学报 (恶劣环境下的图像处理技术, 专题主编),</font>
