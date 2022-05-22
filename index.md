@@ -111,7 +111,7 @@ Journal of Healthcare Engineering,
 Journal of Computational Methods in Sciences and Engineering, etc.
 
 ### Conference Technical Committees（技术委员）
-2022 International Conference on Optics and Image Processing (<font color="red">分会II受邀报告专家</font>)
+2022 International Conference on Optics and Image Processing (<font color="red">分会II受邀报告专家</font>),
 2022, 2021, 2020 and 2019 IEEE International Conference on Signal and Image Processing (<font color="red">2019 分会主席Session Chair for Image Processing II</font>, and TC member), 
 2022, 2021 and 2020 International Conference on Image and Graphics Processing (TC member),
 2022 and 2021 International Conference on Virtual Reality (TPC member), 
