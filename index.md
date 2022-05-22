@@ -87,6 +87,7 @@ IEEE Transactions on Circuits and Systems for Video Technology（视频处理与
 IEEE Transactions on Geoscience and Remote Sensing（遥感信息处理领域顶级期刊）,
 IEEE Transactions on Cybernetics（控制论领域顶级期刊）, 
 IEEE Transactios on Consumer Electronics,
+IEEE Journal of Oceanic Engineering（海洋工程领域顶级期刊）,
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing（遥感信息处理领域权威期刊）,
 IEEE Geoscience and Remote Sensing Letters,
 Knowledge-Based Systems（人工智能顶级期刊）, 
