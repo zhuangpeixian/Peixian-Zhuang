@@ -20,13 +20,13 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 3. Weidong Zhang, **Peixian Zhuang**, Haihan Sun, Guohou Li, Sam Kwong, Chongyi Li*. Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement. <font color="red"> IEEE Transactions on Image Processing, Accepted. </font>  (图像处理顶级期刊, SCI, JCR1, CCF推荐, IF: 10.856)
 4. **Peixian Zhuang***. Retinex Underwater Image Enhancement with Multi-Order Gradient Priors. IEEE International Conference on Image Processing (IEEE ICIP), pp. 1709-1713, 2021. (EI, CCF推荐, 图像处理旗舰会议) . 
 5. Hanyu Li, **Peixian Zhuang***(co-first author). DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Signal Processing: Image Communication, vol. 95, pp. 116248, 2021. (SCI, JCR3, CCF推荐, IF: 2.779).（Cite: 5次）</font>
-6. **Peixian Zhuang***, Chongyi Li, Jiamin Wu. Bayesian Retinex Underwater Image Enhancement. Engineering Applications of Artificial Intelligence, vol.101, pp. 104171, 2021. (人工智能顶级期刊, SCI, JCR1, CCF推荐, IF: 6.212) <font color="red">（Cite: 29次）</font>
+6. **Peixian Zhuang***, Chongyi Li, Jiamin Wu. Bayesian Retinex Underwater Image Enhancement. Engineering Applications of Artificial Intelligence, vol.101, pp. 104171, 2021. (人工智能顶级期刊, SCI, JCR1, CCF推荐, IF: 6.212) <font color="red">（Cite: 30次）</font>
 7. **Peixian Zhuang***. MGF: An algorithm for compressed sensing MRI with gradient domain guided image filtering. Oral Presentation, International Conference on Image and Graphics Processing (ICIGP), pp. 214-218, 2021. (EI, 图像与图形处理国际会议)
 8. Kai Zhou, **Peixian Zhuang***(co-first author), Jiaying Xiong, Jin Zhao, Muyao Du. Blind Image Deblurring with Joint Extreme Channels and L0-Regularized Intensity and Gradient Priors. IEEE International Conference on Image Processing (IEEE ICIP), pp. 473-478, 2020. (EI, CCF推荐, 图像处理旗舰会议)
 9. Jiaying Xiong, **Peixian Zhuang***(co-first author), Yanan Zhang. An Efficient Underwater Image Enhancement Model with Extensive Beer-Lambert Law. IEEE International Conference on Image Processing (IEEE ICIP), pp. 493-498, 2020. (EI, CCF推荐, 图像处理旗舰会议) 
 10. Haopeng Guo, **Peixian Zhuang***(co-first author), Yecai Guo. Bayesian Pan-sharpening with Multi-order Gradient-based Deep Network Constraints. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (遥感信息处理权威期刊), vol.13, pp. 950-962, 2020. (SCI, JCR2, IF: 3.392) <font color="red">(Cite: 16次）</font>
 11. **Peixian Zhuang***, and Xinghao Ding. Underwater Image Enhancement Using An Edge-Preserving Filtering Retinex Algorithm. Multimedia Tools and Applications, vol 79, pp. 17279, 2020. (SCI, JCR4, CCF推荐, IF: 2.313) <font color="red">（Cite: 24次）</font>
-12. Yecai Guo*, Hanyu Li, and **Peixian Zhuang**. Underwater Image Enhancement Using a Multi-Scale Dense Generative Adversarial Network. IEEE Journal of Oceanic Engineering, vol. 45, no. 3, pp. 862-870, 2020. (海洋工程顶级期刊, SCI, JCR2, IF: 3.005) <font color="red">（*ESI Highly Cited Paper*, Popular Article; Cite: 117次）</font>
+12. Yecai Guo*, Hanyu Li, and **Peixian Zhuang**. Underwater Image Enhancement Using a Multi-Scale Dense Generative Adversarial Network. IEEE Journal of Oceanic Engineering, vol. 45, no. 3, pp. 862-870, 2020. (海洋工程顶级期刊, SCI, JCR2, IF: 3.005) <font color="red">（*ESI Highly Cited Paper*, Popular Article; Cite: 118次）</font>
 13. **Peixian Zhuang***, Haopeng Guo, Yuxiang Dai. An Enhancing Approach for Typhoon Cloud Image. Oral Presentation, International Conference on Image and Graphics Processing (ICIGP), 2020. (EI, 图像与图形处理国际会议)
 14. **Peixian Zhuang***, Xinghao Ding. Divide-and-Conquer Framework for Image Restoration and Enhancement. Engineering Applications of Artificial Intelligence, vol. 85, pp. 830-844, 2019. (人工智能顶级期刊, SCI, JCR1, CCF推荐, IF: 6.212)  <font color="red">（Summary of Divide-and-Conquer Strategy for Image Processing!）</font>
 15. **Peixian Zhuang***, Xiaowen Zhu, and Xinghao Ding.  MRI Reconstruction with an Edge-Preserving Filtering Prior. Signal Processing, vol. 155, pp. 346-357, 2019. (信号处理顶级期刊, SCI, JCR1, CCF推荐, IF: 4.662) <font color="red">（Cite: 11次）</font>
@@ -44,7 +44,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 27. **Peixian Zhuang**, Yue Huang, Delu Zeng, Xinghao Ding*. Non-Blind Deconvolution with L1-Norm of High-Frequency Fidelity. Multimedia Tools and Applications, vol. 76, no. 22, pp. 23607-23625, 2017. (SCI, JCR4, CCF推荐, IF: 2.313)
 28. **Peixian Zhuang**, Yue Huang, Delu Zeng, Xinghao Ding*. Mixed Noise Removal Based on A Novel Non-parametric Bayesian Sparse Outlier Model. Neurocomputing, vol. 174, pp. 858-865, 2016. (人工智能顶级期刊, SCI, JCR2, CCF推荐, IF: 4.438) <font color="red">（Cite: 9次）</font>
 29. **Peixian Zhuang**, Xueyang Fu, Yue Huang, Delu Zeng, Xinghao Ding*. A Novel Framework Method for Non-Blind Deconvolution Using Subspace Images Priors. Signal Processing: Image Communication, vol. 46, pp. 17-26, 2016. (SCI, JCR2, CCF推荐, IF: 2.779).
-30. Xueyang Fu, **Peixian Zhuang**, Yue Huang, Yinghao Liao, Xiao-Ping Zhang, Xinghao Ding*. A retinex-based enhancing approach for single underwater image. IEEE International Conference on Image Processing (IEEE ICIP), pp. 4572-4576, 2014. (EI, CCF推荐, 图像处理旗舰会议) <font color="red">（Cite: 246次）</font>
+30. Xueyang Fu, **Peixian Zhuang**, Yue Huang, Yinghao Liao, Xiao-Ping Zhang, Xinghao Ding*. A retinex-based enhancing approach for single underwater image. IEEE International Conference on Image Processing (IEEE ICIP), pp. 4572-4576, 2014. (EI, CCF推荐, 图像处理旗舰会议) <font color="red">（Cite: 247次）</font>
 31. **Peixian Zhuang**, Wei Wang, Delu Zeng, Xinghao Ding*. Robust Mixed Noise Removal with Non-parametric Bayesian Sparse Outlier Model. IEEE International Workshop on Multimedia Signal Processing (IEEE MMSP), pp. 1-5, 2014. (EI)
 32. Shengkui Dai*, **Peixian Zhuang**, Wenjie Xiang. GSO: An improved PSO based on geese flight theory. International Conference in Swarm Intelligence (ICSI), pp. 87-95, 2013. 
 33. **Peixian Zhuang**, Shengkui Dai*. Improved Geese Swarm Optimization Algorithm Based on Gaussian Weighted Sum (基于高斯加权的GeesePSO改进算法). Computer Science（计算机科学，中文版核心期刊）, vol. 40, no. Z6, pp. 87-89, 2013.
@@ -80,6 +80,20 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization (Associate Editor), 
 Journal of Electronics and Advanced Electrical Engineering (Editor).
 
+### Dissertation Reviewers（会议报告）
+2022 International Conference on Optics and Image Processing (<font color="red">分会II受邀报告专家</font>)
+
+### Conference Technical Committees（会议委员）
+2022-2019 IEEE International Conference on Signal and Image Processing (<font color="red">2019 图像处理II分会主席</font>, and TC member), 
+2022-2020 International Conference on Image and Graphics Processing (TC member),
+2022 and 2021 International Conference on Virtual Reality (TPC member), 
+2021 International Conference on Electronics, Communications and Networks (TPC member),
+2020 International Conference on Vision, Image and Signal Processing (TC member), 
+2020 International Conference on Medical Science and Biomedical Engineering (TPC member), 
+2020 International Conference on Computer Science and Electronics& Electrical Engineering (TC member), 
+2020 International Conference on Modern Management based on Big Data (TPC member), 
+2020 International Conference on Information Security and Privacy Protection (TC member), etc.
+
 ### Journal Reviewers (期刊审稿)
 IEEE Transactions on Image Processing（图像处理顶级期刊）,
 IEEE Transactions on Computational Imaging（计算成像顶级期刊）,
@@ -110,20 +124,9 @@ Big Data Research,
 Journal of Healthcare Engineering,
 Journal of Computational Methods in Sciences and Engineering, etc.
 
-### Conference Technical Committees（技术委员）
-2022 International Conference on Optics and Image Processing (<font color="red">分会II受邀报告专家</font>),
-2022-2019 IEEE International Conference on Signal and Image Processing (<font color="red">2019 分会主席Session Chair for Image Processing II</font>, and TC member), 
-2022-2020 International Conference on Image and Graphics Processing (TC member),
-2022 and 2021 International Conference on Virtual Reality (TPC member), 
-2021 International Conference on Electronics, Communications and Networks (TPC member),
-2020 International Conference on Vision, Image and Signal Processing (TC member), 
-2020 International Conference on Medical Science and Biomedical Engineering (TPC member), 
-2020 International Conference on Computer Science and Electronics& Electrical Engineering (TC member), 
-2020 International Conference on Modern Management based on Big Data (TPC member), 
-2020 International Conference on Information Security and Privacy Protection (TC member), etc.
 
 ### Conference Reviewers (会议审稿)
-2022 and 2021 AAAI Conference on Artificial Intelligence (AAAI)(人工智能领域顶级会议)(<font color="red">top 25% of Program 
+2022 and 2021 AAAI Conference on Artificial Intelligence (AAAI, 人工智能领域顶级会议, <font color="red">top 25% of Program 
 Committee Members in 2021 AAAI</font>), 
 2022-2019 IEEE International Conference on Multimedia and Expo (ICME)（多媒体领域顶级会议) ,
 2022-2020 International Conference on Image and Graphics Processing, 
