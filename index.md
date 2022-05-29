@@ -81,7 +81,7 @@ Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualiza
 Journal of Electronics and Advanced Electrical Engineering (Editor).
 
 ### Dissertation Reviewers（会议报告）
-2022 International Conference on Optics and Image Processing (<font color="red">分会II受邀报告专家</font>)
+2022 International Conference on Optics and Image Processing (<font color="red">分会II报告专家</font>)
 
 ### Conference Technical Committees（会议委员）
 2022-2019 IEEE International Conference on Signal and Image Processing (<font color="red">2019 图像处理II分会主席</font>, and TC member), 
