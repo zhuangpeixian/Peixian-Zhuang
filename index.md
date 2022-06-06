@@ -13,7 +13,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 ### SCI IF：<font color="red">60+</font>
 
 ### Publications（发表论文）(* corresponding author 通信作者)
-0. <font color="red">Peixian Zhuang*, Chongyi Li, Jiamin Wu, Fatih Porikli. Underwater Image Enhancement with Hyper-Laplacian Reflectance Priors. Submitted to IEEE Transactions on Image Processing, Major Revision. (图像处理顶级期刊, SCI, JCR1, CCF推荐, IF: 10.856)</font>
+0. <font color="red">Peixian Zhuang, Jiamin Wu, Fatih Porikli, Chongyi Li*. Underwater Image Enhancement with Hyper-Laplacian Reflectance Priors. Submitted to IEEE Transactions on Image Processing, Major Revision. (图像处理顶级期刊, SCI, JCR1, CCF推荐, IF: 10.856)</font>
 1. <font color="red">Peixian Zhuang, Jiamin Wu*. Reinforcing neuron extraction from calcium imaging data via depth-estimation constrained nonnegative matrix factorization. Submitted to 2022 IEEE International Conference on Image Processing (EI, CCF推荐, 图像处理旗舰会议) </font> 
 2. <font color="red">Wenyi Zhao, Chongyi Li, Weidong Zhang, Lu Yang, Peixian Zhuang, Lingqiao Li, Kefeng Fan, Huihua Yang*. Embedding Global Contrastive and
   Local Location in Self-Supervised Learning. Submitted to IEEE Transactions on Circuits and Systems for Video Technology. (视频处理与多媒体顶级期刊, SCI, JCR1, CCF推荐, IF: 4.685)</font>
