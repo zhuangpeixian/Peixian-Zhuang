@@ -9,7 +9,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 
 ### Matlab Code! Retinex Variational Underwater Image Enhancement (<font color="red">https://github.com/zhuangpeixian</font>) 
 
-### Google Citation（引用次数）：<font color="red">590+</font>   
+### Google Citation（引用次数）：<font color="red">600+</font>   
 ### SCI IF：<font color="red">60+</font>
 
 ### Publications（发表论文）(* corresponding author 通信作者)
@@ -21,13 +21,13 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 4. Weidong Zhang, **Peixian Zhuang**, Haihan Sun, Guohou Li, Sam Kwong, Chongyi Li*. Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement. IEEE Transactions on Image Processing, vol. 31, pp. 3997-4010, 2022. (图像处理顶级期刊, SCI, JCR1, CCF推荐, IF: 10.856)
 5. **Peixian Zhuang***. Retinex Underwater Image Enhancement with Multi-Order Gradient Priors. IEEE International Conference on Image Processing (IEEE ICIP), pp. 1709-1713, 2021. (EI, CCF推荐, 图像处理旗舰会议) . 
 6. Hanyu Li, **Peixian Zhuang***(co-first author). DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Signal Processing: Image Communication, vol. 95, pp. 116248, 2021. (SCI, JCR3, CCF推荐, IF: 2.779).（Cite: 5次）</font>
-7. **Peixian Zhuang***, Chongyi Li, Jiamin Wu. Bayesian Retinex Underwater Image Enhancement. Engineering Applications of Artificial Intelligence, vol.101, pp. 104171, 2021. (人工智能顶级期刊, SCI, JCR1, CCF推荐, IF: 6.212) <font color="red">（Cite: 33次）</font>
+7. **Peixian Zhuang***, Chongyi Li, Jiamin Wu. Bayesian Retinex Underwater Image Enhancement. Engineering Applications of Artificial Intelligence, vol.101, pp. 104171, 2021. (人工智能顶级期刊, SCI, JCR1, CCF推荐, IF: 6.212) <font color="red">（Cite: 34次）</font>
 8. **Peixian Zhuang***. MGF: An algorithm for compressed sensing MRI with gradient domain guided image filtering. Oral Presentation, International Conference on Image and Graphics Processing (ICIGP), pp. 214-218, 2021. (EI, 图像与图形处理国际会议)
 9. Kai Zhou, **Peixian Zhuang***(co-first author), Jiaying Xiong, Jin Zhao, Muyao Du. Blind Image Deblurring with Joint Extreme Channels and L0-Regularized Intensity and Gradient Priors. IEEE International Conference on Image Processing (IEEE ICIP), pp. 473-478, 2020. (EI, CCF推荐, 图像处理旗舰会议)
 10. Jiaying Xiong, **Peixian Zhuang***(co-first author), Yanan Zhang. An Efficient Underwater Image Enhancement Model with Extensive Beer-Lambert Law. IEEE International Conference on Image Processing (IEEE ICIP), pp. 493-498, 2020. (EI, CCF推荐, 图像处理旗舰会议) 
 11. Haopeng Guo, **Peixian Zhuang***(co-first author), Yecai Guo. Bayesian Pan-sharpening with Multi-order Gradient-based Deep Network Constraints. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (遥感信息处理权威期刊), vol.13, pp. 950-962, 2020. (SCI, JCR2, IF: 3.392) <font color="red">(Cite: 17次）</font>
-12. **Peixian Zhuang***, and Xinghao Ding. Underwater Image Enhancement Using An Edge-Preserving Filtering Retinex Algorithm. Multimedia Tools and Applications, vol 79, pp. 17279, 2020. (SCI, JCR4, CCF推荐, IF: 2.313) <font color="red">（Cite: 28次）</font>
-13. Yecai Guo*, Hanyu Li, and **Peixian Zhuang**. Underwater Image Enhancement Using a Multi-Scale Dense Generative Adversarial Network. IEEE Journal of Oceanic Engineering, vol. 45, no. 3, pp. 862-870, 2020. (海洋工程顶级期刊, SCI, JCR2, IF: 3.005) <font color="red">（*ESI Highly Cited Paper*, Popular Article; Cite: 126次）</font>
+12. **Peixian Zhuang***, and Xinghao Ding. Underwater Image Enhancement Using An Edge-Preserving Filtering Retinex Algorithm. Multimedia Tools and Applications, vol 79, pp. 17279, 2020. (SCI, JCR4, CCF推荐, IF: 2.313) <font color="red">（Cite: 27次）</font>
+13. Yecai Guo*, Hanyu Li, and **Peixian Zhuang**. Underwater Image Enhancement Using a Multi-Scale Dense Generative Adversarial Network. IEEE Journal of Oceanic Engineering, vol. 45, no. 3, pp. 862-870, 2020. (海洋工程顶级期刊, SCI, JCR2, IF: 3.005) <font color="red">（*ESI Highly Cited Paper*, Popular Article; Cite: 130次）</font>
 14. **Peixian Zhuang***, Haopeng Guo, Yuxiang Dai. An Enhancing Approach for Typhoon Cloud Image. Oral Presentation, International Conference on Image and Graphics Processing (ICIGP), 2020. (EI, 图像与图形处理国际会议)
 15. **Peixian Zhuang***, Xinghao Ding. Divide-and-Conquer Framework for Image Restoration and Enhancement. Engineering Applications of Artificial Intelligence, vol. 85, pp. 830-844, 2019. (人工智能顶级期刊, SCI, JCR1, CCF推荐, IF: 6.212)  <font color="red">（Summary of Divide-and-Conquer Strategy for Image Processing!）</font>
 16. **Peixian Zhuang***, Xiaowen Zhu, and Xinghao Ding.  MRI Reconstruction with an Edge-Preserving Filtering Prior. Signal Processing, vol. 155, pp. 346-357, 2019. (信号处理顶级期刊, SCI, JCR1, CCF推荐, IF: 4.662) <font color="red">（Cite: 11次）</font>
@@ -45,7 +45,7 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 28. **Peixian Zhuang**, Yue Huang, Delu Zeng, Xinghao Ding*. Non-Blind Deconvolution with L1-Norm of High-Frequency Fidelity. Multimedia Tools and Applications, vol. 76, no. 22, pp. 23607-23625, 2017. (SCI, JCR4, CCF推荐, IF: 2.313)
 29. **Peixian Zhuang**, Yue Huang, Delu Zeng, Xinghao Ding*. Mixed Noise Removal Based on A Novel Non-parametric Bayesian Sparse Outlier Model. Neurocomputing, vol. 174, pp. 858-865, 2016. (人工智能顶级期刊, SCI, JCR2, CCF推荐, IF: 4.438) <font color="red">（Cite: 9次）</font>
 30. **Peixian Zhuang**, Xueyang Fu, Yue Huang, Delu Zeng, Xinghao Ding*. A Novel Framework Method for Non-Blind Deconvolution Using Subspace Images Priors. Signal Processing: Image Communication, vol. 46, pp. 17-26, 2016. (SCI, JCR2, CCF推荐, IF: 2.779).
-31. Xueyang Fu, **Peixian Zhuang**, Yue Huang, Yinghao Liao, Xiao-Ping Zhang, Xinghao Ding*. A retinex-based enhancing approach for single underwater image. IEEE International Conference on Image Processing (IEEE ICIP), pp. 4572-4576, 2014. (EI, CCF推荐, 图像处理旗舰会议) <font color="red">（Cite: 257次）</font>
+31. Xueyang Fu, **Peixian Zhuang**, Yue Huang, Yinghao Liao, Xiao-Ping Zhang, Xinghao Ding*. A retinex-based enhancing approach for single underwater image. IEEE International Conference on Image Processing (IEEE ICIP), pp. 4572-4576, 2014. (EI, CCF推荐, 图像处理旗舰会议) <font color="red">（Cite: 264次）</font>
 32. **Peixian Zhuang**, Wei Wang, Delu Zeng, Xinghao Ding*. Robust Mixed Noise Removal with Non-parametric Bayesian Sparse Outlier Model. IEEE International Workshop on Multimedia Signal Processing (IEEE MMSP), pp. 1-5, 2014. (EI)
 33. Shengkui Dai*, **Peixian Zhuang**, Wenjie Xiang. GSO: An improved PSO based on geese flight theory. International Conference in Swarm Intelligence (ICSI), pp. 87-95, 2013. 
 34. **Peixian Zhuang**, Shengkui Dai*. Improved Geese Swarm Optimization Algorithm Based on Gaussian Weighted Sum (基于高斯加权的GeesePSO改进算法). Computer Science（计算机科学，中文版核心期刊）, vol. 40, no. Z6, pp. 87-89, 2013.
@@ -156,17 +156,19 @@ Committee Members in 2021 AAAI</font>),
 
 ## Co-authors and Friends (合作朋友)
 1. Chongyi Li: https://li-chongyi.github.io/
-2. Xueyang Fu: https://xueyangfu.github.io/
-3. Xinghao Ding: https://xmu-smartdsp.github.io/teamindex/xhding.html
-4. Yue Huang: https://huangyue05.github.io/
-5. Qingshan Liu: http://www.nlpr.ia.ac.cn/iva/homepage/qingshan/
-6. Liyan Sun: https://lynnsunxmu.github.io/
-7. Pengdi Huang：http://vcc.szu.edu.cn/_pengdi.html
-8. Xiaoyan Kuai: https://www.ncl.uestc.edu.cn/info/1082/1746.htm
-9. Taotao Lai: http://ccce.mju.edu.cn/2019/0613/c2248a72571/page.htm
-10. Yunquan Dong: https://dxy.nuist.edu.cn/info/1071/1885.htm
-11. Liangjian Deng: http://www.math.uestc.edu.cn/info/1082/2114.htm
-12. Mengqi Ji：http://mengqiji.com/
-13. Xiangyong Cao: http://math.xjtu.edu.cn/info/1337/7601.htm
-14. Qing Tian: https://faculty.nuist.edu.cn/tianqing/zh_CN/index.htm
-15. Liangliang Liu: http://faculty.nuaa.edu.cn/liuliangliang/en/index.htm
+2. Jiamin Wu: https://www.au.tsinghua.edu.cn/info/1107/2603.htm
+3. Xueyang Fu: https://xueyangfu.github.io/
+4. Xinghao Ding: https://xmu-smartdsp.github.io/teamindex/xhding.html
+5. Yue Huang: https://huangyue05.github.io/
+6. Qingshan Liu: http://www.nlpr.ia.ac.cn/iva/homepage/qingshan/
+7. Yecai Guo：http://dxy.cwxu.edu.cn/info/1080/1163.htm
+8. Liyan Sun: https://lynnsunxmu.github.io/
+9. Pengdi Huang：http://vcc.szu.edu.cn/_pengdi.html
+10. Xiaoyan Kuai: https://www.ncl.uestc.edu.cn/info/1082/1746.htm
+11. Taotao Lai: http://ccce.mju.edu.cn/2019/0613/c2248a72571/page.htm
+12. Yunquan Dong: https://dxy.nuist.edu.cn/info/1071/1885.htm
+13. Liangjian Deng: http://www.math.uestc.edu.cn/info/1082/2114.htm
+14. Mengqi Ji：http://mengqiji.com/
+15. Xiangyong Cao: http://math.xjtu.edu.cn/info/1337/7601.htm
+16. Qing Tian: https://faculty.nuist.edu.cn/tianqing/zh_CN/index.htm
+17. Liangliang Liu: http://faculty.nuaa.edu.cn/liuliangliang/en/index.htm
