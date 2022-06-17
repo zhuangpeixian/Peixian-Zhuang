@@ -162,13 +162,11 @@ Committee Members in 2021 AAAI</font>),
 5. Yue Huang: https://huangyue05.github.io/
 6. Qingshan Liu: http://www.nlpr.ia.ac.cn/iva/homepage/qingshan/
 7. Yecai Guo：http://dxy.cwxu.edu.cn/info/1080/1163.htm
-8. Liyan Sun: https://lynnsunxmu.github.io/
-9. Pengdi Huang：http://vcc.szu.edu.cn/_pengdi.html
-10. Xiaoyan Kuai: https://www.ncl.uestc.edu.cn/info/1082/1746.htm
-11. Taotao Lai: http://ccce.mju.edu.cn/2019/0613/c2248a72571/page.htm
-12. Yunquan Dong: https://dxy.nuist.edu.cn/info/1071/1885.htm
-13. Liangjian Deng: http://www.math.uestc.edu.cn/info/1082/2114.htm
-14. Mengqi Ji：http://mengqiji.com/
-15. Xiangyong Cao: http://math.xjtu.edu.cn/info/1337/7601.htm
-16. Qing Tian: https://faculty.nuist.edu.cn/tianqing/zh_CN/index.htm
-17. Liangliang Liu: http://faculty.nuaa.edu.cn/liuliangliang/en/index.htm
+8. Mengqi Ji：http://mengqiji.com/
+9. Liangjian Deng: http://www.math.uestc.edu.cn/info/1082/2114.htm
+10. Xiangyong Cao: http://math.xjtu.edu.cn/info/1337/7601.htm
+11. Liyan Sun: https://lynnsunxmu.github.io/
+12. Pengdi Huang：http://vcc.szu.edu.cn/_pengdi.html
+13. Xiaoyan Kuai: https://www.ncl.uestc.edu.cn/info/1082/1746.htm
+14. Yunquan Dong: https://dxy.nuist.edu.cn/info/1071/1885.htm
+15. Liangliang Liu: http://faculty.nuaa.edu.cn/liuliangliang/en/index.htm
