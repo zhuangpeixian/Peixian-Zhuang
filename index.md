@@ -2,11 +2,11 @@
 ## Peixian Zhuang （庄培显）
 I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士后, 助理研究员) in Tsinghua University（清华大学）, advised by Prof. Qionghai Dai (戴琼海教授, 中国工程院院士、国务院参事、中国人工智能学会理事长、清华大学信息学院院长)**. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the **Best PhD. Thesis Award in Fujian Province**（**福建省优秀博士学位论文**）in 2017. From 2017 to 2020, I am a Lecturer and Master Supervisor（硕士生导师）in the School of Electronic and Information Engineering, Nanjing University of Information Science and Technology (双一流建设大学). My research interests focus on Bayesian modeling, sparse representation and deep learning, including image restoration, image naturalization, medical image reconstruction, remote sensing fusion, and underwater image enhancement, etc. My current interests focus on neuron signal extraction and calcium signal descattering.
 
-### Long-term Note (长期有效): <font color="red">I am looking for a teaching position of a university in Beijing！Communication email: zhuangpeixian0624@163.com.（寻求北京高校的教职工作，欢迎随时联系！）</font>
+### Long-term note (长期有效): <font color="red">I am looking for a teaching position of a university in Beijing！Communication email: zhuangpeixian0624@163.com.（寻求北京高校的教职工作，欢迎随时联系！）</font>
 
-### Matlab Code! Retinex Variational Underwater Image Enhancement (<font color="red">https://github.com/zhuangpeixian</font>) 
+### Matlab code! Retinex Variational Underwater Image Enhancement (<font color="red">https://github.com/zhuangpeixian</font>) 
 
-### Google Citation（引用次数）：<font color="red">600+</font>   
+### Google citation（引用次数）：<font color="red">600+</font>   
 ### SCI IF：<font color="red">60+</font>
 
 ### Publications（发表论文）(* corresponding author 通信作者)
@@ -62,20 +62,20 @@ I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士后, 助理
 12. 国家自然科学基金面上项目（No. 61671309），基于有限新息率理论的高分辨率工业超声成像重构算法研究，2016 – 2019，58万，参与，结题
 13. 国家自然科学基金面上项目（No. 61172179），基于非参数层次贝叶斯模型的自适应字典稀疏表示方法及应用，2012 – 2015，60万，参与，结题
 
-### Chinese Patents（发明专利）
+### Chinese patents（发明专利）
 庄培显; 郭彭浩; 戴于翔; 熊佳颖. 一种台风云图增强方法与流程. 发明专利, 申请专利号 CN201910421483.5.
 
 ### Evaluation experts（评审专家）
 <font color="red">国家自然科学基金函评专家</font>
 厦门大学硕士研究生学位论文评审专家
 
-### Journal Editors（期刊主编）
+### Journal editors（期刊主编）
 <font color="red">电子与信息学报 (恶劣环境下的图像处理技术, 专题主编),</font>
 Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization (Associate Editor), 
 Journal of Electronics and Advanced Electrical Engineering (Editor).
 
-### Conference Technical Committees（会议委员）
-2022 International Conference on Optics and Image Processing (<font color="red">分会II报告专家</font>)
+### Conference technical committees（会议委员）
+2022 International Conference on Optics and Image Processing (<font color="red">分会II报告专家</font>),
 2022-2019 IEEE International Conference on Signal and Image Processing (<font color="red">2019 图像处理II分会主席</font>, and TC member), 
 2022-2020 International Conference on Image and Graphics Processing (TC member),
 2022 and 2021 International Conference on Virtual Reality (TPC member), 
@@ -86,7 +86,7 @@ Journal of Electronics and Advanced Electrical Engineering (Editor).
 2020 International Conference on Modern Management based on Big Data (TPC member), 
 2020 International Conference on Information Security and Privacy Protection (TC member), etc.
 
-### Journal Reviewers (期刊审稿)
+### Journal reviewers (期刊审稿)
 IEEE Transactions on Image Processing（图像处理顶级期刊）,
 IEEE Transactions on Computational Imaging（计算成像顶级期刊）,
 IEEE Transactions on Circuits and Systems for Video Technology（视频处理与多媒体领域顶级期刊）, 
@@ -116,7 +116,7 @@ Big Data Research,
 Journal of Healthcare Engineering,
 Journal of Computational Methods in Sciences and Engineering, etc.
 
-### Conference Reviewers (会议审稿)
+### Conference reviewers (会议审稿)
 2022 and 2021 AAAI Conference on Artificial Intelligence (AAAI, 人工智能领域顶级会议, <font color="red">top 25% of Program 
 Committee Members in 2021 AAAI</font>), 
 2022-2019 IEEE International Conference on Multimedia and Expo (ICME)（多媒体领域顶级会议) ,
@@ -144,7 +144,7 @@ Committee Members in 2021 AAAI</font>),
 5. 熊佳颖，2017-2021, 本科，发表1篇IEEE International Conference on Image Processing (ICIP) 信号处理旗舰会议论文, Poster Presentation; 1篇IEEE International Conference on Signal and Image Processing (ICSIP) 信号与图像处理国际会议论文, Oral Presentation, 中科院攻读硕士，导师：吴岳良院士
 6. 周凯, 2017-2021, 本科，发表1篇IEEE International Conference on Image Processing (ICIP) 信号处理旗舰会议论文, Poster Presentation, 东南大学攻读硕士
 
-## Co-authors and Friends (合作朋友)
+## Co-authors and friends (合作朋友)
 1. Chongyi Li: https://li-chongyi.github.io/
 2. Jiamin Wu: https://www.au.tsinghua.edu.cn/info/1107/2603.htm
 3. Xueyang Fu: https://xueyangfu.github.io/
@@ -161,5 +161,5 @@ Committee Members in 2021 AAAI</font>),
 14. Yunquan Dong: https://dxy.nuist.edu.cn/info/1071/1885.htm
 15. Liangliang Liu: http://faculty.nuaa.edu.cn/liuliangliang/en/index.htm
 
-## Communication Address (通信地址)
+## Communication address (通信地址)
 Department of Automation, Tsinghua University, Beijing 100084, China
