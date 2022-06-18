@@ -4,9 +4,6 @@ Currently, I am **IEEE, CCF and CAAI Member**, and **Postdoctoral Fellow (博士
 
 ### Long-term Note (长期有效): <font color="red">I am looking for a teaching position of a university in Beijing！Communication email: zhuangpeixian0624@163.com.（寻求北京高校的教职工作，欢迎随时联系！）</font>
 
-### Communication Address (通信地址)
-**Department of Automation, Tsinghua University, Beijing 100084, China**
-
 ### Matlab Code! Retinex Variational Underwater Image Enhancement (<font color="red">https://github.com/zhuangpeixian</font>) 
 
 ### Google Citation（引用次数）：<font color="red">600+</font>   
@@ -168,3 +165,7 @@ Committee Members in 2021 AAAI</font>),
 13. Xiaoyan Kuai: https://www.ncl.uestc.edu.cn/info/1082/1746.htm
 14. Yunquan Dong: https://dxy.nuist.edu.cn/info/1071/1885.htm
 15. Liangliang Liu: http://faculty.nuaa.edu.cn/liuliangliang/en/index.htm
+
+
+## Communication Address (通信地址)
+Department of Automation, Tsinghua University, Beijing 100084, China
