@@ -2,7 +2,7 @@
 ## Peixian Zhuang （庄培显）
 I am **IEEE, CCF and CAAI Member**, and the **Postdoctoral Fellow (博士后, 助理研究员) in Tsinghua University（清华大学）, advised by Prof. Qionghai Dai (戴琼海院士、国务院参事、中国人工智能学会理事长、清华大学信息学院院长)**. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the **Best PhD. Thesis Award in Fujian Province**（**福建省优秀博士学位论文**）in 2017. From 2017 to 2020, I am a Lecturer and Master Supervisor（硕士生导师）in the School of Electronic and Information Engineering, Nanjing University of Information Science and Technology (双一流建设大学). My research interests focus on Bayesian modeling, sparse representation and deep learning, including image restoration, image naturalization, medical image reconstruction, remote sensing fusion, and underwater image enhancement, etc. My current interests focus on neuron signal extraction and calcium signal descattering.
 
-### Long-term note (长期有效): <font color="red">I am looking for a teaching position of a university in Beijing！Communication email: zhuangpeixian0624@163.com.（寻求北京高校的教职工作，欢迎随时联系！）</font>
+### Long-term note (长期有效): <font color="red">I am looking for a teaching position of a university in Beijing！E-mail: zhuangpeixian0624@163.com.（寻求北京高校的教职工作，欢迎随时联系！）</font>
 
 ### Matlab code! Retinex Variational Underwater Image Enhancement (<font color="red">https://github.com/zhuangpeixian</font>) 
 
@@ -11,7 +11,7 @@ I am **IEEE, CCF and CAAI Member**, and the **Postdoctoral Fellow (博士后, �
 
 ### Publications（发表论文）(* corresponding author 通信作者)
 0. Wenyi Zhao, Chongyi Li, Weidong Zhang, Lu Yang, **Peixian Zhuang**, Lingqiao Li, Kefeng Fan, Huihua Yang*. Embedding Global Contrastive and
-  Local Location in Self-Supervised Learning. <font color="red">Submitted to IEEE Transactions on Circuits and Systems for Video Technology.</font> (视频处理与多媒体顶级期刊, SCI, JCR1, CCF推荐, IF: 4.685)
+  Local Location in Self-Supervised Learning. <font color="red">Submitted to IEEE Transactions on Circuits and Systems for Video Technology.</font> (视频多媒体顶级期刊, SCI, JCR1, CCF推荐, IF: 4.685)
 1. Xiwang Xie, Weidong Zhang, Xipeng Pan, **Peixian Zhuang**, Wenyi Zhao, Jubai An*. CANet: Context Aware Network with Dual-Stream Pyramid for Medical Image Segmentation. <font color="red">Submitted to Biomedical Signal Processing and Control.</font>
 2. **Peixian Zhuang**, Jiamin Wu, Fatih Porikli, Chongyi Li*. Underwater Image Enhancement with Hyper-Laplacian Reflectance Priors. Submitted to IEEE Transactions on Image Processing, <font color="red">Major Revision.</font> (图像处理顶级期刊, SCI, JCR1, CCF推荐, IF: 10.856)
 3. **Peixian Zhuang**, Jiamin Wu*. Reinforcing neuron extraction from calcium imaging data via depth-estimation constrained nonnegative matrix factorization. 2022 IEEE International Conference on Image Processing, <font color="red">Accepted.</font> (EI, CCF推荐, 图像处理旗舰会议) 
