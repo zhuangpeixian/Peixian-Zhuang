@@ -10,11 +10,11 @@ I am **IEEE, CCF and CAAI Member**, and the **Postdoctoral Fellow (博士后, �
 ### SCI IF：<font color="red">60+</font>
 
 ### Publications（发表论文）(* corresponding author 通信作者)
-0. <font color="red">Peixian Zhuang, Jiamin Wu, Fatih Porikli, Chongyi Li*. Underwater Image Enhancement with Hyper-Laplacian Reflectance Priors. Submitted to IEEE Transactions on Image Processing, Major Revision. (图像处理顶级期刊, SCI, JCR1, CCF推荐, IF: 10.856)</font>
-1. <font color="red">Wenyi Zhao, Chongyi Li, Weidong Zhang, Lu Yang, Peixian Zhuang, Lingqiao Li, Kefeng Fan, Huihua Yang*. Embedding Global Contrastive and
-  Local Location in Self-Supervised Learning. Submitted to IEEE Transactions on Circuits and Systems for Video Technology. (视频处理与多媒体顶级期刊, SCI, JCR1, CCF推荐, IF: 4.685)</font>
-2. <font color="red">Xiwang Xie, Weidong Zhang, Xipeng Pan, Peixian Zhuang, Wenyi Zhao, Jubai An*. CANet: Context Aware Network with Dual-Stream Pyramid for Medical Image Segmentation. Submitted to Biomedical Signal Processing and Control.</font>
-3. **Peixian Zhuang**, Jiamin Wu*. Reinforcing neuron extraction from calcium imaging data via depth-estimation constrained nonnegative matrix factorization. 2022 IEEE International Conference on Image Processing, <font color="red">Accepted</font> (EI, CCF推荐, 图像处理旗舰会议) 
+0. Wenyi Zhao, Chongyi Li, Weidong Zhang, Lu Yang, **Peixian Zhuang**, Lingqiao Li, Kefeng Fan, Huihua Yang*. Embedding Global Contrastive and
+  Local Location in Self-Supervised Learning. <font color="red">Submitted to IEEE Transactions on Circuits and Systems for Video Technology.</font> (视频处理与多媒体顶级期刊, SCI, JCR1, CCF推荐, IF: 4.685)
+1. Xiwang Xie, Weidong Zhang, Xipeng Pan, **Peixian Zhuang**, Wenyi Zhao, Jubai An*. CANet: Context Aware Network with Dual-Stream Pyramid for Medical Image Segmentation. <font color="red">Submitted to Biomedical Signal Processing and Control.</font>
+2.**Peixian Zhuang**, Jiamin Wu, Fatih Porikli, Chongyi Li*. Underwater Image Enhancement with Hyper-Laplacian Reflectance Priors. Submitted to IEEE Transactions on Image Processing, <font color="red">Major Revision.</font> (图像处理顶级期刊, SCI, JCR1, CCF推荐, IF: 10.856)
+3. **Peixian Zhuang**, Jiamin Wu*. Reinforcing neuron extraction from calcium imaging data via depth-estimation constrained nonnegative matrix factorization. 2022 IEEE International Conference on Image Processing, <font color="red">Accepted.</font> (EI, CCF推荐, 图像处理旗舰会议) 
 4. Weidong Zhang, **Peixian Zhuang**, Haihan Sun, Guohou Li, Sam Kwong, Chongyi Li*. Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement. IEEE Transactions on Image Processing, vol. 31, pp. 3997-4010, 2022. (图像处理顶级期刊, SCI, JCR1, CCF推荐, IF: 10.856)
 5. **Peixian Zhuang***. Retinex Underwater Image Enhancement with Multi-Order Gradient Priors. IEEE International Conference on Image Processing (IEEE ICIP), pp. 1709-1713, 2021. (EI, CCF推荐, 图像处理旗舰会议) . 
 6. Hanyu Li, **Peixian Zhuang***(co-first author). DewaterNet: A Fusion Adversarial Network for Single Underwater Image Enhancement. Signal Processing: Image Communication, vol. 95, pp. 116248, 2021. (SCI, JCR3, CCF推荐, IF: 2.779).（Cite: 5次）</font>
