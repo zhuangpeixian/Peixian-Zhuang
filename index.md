@@ -4,8 +4,6 @@ I am **IEEE, CCF and CAAI Member**, and the **Postdoctoral Fellow (博士后, �
 
 ### Long-term note: <font color="red">Looking for a teaching position of a university in Beijing！（寻求北京高校教职！E-mail: zhuangpeixian0624@163.com.）</font>
 
-### Matlab code! Retinex Variational Underwater Image Enhancement (<font color="red">https://github.com/zhuangpeixian</font>) 
-
 ### Google citation（引用次数）：<font color="red">600+</font>   
 ### SCI IF：<font color="red">60+</font>
 
@@ -163,3 +161,6 @@ Committee Members in 2021 AAAI</font>),
 
 ## Communication address (通信地址)
 Department of Automation, Tsinghua University, Beijing 100084, China
+
+## Matlab code (公开代码) 
+Retinex Variational Underwater Image Enhancement (<font color="red">https://github.com/zhuangpeixian</font>) 
