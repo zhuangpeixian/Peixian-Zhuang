@@ -73,6 +73,7 @@ Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualiza
 Journal of Electronics and Advanced Electrical Engineering (Editor).
 
 ### Conference technical committees（会议委员）
+2023 International Conference on Image and Graphics Processing (<font color="red">特邀报告专家</font>),
 2022 International Conference on Optics and Image Processing (<font color="red">分会II报告专家</font>),
 2022-2019 IEEE International Conference on Signal and Image Processing (<font color="red">2019 图像处理II分会主席</font>, and TC member), 
 2022-2020 International Conference on Image and Graphics Processing (TC member),
