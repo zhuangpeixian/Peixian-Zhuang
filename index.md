@@ -64,11 +64,11 @@ I am **IEEE, CCF and CAAI Member**, and the **Postdoctoral Fellow (博士后, �
 
 ### Journal editors（期刊主编）
 <font color="red">电子与信息学报 (恶劣环境下的图像处理技术, 专题主编),</font>
-Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization (Associate Editor), 
+Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization (Associate Editor), etc.
 
 ### Journal editors（特邀报告）
 2023 International Conference on Image and Graphics Processing (<font color="red">特邀报告专家</font>),
-2022 International Conference on Optics and Image Processing (<font color="red">分会II报告专家</font>),
+2022 International Conference on Optics and Image Processing (<font color="red">分会II报告专家</font>), etc.
 
 ### Conference technical committees（会议委员）
 2022-2019 IEEE International Conference on Signal and Image Processing (<font color="red">2019 图像处理II分会主席</font>, and TC member), 
