@@ -2,8 +2,6 @@
 ## Peixian Zhuang （庄培显）
 I am **IEEE, CCF and CAAI Member**, and the **Postdoctoral Fellow (博士后, 助理研究员) in Tsinghua University（清华大学）, advised by Prof. Qionghai Dai (戴琼海院士、国务院参事、中国人工智能学会理事长、清华大学信息学院院长)**. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the **Best PhD. Thesis Award in Fujian Province**（**福建省优秀博士学位论文**）in 2017. From 2017 to 2020, I am a Lecturer and Master Supervisor（硕士生导师）in the School of Electronic and Information Engineering, Nanjing University of Information Science and Technology (双一流建设大学). My research interests focus on Bayesian modeling, sparse representation and deep learning, including image restoration, image naturalization, medical image reconstruction, remote sensing fusion, and underwater image enhancement, etc. My current interests focus on neuron signal extraction and calcium signal descattering.
 
-### Long-term note: <font color="red">Looking for a teaching position of a university in Beijing！（寻求北京高校教职！E-mail: zhuangpeixian0624@163.com.）</font>
-
 ### Google citation（引用次数）：<font color="red">600+</font>   
 ### SCI IF：<font color="red">60+</font>
 
@@ -60,9 +58,6 @@ I am **IEEE, CCF and CAAI Member**, and the **Postdoctoral Fellow (博士后, �
 12. 国家自然科学基金面上项目（No. 61671309），基于有限新息率理论的高分辨率工业超声成像重构算法研究，2016 – 2019，58万，参与，结题
 13. 国家自然科学基金面上项目（No. 61172179），基于非参数层次贝叶斯模型的自适应字典稀疏表示方法及应用，2012 – 2015，60万，参与，结题
 
-### Chinese patents（发明专利）
-庄培显; 郭彭浩; 戴于翔; 熊佳颖. 一种台风云图增强方法与流程. 发明专利, 申请专利号 CN201910421483.5.
-
 ### Evaluation experts（评审专家）
 <font color="red">国家自然科学基金函评专家</font>
 厦门大学硕士研究生学位论文评审专家
@@ -70,11 +65,12 @@ I am **IEEE, CCF and CAAI Member**, and the **Postdoctoral Fellow (博士后, �
 ### Journal editors（期刊主编）
 <font color="red">电子与信息学报 (恶劣环境下的图像处理技术, 专题主编),</font>
 Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization (Associate Editor), 
-Journal of Electronics and Advanced Electrical Engineering (Editor).
 
-### Conference technical committees（会议委员）
+### Journal editors（特邀报告）
 2023 International Conference on Image and Graphics Processing (<font color="red">特邀报告专家</font>),
 2022 International Conference on Optics and Image Processing (<font color="red">分会II报告专家</font>),
+
+### Conference technical committees（会议委员）
 2022-2019 IEEE International Conference on Signal and Image Processing (<font color="red">2019 图像处理II分会主席</font>, and TC member), 
 2022-2020 International Conference on Image and Graphics Processing (TC member),
 2022 and 2021 International Conference on Virtual Reality (TPC member), 
