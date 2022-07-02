@@ -8,8 +8,8 @@ I am **IEEE, CCF and CAAI Member**, and the **Postdoctoral Fellow (博士后, �
 ### Publications（发表论文）(* corresponding author 通信作者)
 0. Wenyi Zhao, Chongyi Li, Weidong Zhang, Lu Yang, **Peixian Zhuang**, Lingqiao Li, Kefeng Fan, Huihua Yang*. Embedding Global Contrastive and
   Local Location in Self-Supervised Learning. <font color="red">Submitted to IEEE Transactions on Circuits and Systems for Video Technology.</font> (视频多媒体TOP期刊, SCI, JCR1, IF: 4.685)
-1. Xiwang Xie, Weidong Zhang, Xipeng Pan, **Peixian Zhuang**, Wenyi Zhao, Jubai An*. CANet: Context Aware Network with Dual-Stream Pyramid for Medical Image Segmentation. <font color="red">Submitted to Biomedical Signal Processing and Control.</font>
-2. Weidong Zhang, Guohou Li, **Peixian Zhuang***, Xiwang Xie, Zheng Liang, Wenyi Zhao. UDCNet: Unified multi-color-model-learning-based deep cascaded network for underwater image classification. <font color="red">Submitted to Information Sciences.</font> (信息系统TOP期刊, SCI, JCR1, IF: 8.233)
+1. Weidong Zhang, Guohou Li, **Peixian Zhuang***, Xiwang Xie, Zheng Liang, Wenyi Zhao. UDCNet: Unified multi-color-model-learning-based deep cascaded network for underwater image classification. <font color="red">Submitted to Information Sciences.</font> (信息系统TOP期刊, SCI, JCR1, IF: 8.233)
+2. Xiwang Xie, Weidong Zhang, Xipeng Pan, **Peixian Zhuang**, Wenyi Zhao, Jubai An*. CANet: Context Aware Network with Dual-Stream Pyramid for Medical Image Segmentation. <font color="red">Submitted to Biomedical Signal Processing and Control.</font>
 3. **Peixian Zhuang**, Jiamin Wu, Fatih Porikli, Chongyi Li*. Underwater Image Enhancement with Hyper-Laplacian Reflectance Priors. Submitted to IEEE Transactions on Image Processing, <font color="red">Major Revision.</font> (图像处理TOP期刊, SCI, JCR1, IF: 10.856)
 4. **Peixian Zhuang**, Jiamin Wu*. Reinforcing neuron extraction from calcium imaging data via depth-estimation constrained nonnegative matrix factorization. 2022 IEEE International Conference on Image Processing, <font color="red">Accepted.</font> (EI, 图像处理旗舰会议) 
 5. Weidong Zhang, **Peixian Zhuang**, Haihan Sun, Guohou Li, Sam Kwong, Chongyi Li*. Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement. IEEE Transactions on Image Processing, vol. 31, pp. 3997-4010, 2022. (图像处理TOP期刊, SCI, JCR1, IF: 10.856)
@@ -95,6 +95,7 @@ IEEE Geoscience and Remote Sensing Letters,
 Knowledge-Based Systems（人工智能顶级期刊）, 
 Signal Processing（信号处理顶级期刊）, 
 Engineering Applications of Artificial Intelligence（人工智能顶级期刊）,
+Frontiers Marine Science（海洋学领域顶级期刊）,
 Magnetic Resonance Imaging（核磁共振成像权威期刊）,
 Medical Physics（核医学顶级期刊）,
 Signal Processing: Image Communication,
