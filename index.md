@@ -74,14 +74,16 @@ Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualiza
 
 ### Conference technical committees（会议委员）
 2022-2019 IEEE International Conference on Signal and Image Processing (<font color="red">2019 图像处理II分会主席</font>, and TC member), 
-2022-2020 International Conference on Image and Graphics Processing (TC member),
-2022 and 2021 International Conference on Virtual Reality (TPC member), 
-2021 International Conference on Electronics, Communications and Networks (TPC member),
-2020 International Conference on Vision, Image and Signal Processing (TC member), 
-2020 International Conference on Medical Science and Biomedical Engineering (TPC member), 
-2020 International Conference on Computer Science and Electronics& Electrical Engineering (TC member), 
-2020 International Conference on Modern Management based on Big Data (TPC member), 
-2020 International Conference on Information Security and Privacy Protection (TC member), etc.
+2023-2020 International Conference on Image and Graphics Processing,
+2022 International Conference on Graphics and Image Processing,
+2022 International Conference on Metaverse Technology,
+2022 and 2021 International Conference on Virtual Reality, 
+2021 International Conference on Electronics, Communications and Networks,
+2020 International Conference on Vision, Image and Signal Processing, 
+2020 International Conference on Medical Science and Biomedical Engineering, 
+2020 International Conference on Computer Science and Electronics& Electrical Engineering, 
+2020 International Conference on Modern Management based on Big Data, 
+2020 International Conference on Information Security and Privacy Protection, etc.
 
 ### Journal reviewers (期刊审稿)
 IEEE Transactions on Image Processing（图像处理顶级期刊）,
