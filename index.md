@@ -64,7 +64,7 @@ and Contrast Restoration.  <font color="red">Submitted to IEEE Transactions on C
 <font color="red">国家自然科学基金函评专家</font>
 厦门大学硕士研究生学位论文评审专家
 
-### Invited speaker（特邀报告）
+### Invited speakers（特邀报告）
 2023 International Conference on Image and Graphics Processing (<font color="red">特邀报告专家</font>),
 2022 International Conference on Optics and Image Processing (<font color="red">分会II报告专家</font>), etc.
 
