@@ -73,10 +73,10 @@ and Contrast Restoration.  <font color="red">Submitted to IEEE Transactions on C
 Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization (Associate Editor), etc.
 
 ### Conference technical committee（会议委员）
-2022-2019 IEEE International Conference on Signal and Image Processing (<font color="red">2019 图像处理II分会主席</font>), 
+2022 International Conference on Metaverse Technology, 
 2023-2020 International Conference on Image and Graphics Processing,
 2022 International Conference on Graphics and Image Processing,
-2022 International Conference on Metaverse Technology,
+2022-2019 IEEE International Conference on Signal and Image Processing (<font color="red">2019 图像处理II分会主席</font>), 
 2022 and 2021 International Conference on Virtual Reality, 
 2021 International Conference on Electronics, Communications and Networks,
 2020 International Conference on Vision, Image and Signal Processing, 
