@@ -42,8 +42,6 @@ and Contrast Restoration. <font color="red">Submitted to IEEE Transactions on Ci
 33. **Peixian Zhuang**, Xueyang Fu, Yue Huang, Delu Zeng, Xinghao Ding*. A Novel Framework Method for Non-Blind Deconvolution Using Subspace Images Priors. Signal Processing: Image Communication, vol. 46, pp. 17-26, 2016. (SCI, JCR2, IF: 2.779).
 34. Xueyang Fu, **Peixian Zhuang**, Yue Huang, Yinghao Liao, Xiao-Ping Zhang, Xinghao Ding*. A retinex-based enhancing approach for single underwater image. IEEE International Conference on Image Processing (IEEE ICIP), pp. 4572-4576, 2014. (EI, 图像处理旗舰会议) <font color="red">（Cite: 276次）</font>
 35. **Peixian Zhuang**, Wei Wang, Delu Zeng, Xinghao Ding*. Robust Mixed Noise Removal with Non-parametric Bayesian Sparse Outlier Model. IEEE International Workshop on Multimedia Signal Processing (IEEE MMSP), pp. 1-5, 2014. (EI)
-36. Shengkui Dai*, **Peixian Zhuang**, Wenjie Xiang. GSO: An improved PSO based on geese flight theory. International Conference in Swarm Intelligence (ICSI), pp. 87-95, 2013. 
-37. **Peixian Zhuang**, Shengkui Dai*. Improved Geese Swarm Optimization Algorithm Based on Gaussian Weighted Sum (基于高斯加权的GeesePSO改进算法). Computer Science（计算机科学，核心期刊）, vol. 40, no. Z6, pp. 87-89, 2013.
 
 ### Project（项目情况）
 1. <font color="red">国家自然科学基金面上项目（No. 62171252），基于先验知识与数据驱动景深估计模型的神经元提取研究，2022 – 2025，63万，主持，在研</font>
