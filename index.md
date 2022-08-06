@@ -2,13 +2,13 @@
 ## Peixian Zhuang（庄培显）
 I am **IEEE, CCF and CAAI Member**, and the **Postdoctoral Fellow (博士后, 助理研究员) in Tsinghua University（清华大学）, advised by Prof. Qionghai Dai (戴琼海院士、国务院参事、中国人工智能学会理事长、清华大学信息学院院长)**. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the **Best PhD. Thesis Award in Fujian Province**（**福建省优秀博士学位论文**）in 2017. From 2017 to 2020, I am a Lecturer and the Master Supervisor（硕士生导师）in the School of Electronic and Information Engineering, Nanjing University of Information Science and Technology (双一流建设大学). My research interests focus on sparse representation, Bayesian modeling, deep learning and calcium signal descattering.
 
-### Google citation（引用次数）：<font color="red">650+</font>   
+### Google citation（引用次数）：<font color="red">660+</font>   
 ### SCI IF：<font color="red">70+</font>
 
 ### Publication（发表论文）(* corresponding author 通信作者)
 1. Zheng Liang, Weidong Zhang, Rui Ruan, **Peixian Zhuang**, Xiwang Xie, and Chongyi Li. Underwater Image Quality Improvement via Color, Detail,
 and Contrast Restoration. <font color="red">Submitted to IEEE Transactions on Circuits and Systems for Video Technology.</font> (视频多媒体权威期刊, SCI, JCR1, IF: 4.685)
-2. Weidong Zhang, Guohou Li, **Peixian Zhuang***, Xiwang Xie, Zheng Liang, Wenyi Zhao. UDCNet: Unified multi-color-model-learning-based deep cascaded network for underwater image classification. <font color="red">Submitted to Knowledge-Based Systems.</font> (人工智能TOP期刊, SCI, JCR1, IF: 8.139)
+2. Weidong Zhang, Guohou Li, **Peixian Zhuang***, Xiwang Xie, Zheng Liang, Wenyi Zhao. UDCNet: Unified multi-color-model-learning-based deep cascaded network for underwater image classification. <font color="red">Submitted to Engineering Applications of Artificial Intelligence.</font> (人工智能TOP期刊, SCI, JCR1, IF: 6.212)
 3. Weidong Zhang, Songlin Jin, **Peixian Zhuang**, Zheng Liang, and Chongyi Li*. Underwater Image Enhancement via Piecewise Color Correction and Dual Prior Optimized Contrast Enhancement. <font color="red">Submitted to IEEE Signal Processing Letters.</font> (SCI, JCR3, IF: 3.201)
 4. Xiwang Xie, Weidong Zhang, Xipeng Pan, **Peixian Zhuang**, Wenyi Zhao, Jubai An*. CANet: Context Aware Network with Dual-Stream Pyramid for Medical Image Segmentation. <font color="red">Submitted to Biomedical Signal Processing and Control.</font>
 5. **Peixian Zhuang**, Jiamin Wu, Fatih Porikli, Chongyi Li*. Underwater Image Enhancement with Hyper-Laplacian Reflectance Priors. IEEE Transactions on Image Processing, <font color="red">Accepted.</font> (图像处理TOP期刊, SCI, JCR1, IF: 10.856)
@@ -40,7 +40,7 @@ and Contrast Restoration. <font color="red">Submitted to IEEE Transactions on Ci
 31. **Peixian Zhuang**, Yue Huang, Delu Zeng, Xinghao Ding*. Non-Blind Deconvolution with L1-Norm of High-Frequency Fidelity. Multimedia Tools and Applications, vol. 76, no. 22, pp. 23607-23625, 2017. (SCI, JCR4, IF: 2.313)
 32. **Peixian Zhuang**, Yue Huang, Delu Zeng, Xinghao Ding*. Mixed Noise Removal Based on A Novel Non-parametric Bayesian Sparse Outlier Model. Neurocomputing, vol. 174, pp. 858-865, 2016. (人工智能顶级期刊, SCI, JCR2, IF: 4.438) <font color="red">（Cite: 9次）</font>
 33. **Peixian Zhuang**, Xueyang Fu, Yue Huang, Delu Zeng, Xinghao Ding*. A Novel Framework Method for Non-Blind Deconvolution Using Subspace Images Priors. Signal Processing: Image Communication, vol. 46, pp. 17-26, 2016. (SCI, JCR2, IF: 2.779).
-34. Xueyang Fu, **Peixian Zhuang**, Yue Huang, Yinghao Liao, Xiao-Ping Zhang, Xinghao Ding*. A retinex-based enhancing approach for single underwater image. IEEE International Conference on Image Processing (IEEE ICIP), pp. 4572-4576, 2014. (EI, 图像处理旗舰会议) <font color="red">（Cite: 277次）</font>
+34. Xueyang Fu, **Peixian Zhuang**, Yue Huang, Yinghao Liao, Xiao-Ping Zhang, Xinghao Ding*. A retinex-based enhancing approach for single underwater image. IEEE International Conference on Image Processing (IEEE ICIP), pp. 4572-4576, 2014. (EI, 图像处理旗舰会议) <font color="red">（Cite: 278次）</font>
 35. **Peixian Zhuang**, Wei Wang, Delu Zeng, Xinghao Ding*. Robust Mixed Noise Removal with Non-parametric Bayesian Sparse Outlier Model. IEEE International Workshop on Multimedia Signal Processing (IEEE MMSP), pp. 1-5, 2014. (EI)
 
 ### Project（项目情况）
