@@ -6,7 +6,7 @@ I am **IEEE, CCF and CAAI Member**, and the **Postdoctoral Fellow (博士后, �
 ### SCI IF：<font color="red">70+</font>
 
 ### Publication（发表论文）(* corresponding author 通信作者)
-1. Wenyi Zhao, Chongyi Li, Weidong Zhang, **Peixian Zhuang**, Lingqiao Li, Kefeng Fan, Huihua Yang, IEEE Transactions on Circuits and Systems for Video Technology, 2022. <font color="red">Minor Revision.</font> (视频多媒体权威期刊, SCI, JCR1, IF: 5.859) 
+1. Wenyi Zhao, Chongyi Li, Weidong Zhang, **Peixian Zhuang**, Lingqiao Li, Kefeng Fan, Huihua Yang*. IEEE Transactions on Circuits and Systems for Video Technology, 2022. <font color="red">Minor Revision.</font> (视频多媒体权威期刊, SCI, JCR1, IF: 5.859) 
 2. **Peixian Zhuang**, Jiamin Wu, Fatih Porikli, Chongyi Li*. Underwater Image Enhancement with Hyper-Laplacian Reflectance Priors. IEEE Transactions on Image Processing, vol. 31, pp. 5442-5455, 2022.(图像处理TOP期刊, SCI, JCR1, IF: 10.856) <font color="red">（Popular Article）</font>
 3. **Peixian Zhuang**, Jiamin Wu*. Reinforcing neuron extraction from calcium imaging data via depth-estimation constrained nonnegative matrix factorization. 2022 IEEE International Conference on Image Processing, <font color="red">Accepted.</font> (EI, 图像处理旗舰会议) 
 4. Weidong Zhang, **Peixian Zhuang**, Haihan Sun, Guohou Li, Sam Kwong, Chongyi Li*. Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement. IEEE Transactions on Image Processing, vol. 31, pp. 3997-4010, 2022. (图像处理TOP期刊, SCI, JCR1, IF: 10.856) <font color="red">（Popular Article）</font>
