@@ -55,22 +55,22 @@ I am **IEEE, CCF and CAAI Member**, and the **Postdoctoral Fellow (博士后, �
 13. 国家自然科学基金面上项目（No. 61172179），基于非参数层次贝叶斯模型的自适应字典稀疏表示方法及应用，2012 – 2015，60万，参与，结题
 
 ### Evaluation expert（评审专家）
-<font color="red">国家自然科学基金函评专家</font>
+国家自然科学基金函评专家
 厦门大学硕士研究生学位论文评审专家
 
 ### Invited expert（特邀报告）
-2023 International Conference on Image and Graphics Processing (<font color="red">特邀报告专家</font>),
-2022 International Conference on Optics and Image Processing (<font color="red">分会II报告专家</font>), etc.
+2023 International Conference on Image and Graphics Processing (特邀报告专家),
+2022 International Conference on Optics and Image Processing (分会II报告专家), etc.
 
 ### Journal editor（期刊主编）
-<font color="red">电子与信息学报 (恶劣环境下的图像处理技术, 专题主编),</font>
+电子与信息学报 (恶劣环境下的图像处理技术, 专题主编),
 Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization (Associate Editor), etc.
 
 ### Conference technical committee（会议委员）
 2022 International Conference on Metaverse Technology, 
 2023-2020 International Conference on Image and Graphics Processing,
 2022 International Conference on Graphics and Image Processing,
-2022-2019 IEEE International Conference on Signal and Image Processing (<font color="red">2019 图像处理II分会主席</font>), 
+2022-2019 IEEE International Conference on Signal and Image Processing (2019 图像处理II分会主席), 
 2022 and 2021 International Conference on Virtual Reality, 
 2021 International Conference on Electronics, Communications and Networks,
 2020 International Conference on Vision, Image and Signal Processing, 
@@ -111,8 +111,8 @@ Journal of Healthcare Engineering,
 Journal of Computational Methods in Sciences and Engineering, etc.
 
 ### Conference reviewer (会议审稿)
-2022 and 2021 AAAI Conference on Artificial Intelligence (AAAI, 人工智能领域顶级会议, <font color="red">top 25% of Program 
-Committee Members in 2021 AAAI</font>), 
+2022 and 2021 AAAI Conference on Artificial Intelligence (AAAI, 人工智能领域顶级会议, top 25% of Program 
+Committee Members in 2021 AAAI), 
 2022-2019 IEEE International Conference on Multimedia and Expo (ICME)（多媒体领域顶级会议) ,
 2022-2020 International Conference on Image and Graphics Processing, 
 2022 International Conference on Virtual Reality,
