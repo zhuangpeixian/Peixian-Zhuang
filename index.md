@@ -55,7 +55,7 @@ I am **IEEE, CCF and CAAI Member**, and the **Postdoctoral Fellow (博士后, �
 13. 国家自然科学基金面上项目（No. 61172179），基于非参数层次贝叶斯模型的自适应字典稀疏表示方法及应用，2012 – 2015，60万，参与，结题
 
 ### Evaluation expert（评审专家）
-国家自然科学基金函评专家
+国家自然科学基金函评专家,
 厦门大学硕士研究生学位论文评审专家
 
 ### Invited expert（特邀报告）
