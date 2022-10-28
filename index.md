@@ -2,7 +2,7 @@
 ## Peixian Zhuang（庄培显）
 I am **IEEE, CCF and CAAI Member**, and the **Postdoctoral Fellow (博士后, 助理研究员) in Tsinghua University（清华大学）, advised by Prof. Qionghai Dai (戴琼海院士、国务院参事、中国人工智能学会理事长、清华大学信息学院院长)**. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the **Best PhD. Thesis Award in Fujian Province**（**福建省优秀博士学位论文**）in 2017. From 2017 to 2020, I am a Lecturer and the Master Supervisor（硕士生导师）in the School of Electronic and Information Engineering, Nanjing University of Information Science and Technology (双一流建设大学). My research interests focus on sparse representation, Bayesian modeling, deep learning and calcium signal descattering.
 
-### Google citation（引用次数）：<font color="red">745+</font>   
+### Google citation（引用次数）：<font color="red">750+</font>   
 ### SCI IF：<font color="red">70+</font>
 
 ### Publication（发表论文）(* corresponding author 通信作者)
