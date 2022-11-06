@@ -7,7 +7,7 @@ I am **IEEE, CCF and CAAI Member**, and **Tenure-track Associate Professor (预�
 
 ### Publication（发表论文）(* corresponding author 通信作者)
 1. Wenyi Zhao, Chongyi Li, Weidong Zhang, **Peixian Zhuang**, Lingqiao Li, Kefeng Fan, Huihua Yang*. Embedding Global Contrastive and Local Location in Self-
-Supervised Learning. IEEE Transactions on Circuits and Systems for Video Technology, 2022. <font color="red">Minor Revision.</font> (视频多媒体TOP期刊, SCI, JCR1, IF: 5.859) 
+Supervised Learning. IEEE Transactions on Circuits and Systems for Video Technology, 2022. <font color="red">Accepted.</font> (视频多媒体TOP期刊, SCI, JCR1, IF: 5.859) 
 2. Wenyi Zhao, Weidong Zhang, Xipeng Pan, **Peixian Zhuang**, Xiwang Xie, Lingqiao Li, Huihua Yang*. LESSL: Can LEGO Sampling and Collaborative Optimization Contribute to Self-Supervised Learning?. Information Sciences, vol. 615, pp. 475-490, 2022. (计算机信息系统TOP期刊, SCI, JCR1, IF: 8.233).
 3. **Peixian Zhuang**, Jiamin Wu, Fatih Porikli, Chongyi Li*. Underwater Image Enhancement with Hyper-Laplacian Reflectance Priors. IEEE Transactions on Image Processing, vol. 31, pp. 5442-5455, 2022.(图像处理TOP期刊, SCI, JCR1, IF: 10.856) <font color="red">（Popular Article）</font>
 4. **Peixian Zhuang**, Jiamin Wu*. Reinforcing neuron extraction from calcium imaging data via depth-estimation constrained nonnegative matrix factorization. IEEE International Conference on Image Processing, 2022. (EI, 图像处理旗舰会议) 
