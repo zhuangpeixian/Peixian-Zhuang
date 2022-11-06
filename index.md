@@ -58,11 +58,12 @@ Supervised Learning. IEEE Transactions on Circuits and Systems for Video Technol
 
 ### Evaluation expert（评审专家）
 国家自然科学基金函评专家,
-厦门大学硕士研究生学位论文评审专家
+厦门大学硕士研究生学位论文评审专家，
 
 ### Invited expert（特邀报告）
 2023 International Conference on Image and Graphics Processing (特邀报告专家),
-2022 International Conference on Optics and Image Processing (分会II报告专家), etc.
+2022 International Conference on Optics and Image Processing (分会II报告专家), 
+2022《电子与信息学报》E家之言论坛（第23期）报告专家，etc.
 
 ### Journal editor（期刊主编）
 电子与信息学报 (恶劣环境下的图像处理技术, 专题主编),
