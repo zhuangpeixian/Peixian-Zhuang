@@ -2,13 +2,13 @@
 ## Peixian Zhuang（庄培显）
 I am **IEEE, CCF and CAAI Member**, and **Tenure-track Associate Professor (预聘副教授)** in University of Science and Technology Beijing (**北京科技大学**). From 2020 to 2022, I am the **Postdoctoral Fellow (博士后, 助理研究员) in Tsinghua University（清华大学）, advised by Prof. Qionghai Dai (戴琼海院士、国务院参事、中国人工智能学会理事长、清华大学信息学院院长)**. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the **Best PhD. Thesis Award in Fujian Province**（**福建省优秀博士学位论文**）in 2017. From 2017 to 2020, I am a Lecturer and the Master Supervisor（硕士生导师）in the School of Electronic and Information Engineering, Nanjing University of Information Science and Technology (双一流建设大学). My research interests focus on sparse representation, Bayesian modeling, deep learning and calcium signal descattering.
 
-### Google citation（引用次数）：<font color="red">750+</font>   
+### Google citation（引用次数）：<font color="red">760+</font>   
 ### SCI IF：<font color="red">70+</font>
 
 ### Publication（发表论文）(* corresponding author 通信作者)
 1. Zheng Liang, Weidong Zhang, Rui Ruan, **Peixian Zhuang**, Chongyi Li*. GIFM: An Image Restoration Method With Generalized Image Formation Model for Poor Visible Conditions. IEEE Transactions on Geoscience and Remote Sensing, 2022. <font color="red">Major Revision.</font> (遥感领域TOP期刊, SCI, JCR1, IF: 8.125) 
 2. Wenyi Zhao, Chongyi Li, Weidong Zhang, **Peixian Zhuang**, Lingqiao Li, Kefeng Fan, Huihua Yang*. Embedding Global Contrastive and Local Location in Self-
-Supervised Learning. IEEE Transactions on Circuits and Systems for Video Technology, 2022. <font color="red">Accepted.</font> (视频多媒体TOP期刊, SCI, JCR1, IF: 5.859) 
+Supervised Learning. IEEE Transactions on Circuits and Systems for Video Technology, 2022. (视频多媒体TOP期刊, SCI, JCR1, IF: 5.859) 
 2. Wenyi Zhao, Weidong Zhang, Xipeng Pan, **Peixian Zhuang**, Xiwang Xie, Lingqiao Li, Huihua Yang*. LESSL: Can LEGO Sampling and Collaborative Optimization Contribute to Self-Supervised Learning?. Information Sciences, vol. 615, pp. 475-490, 2022. (计算机信息系统TOP期刊, SCI, JCR1, IF: 8.233).
 3. **Peixian Zhuang**, Jiamin Wu, Fatih Porikli, Chongyi Li*. Underwater Image Enhancement with Hyper-Laplacian Reflectance Priors. IEEE Transactions on Image Processing, vol. 31, pp. 5442-5455, 2022.(图像处理TOP期刊, SCI, JCR1, IF: 10.856) <font color="red">（Popular Article）</font>
 4. **Peixian Zhuang**, Jiamin Wu*. Reinforcing neuron extraction from calcium imaging data via depth-estimation constrained nonnegative matrix factorization. IEEE International Conference on Image Processing, 2022. (EI, 图像处理旗舰会议) 
