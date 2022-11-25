@@ -7,7 +7,8 @@ I am **IEEE, CCF and CAAI Member**, and **Associate Professor (副教授)** in U
 
 ### Publication（发表论文）(* corresponding author 通信作者)
 1. Zheng Liang, Weidong Zhang, Rui Ruan, **Peixian Zhuang**, Chongyi Li*. GIFM: An Image Restoration Method With Generalized Image Formation Model for Poor Visible Conditions. IEEE Transactions on Geoscience and Remote Sensing, 2022. <font color="red">Accepted.</font> (遥感领域TOP期刊, SCI, JCR1, IF: 8.125) 
-2. Wenyi Zhao, Chongyi Li, Weidong Zhang, **Peixian Zhuang**, Lingqiao Li, Kefeng Fan, Huihua Yang*. Embedding Global Contrastive and Local Location in Self-
+2. Weidong Zhang, Zexu Li, Haihan Sun, Qiang Zhang, **Peixian Zhuang**, Chongyi Li*. SSTNet: Spatial, Spectral, and Texture Aware Attention Network using Hyperspectral Image for Corn Variety Identification. IEEE Geoscience and Remote Sensing Letters, 2022. <font color="red">Accepted.</font> (SCI, JCR3, IF: 3.534)
+3. Wenyi Zhao, Chongyi Li, Weidong Zhang, **Peixian Zhuang**, Lingqiao Li, Kefeng Fan, Huihua Yang*. Embedding Global Contrastive and Local Location in Self-
 Supervised Learning. IEEE Transactions on Circuits and Systems for Video Technology, 2022. (视频多媒体TOP期刊, SCI, JCR1, IF: 5.859) 
 2. Wenyi Zhao, Weidong Zhang, Xipeng Pan, **Peixian Zhuang**, Xiwang Xie, Lingqiao Li, Huihua Yang*. LESSL: Can LEGO Sampling and Collaborative Optimization Contribute to Self-Supervised Learning?. Information Sciences, vol. 615, pp. 475-490, 2022. (计算机信息系统TOP期刊, SCI, JCR1, IF: 8.233).
 3. **Peixian Zhuang**, Jiamin Wu, Fatih Porikli, Chongyi Li*. Underwater Image Enhancement with Hyper-Laplacian Reflectance Priors. IEEE Transactions on Image Processing, vol. 31, pp. 5442-5455, 2022.(图像处理TOP期刊, SCI, JCR1, IF: 10.856) <font color="red">（Popular Article）</font>
@@ -116,6 +117,7 @@ Journal of Healthcare Engineering,
 Journal of Computational Methods in Sciences and Engineering, etc.
 
 ### Conference reviewer (会议审稿)
+2023 IEEE International Conference on Multimedia and Expo (ICME)（多媒体领域顶级会议) ,
 2023 IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP) (声学、语音与信号处理顶级会议),
 2022 and 2021 AAAI Conference on Artificial Intelligence (AAAI, 人工智能领域顶级会议, top 25% of Program 
 Committee Members in 2021 AAAI), 
