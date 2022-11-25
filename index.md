@@ -6,7 +6,7 @@ I am **IEEE, CCF and CAAI Member**, and **Associate Professor (副教授)** in U
 ### SCI IF：<font color="red">70+</font>
 
 ### Publication（发表论文）(* corresponding author 通信作者)
-1. Guojia Hou, Nan Li, **Peixian Zhuang**, Kunqian Li, Haihan Sun, Chongyi Li*. Non-uniform Illumination Underwater Image Restoration via Illumination Channel Sparsity Prior. Submitted to IEEE Transactions on Image Processing. (SCI, JCR3, IF: 5.343)
+1. Guojia Hou, Nan Li, **Peixian Zhuang**, Kunqian Li, Haihan Sun, Chongyi Li*. Non-uniform Illumination Underwater Image Restoration via Illumination Channel Sparsity Prior. Submitted to IEEE Transactions on Image Processing. (图像处理TOP期刊, SCI, JCR1, IF: 10.856)
 2. Zheng Liang, Rui Ruan, Lin Jiao, Weidong Zhang, **Peixian Zhuang***. An Underwater Image Restoration Method Based on Adaptive Brightness Improvement and Local Image Descattering. Submitted to IEEE Geoscience and Remote Sensing Letters. (SCI, JCR3, IF: 5.343)
 3. Zheng Liang, Weidong Zhang, Rui Ruan, **Peixian Zhuang**, Chongyi Li*. GIFM: An Image Restoration Method With Generalized Image Formation Model for Poor Visible Conditions. IEEE Transactions on Geoscience and Remote Sensing, 2022. <font color="red">Accepted.</font> (遥感领域TOP期刊, SCI, JCR1, IF: 8.125) 
 4. Weidong Zhang, Zexu Li, Haihan Sun, Qiang Zhang, **Peixian Zhuang**, Chongyi Li*. SSTNet: Spatial, Spectral, and Texture Aware Attention Network using Hyperspectral Image for Corn Variety Identification. IEEE Geoscience and Remote Sensing Letters, 2022. <font color="red">Accepted.</font> (SCI, JCR3, IF: 5.343)
