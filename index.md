@@ -155,6 +155,7 @@ Committee Members in 2021 AAAI),
 13. Xiaoyan Kuai: https://www.ncl.uestc.edu.cn/info/1082/1746.htm
 14. Yunquan Dong: https://dxy.nuist.edu.cn/info/1071/1885.htm
 15. Liangliang Liu: http://faculty.nuaa.edu.cn/liuliangliang/en/index.htm
+16. Jinming Duan：https://www.cs.bham.ac.uk/~duanj/?_ga=2.92191965.673629657.1672314965-228574667.1672314964
 
 ## Communication address (通信地址)
 Department of Automation, Tsinghua University, Beijing 100084, China
