@@ -159,6 +159,7 @@ Committee Members in 2021 AAAI),
 16. Liangliang Liu: http://faculty.nuaa.edu.cn/liuliangliang/en/index.htm
 
 ## Communication address (通信地址)
+Department of Automation and Electrical Engineering, University of Science and Technology Beijing, Beijing 100083, China
 Department of Automation, Tsinghua University, Beijing 100084, China
 
 ## Matlab code (公开代码) 
