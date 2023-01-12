@@ -61,24 +61,27 @@ Supervised Learning. IEEE Transactions on Circuits and Systems for Video Technol
 12. 国家自然科学基金面上项目（No. 61671309），基于有限新息率理论的高分辨率工业超声成像重构算法研究，2016 – 2019，58万，参与，结题
 13. 国家自然科学基金面上项目（No. 61172179），基于非参数层次贝叶斯模型的自适应字典稀疏表示方法及应用，2012 – 2015，60万，参与，结题
 
-### Evaluation expert（评审专家）
-国家自然科学基金函评专家,
-厦门大学硕士研究生学位论文评审专家，
+### Awards（获奖情况）
+2022《电子与信息学报》优秀审稿人，
+2021 AAAI Conference on Artificial Intelligence (Top 25% of Program Committee Members),
+2019 IEEE International Conference on Signal and Image Processing (图像处理II分会主席), 
+2017 福建省优秀博士学位论文, etc.
 
 ### Invited expert（特邀报告）
 2023 International Conference on Image and Graphics Processing (特邀报告专家),
 2022 International Conference on Optics and Image Processing (分会II报告专家), 
 2022《电子与信息学报》E家之言论坛（第23期）报告专家，etc.
 
-### Journal editor（期刊主编）
+### Evaluation expert（评审专家）
+国家自然科学基金函评专家,
+厦门大学硕士研究生学位论文评审专家，
 电子与信息学报 (恶劣环境下的图像处理技术, 专题主编),
-Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization (Associate Editor), etc.
 
 ### Conference technical committee（会议委员）
-2022 International Conference on Metaverse Technology, 
 2023-2020 International Conference on Image and Graphics Processing,
 2022 International Conference on Graphics and Image Processing,
 2022-2019 IEEE International Conference on Signal and Image Processing (2019 图像处理II分会主席), 
+2022 International Conference on Metaverse Technology, 
 2022 and 2021 International Conference on Virtual Reality, 
 2021 International Conference on Electronics, Communications and Networks,
 2020 International Conference on Vision, Image and Signal Processing, 
