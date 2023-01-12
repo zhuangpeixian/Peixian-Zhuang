@@ -80,7 +80,7 @@ Supervised Learning. IEEE Transactions on Circuits and Systems for Video Technol
 ### Conference technical committee（会议委员）
 2023-2020 International Conference on Image and Graphics Processing,
 2022 International Conference on Graphics and Image Processing,
-2022-2019 IEEE International Conference on Signal and Image Processing (2019 图像处理II分会主席), 
+2022-2019 IEEE International Conference on Signal and Image Processing, 
 2022 International Conference on Metaverse Technology, 
 2022 and 2021 International Conference on Virtual Reality, 
 2021 International Conference on Electronics, Communications and Networks,
@@ -126,8 +126,7 @@ Journal of Computational Methods in Sciences and Engineering, etc.
 ### Conference reviewer (会议审稿)
 2023 IEEE International Conference on Multimedia and Expo (ICME)（多媒体领域顶级会议) ,
 2023 IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP) (声学、语音与信号处理顶级会议),
-2022 and 2021 AAAI Conference on Artificial Intelligence (AAAI, 人工智能领域顶级会议, top 25% of Program 
-Committee Members in 2021 AAAI), 
+2022 and 2021 AAAI Conference on Artificial Intelligence (AAAI, 人工智能领域顶级会议), 
 2022-2019 IEEE International Conference on Multimedia and Expo (ICME)（多媒体领域顶级会议) ,
 2022-2020 International Conference on Image and Graphics Processing, 
 2022 International Conference on Virtual Reality,
