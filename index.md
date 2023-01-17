@@ -71,7 +71,7 @@ Supervised Learning. IEEE Transactions on Circuits and Systems for Video Technol
 2023 International Conference on Image and Graphics Processing (特邀报告专家),
 2022 International Conference on Optics and Image Processing (分会II报告专家), 
 2022《电子与信息学报》E家之言论坛（第23期）报告专家，
-2023 Henan Institute of Science and Technology, School of Information Engineering (特邀报告专拣），etc.
+2023 Henan Institute of Science and Technology (特邀报告专拣），etc.
 
 ### Evaluation expert（评审专家）
 国家自然科学基金函评专家,
