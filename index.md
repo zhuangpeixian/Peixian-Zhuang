@@ -164,7 +164,5 @@ Journal of Computational Methods in Sciences and Engineering, etc.
 ## Communication address (通信地址)
 Department of Automation and Electrical Engineering, University of Science and Technology Beijing, Beijing 100083, China
 
-Department of Automation, Tsinghua University, Beijing 100084, China
-
 ## Matlab code (公开代码) 
 Retinex Variational Underwater Image Enhancement (<font color="red">https://github.com/zhuangpeixian</font>) 
