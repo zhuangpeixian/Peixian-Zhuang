@@ -14,8 +14,7 @@
 onload = function(){
     document.getElementById("lastModified").innerHTML = "Last update: " + document.lastModified.split(" ")[0];
 }
-</script>
-</head>
+</html>
   
 ![image](./1.jpg) 
 ## Peixian Zhuang（庄培显）
