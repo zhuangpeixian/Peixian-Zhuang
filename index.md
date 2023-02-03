@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-<title>Peixian Zhuang | USTB</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="keywords" content="Peixian Zhuang, 庄培显, USTB"> 
-<meta name="description" content="Peixian Zhuang's home page">
-<link rel="stylesheet" href="style.css" type="text/css" media="screen">
-
-<link rel="shortcut icon" href="img/1.jpg">
-
-<script type="text/javascript">
-onload = function(){
-    document.getElementById("lastModified").innerHTML = "Last update: " + document.lastModified.split(" ")[0];
-}
-</html>
-  
 ![image](./1.jpg) 
 ## Peixian Zhuang（庄培显）
 I am **IEEE, CCF and CAAI Member**, and **Distinguished Associate Professor (特聘副教授)** in University of Science and Technology Beijing (**北京科技大学**). From 2020 to 2022, I am the **Postdoctoral Fellow (博士后, 助理研究员)** in Tsinghua University（**清华大学**）, advised by Prof. **Qionghai Dai (戴琼海院士、国务院参事、中国人工智能学会理事长、清华大学信息学院院长)**, with **excellent postdoctoral examination (出站考核优秀)**. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the **Best PhD. Thesis Award in Fujian Province**（**福建省优秀博士学位论文**）in 2017. From 2017 to 2020, I am a Lecturer and the Master Supervisor（硕士生导师）in the School of Electronic and Information Engineering, Nanjing University of Information Science and Technology (南京信息工程大学，双一流建设大学). My research interests focus on sparse representation, Bayesian modeling, deep learning and calcium signal descattering.
@@ -26,7 +8,7 @@ I am **IEEE, CCF and CAAI Member**, and **Distinguished Associate Professor (特
 1. Guojia Hou, Nan Li, **Peixian Zhuang**, Kunqian Li, Haihan Sun, Chongyi Li*. Non-uniform Illumination Underwater Image Restoration via Illumination Channel Sparsity Prior. Submitted to IEEE Transactions on Circuits and Systems for Video Technology. (视频多媒体TOP期刊, SCI, JCR1, IF: 5.859)
 2. Zheng Liang, Weidong Zhang, **Peixian Zhuang**, Xiwang Xie, Chongyi Li*. Underwater Image Quality Improvement via Color, Detail, and Contrast Restoration. Submitted to IEEE Transactions on Circuits and Systems for Video Technology. (视频多媒体TOP期刊, SCI, JCR1, IF: 5.859)
 3. Zheng Liang, Rui Ruan, Lin Jiao, Weidong Zhang, **Peixian Zhuang***. An Underwater Image Restoration Method Based on Adaptive Brightness Improvement and Local Image Descattering. Submitted to IEEE Geoscience and Remote Sensing Letters. (SCI, JCR3, IF: 5.343)
-4. Weidong Zhang, Songlin Jin, **Peixian Zhuang**, Zheng Liang, CHongyi Li*. Underwater Image Enhancement via Piecewise Color Correction and Dual Prior Optimized Contrast Enhancement. Submitted to IEEE Signal Processing Letters, Accepted. (SCI, JCR3, IF: 3.201)
+4. Weidong Zhang, Songlin Jin, **Peixian Zhuang**, Zheng Liang, Chongyi Li*. Underwater Image Enhancement via Piecewise Color Correction and Dual Prior Optimized Contrast Enhancement. Submitted to IEEE Signal Processing Letters, Accepted. (SCI, JCR3, IF: 3.201)
 5. Zheng Liang, Weidong Zhang, Rui Ruan, **Peixian Zhuang**, Chongyi Li*. GIFM: An Image Restoration Method With Generalized Image Formation Model for Poor Visible Conditions. IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-16, 2022. (遥感领域TOP期刊, SCI, JCR1, IF: 8.125) 
 6. Weidong Zhang, Zexu Li, Haihan Sun, Qiang Zhang, **Peixian Zhuang**, Chongyi Li*. SSTNet: Spatial, Spectral, and Texture Aware Attention Network using Hyperspectral Image for Corn Variety Identification. IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022. (SCI, JCR3, IF: 5.343)
 7. Wenyi Zhao, Chongyi Li, Weidong Zhang, **Peixian Zhuang**, Lingqiao Li, Kefeng Fan, Huihua Yang*. Embedding Global Contrastive and Local Location in Self-
