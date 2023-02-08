@@ -78,7 +78,7 @@ Supervised Learning. IEEE Transactions on Circuits and Systems for Video Technol
 国家自然科学基金函评专家,
 厦门大学硕士研究生学位论文评审专家，
 电子与信息学报 (恶劣环境下的图像处理技术, 专题主编),
-Applied Sciences (专题主编).
+Applied Sciences (Deep learning for Image Recognition and Processing, 专题主编).
 
 ### Conference technical committee（会议委员）
 2023-2020 International Conference on Image and Graphics Processing,
