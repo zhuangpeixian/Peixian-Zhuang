@@ -4,7 +4,7 @@ I am **IEEE, CCF and CAAI Member**, and **Associate Professor (特聘副教授)*
 
 ### Google citation（引用次数）：<font color="red">900+</font>   
 
-### Publication（发表论文）(* corresponding author 通信作者)
+### Publication（发表论文）
 1. Guojia Hou, Nan Li, **Peixian Zhuang**, Kunqian Li, Haihan Sun, Chongyi Li*. Non-uniform Illumination Underwater Image Restoration via Illumination Channel Sparsity Prior. Submitted to IEEE Transactions on Circuits and Systems for Video Technology. (视频多媒体TOP期刊, SCI, JCR1, IF: 5.859)
 2. Zheng Liang, Weidong Zhang, **Peixian Zhuang**, Xiwang Xie, Chongyi Li*. Underwater Image Quality Improvement via Color, Detail, and Contrast Restoration. Submitted to IEEE Transactions on Circuits and Systems for Video Technology. (视频多媒体TOP期刊, SCI, JCR1, IF: 5.859)
 3. Zheng Liang, Rui Ruan, Lin Jiao, Weidong Zhang, **Peixian Zhuang***. An Underwater Image Restoration Method Based on Adaptive Brightness Improvement and Local Image Descattering. Submitted to IEEE Geoscience and Remote Sensing Letters. (SCI, JCR3, IF: 5.343)
