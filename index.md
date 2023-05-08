@@ -120,13 +120,9 @@ IET Image Processing,
 Applied Optics,
 Optics and Laser Technology,
 Applied Intelligence,
-PLoS One,
 Infrared Physics and Technology,
 Computers and Electrical Engineering, 
-Displays,
-Big Data Research, 
-Journal of Healthcare Engineering,
-Journal of Computational Methods in Sciences and Engineering, etc.
+Displays, etc.
 
 ### Conference reviewer (会议审稿)
 2023 IEEE International Conference on Multimedia and Expo (ICME)（多媒体领域顶级会议) ,
