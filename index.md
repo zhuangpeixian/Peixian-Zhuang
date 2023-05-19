@@ -95,6 +95,7 @@ Applied Sciences (Deep learning for Image Recognition and Processing, 专题主�
 2020 International Conference on Information Security and Privacy Protection, etc.
 
 ### Journal reviewer (期刊审稿)
+International Journal of Computer Vision（计算机视觉顶级期刊）
 IEEE Transactions on Image Processing（图像处理顶级期刊）,
 IEEE Transactions on Computational Imaging（计算成像顶级期刊）,
 IEEE Transactions on Circuits and Systems for Video Technology（视频处理与多媒体领域顶级期刊）, 
