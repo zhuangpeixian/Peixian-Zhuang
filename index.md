@@ -4,7 +4,7 @@ I am **IEEE, CCF and CAAI Member**, and **Associate Professor (特聘副教授)*
 ### Google citation（引用次数）：<font color="red">1200+</font>   
 
 ### Publication（发表论文）
-1. **Peixian Zhuang**, Jiangyun Li, Qing Li, Jiamin Wu, Sam Kwong, **Chongyi Li***. Decomposition-Estimation-Reconstruction: An Automatic and Accurate Neuron Extraction Paradigm, Submitted to IEEE Transactions on Image Processing. (图像处理TOP期刊, SCI, JCR1, IF: 10.856)
+1. **Peixian Zhuang**, Jiangyun Li, Qing Li, Jiamin Wu, Sam Kwong, **Chongyi Li***. Decomposition-Estimation-Reconstruction: An Automatic and Accurate Neuron Extraction Paradigm, Submitted to IEEE Transactions on Image Processing, Peer Review. (图像处理TOP期刊, SCI, JCR1, IF: 10.856)
 2. Weidong Zhang, Ling Zhou, **Peixian Zhuang**, Guohou Li, Xipeng Pan, Wenyi Zhao, Chongyi Li*. Underwater Image Enhancement via Weighted Wavelet Visual Perception Fusion. IEEE Transactions on Circuits and Systems for Video Technology, <font color="red">Major Revision</font>. (视频多媒体TOP期刊, SCI, JCR1, IF: 5.859)
 3. Zheng Liang, Weidong Zhang, **Peixian Zhuang**, Xiwang Xie, Chongyi Li*. Underwater Image Quality Improvement via Color, Detail, and Contrast Restoration. IEEE Transactions on Circuits and Systems for Video Technology, <font color="red">Minor Revision</font>. (视频多媒体TOP期刊, SCI, JCR1, IF: 5.859)
 4. Zheng Liang, Rui Ruan, Lin Jiao, Weidong Zhang, **Peixian Zhuang***. An Underwater Image Restoration Method Based on Adaptive Brightness Improvement and Local Image Descattering. IEEE Geoscience and Remote Sensing Letters, <font color="red">Accepted</font>. (SCI, JCR3, IF: 5.343)
