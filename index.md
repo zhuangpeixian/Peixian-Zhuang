@@ -127,10 +127,11 @@ Computers and Electrical Engineering,
 Displays, etc.
 
 ### Conference reviewer (会议审稿)
+2023-2021 AAAI Conference on Artificial Intelligence (AAAI, 人工智能领域顶级会议), 
 2023 IEEE International Conference on Multimedia and Expo (ICME)（多媒体领域顶级会议) ,
 2023 IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP) (声学、语音与信号处理顶级会议),
-2022 and 2021 AAAI Conference on Artificial Intelligence (AAAI, 人工智能领域顶级会议), 
 2022-2019 IEEE International Conference on Multimedia and Expo (ICME)（多媒体领域顶级会议) ,
+2023 Chinese Conference on Pattern Recognition and Computer Vision（PRCV）,
 2022-2020 International Conference on Image and Graphics Processing, 
 2022 International Conference on Virtual Reality,
 2021 International Conference on Network and Information Security,
