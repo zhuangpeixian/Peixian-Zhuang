@@ -127,6 +127,7 @@ Optics and Laser Technology,
 Applied Intelligence,
 Infrared Physics and Technology,
 Computers and Electrical Engineering, 
+Biomedical Signal Processing and Control,
 Displays, etc.
 
 ### Conference reviewer (会议审稿)
