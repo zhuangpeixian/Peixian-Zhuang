@@ -130,6 +130,7 @@ Infrared Physics and Technology,
 Computers and Electrical Engineering, 
 Biomedical Signal Processing and Control,
 Computer Methods and Programs in Biomedicine,
+Scientific Reports,
 Displays, etc.
 
 ### Conference reviewer (会议审稿)
