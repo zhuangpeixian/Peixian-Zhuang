@@ -66,7 +66,10 @@ I am **IEEE, CCF and CAAI Member**, and **Associate Professor (特聘副教授)*
 1. 庄培显; 郭彭浩; 戴于翔; 熊佳颖. 一种台风云图增强方法. 发明专利（专利号：ZL201910421483.5）
 2. 庄培显; 李擎; 李江昀; 张天翔; 万春秋; 苗磊; 奚亚鸣; 林语煊; 黄晨. 一种基于亮暗通道先验景深估计的神经元提取方法及装置. 发明专利（专利号：ZL202310689836.6）
 3. 庄培显; 李擎; 李江昀; 张天翔; 徐银梅; 洪然; 姜天轶; 英子瑄; 钟祚栋. 一种基于稀疏分解与景深估计的神经元提取方法及装置. 发明专利（专利号：ZL202310690490.1）
-
+   
+### Books:（教材出版）
+1. Tianxiang Zhang, **Peixian Zhuang**, Jianyun Li, Hong Wang, Lijun Wang. Machine Learning in Remote Sensing Image Analysis (遥感图像分析中的机器学习算法), Metallurgical Industry Press（冶金工业出版社）, ISBN: 978-7-5024-9438-4, April 2023.
+ 
 ### Awards（获奖情况）
 2022《电子与信息学报》优秀审稿人，
 2021 AAAI Conference on Artificial Intelligence (Top 25% of Program Committee Members),
