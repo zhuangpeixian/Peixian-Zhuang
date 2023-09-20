@@ -48,7 +48,7 @@ I am **IEEE, CCF and CAAI Member**, and **Associate Professor (特聘副教授)*
 41. Xueyang Fu, **Peixian Zhuang**, Yue Huang, Yinghao Liao, Xiao-Ping Zhang, Xinghao Ding*. A retinex-based enhancing approach for single underwater image. IEEE International Conference on Image Processing (IEEE ICIP), pp. 4572-4576, 2014. (EI, 图像处理旗舰会议) <font color="red">（Cite: 417次）</font>
 42. **Peixian Zhuang**, Wei Wang, Delu Zeng, Xinghao Ding*. Robust Mixed Noise Removal with Non-parametric Bayesian Sparse Outlier Model. IEEE International Workshop on Multimedia Signal Processing (IEEE MMSP), pp. 1-5, 2014. (EI)
 
-### Project（项目情况）
+### Fundings（项目情况）
 1. 国家自然科学基金面上项目（No. 62171252），基于先验知识与数据驱动景深估计模型的神经元提取研究，2022 – 2025，63万，主持，在研
 2. 中国博士后科学基金面上项目（No.2021M701903)，基于多阶保真与联合先验的贝叶斯CSMRI方法研究，2021 – 2022，8万，主持，在研
 3. 国家自然科学基金青年基金（No. 61701245），基于非参数层次贝叶斯景深估计模型的水下降质图像质量提升研究，2018 – 2020，20万，主持，结题
@@ -62,6 +62,11 @@ I am **IEEE, CCF and CAAI Member**, and **Associate Professor (特聘副教授)*
 11. 国家自然科学基金面上项目（No. 81671674），实时三维时空编码磁共振成像的序列设计及重构算法研究，2016 – 2019，58万，参与，结题
 12. 国家自然科学基金面上项目（No. 61671309），基于有限新息率理论的高分辨率工业超声成像重构算法研究，2016 – 2019，58万，参与，结题
 13. 国家自然科学基金面上项目（No. 61172179），基于非参数层次贝叶斯模型的自适应字典稀疏表示方法及应用，2012 – 2015，60万，参与，结题
+
+### Patents:（专利情况）
+1. 庄培显; 李擎; 李江昀; 张天翔; 万春秋; 苗磊; 奚亚鸣; 林语煊; 黄晨. 一种基于亮暗通道先验景深估计的神经元提取方法及装置. 发明专利（专利号：ZL202310689836.6）
+2. 庄培显; 李擎; 李江昀; 张天翔; 徐银梅; 洪然; 姜天轶; 英子瑄; 钟祚栋. 一种基于稀疏分解与景深估计的神经元提取方法及装置. 发明专利（专利号：ZL202310690490.1）
+
 
 ### Awards（获奖情况）
 2022《电子与信息学报》优秀审稿人，
