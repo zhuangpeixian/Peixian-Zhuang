@@ -1,7 +1,6 @@
 ## Peixian Zhuang（庄培显）
 I am **IEEE, CCF and CAAI Member**, and **Associate Professor (特聘副教授)** in University of Science and Technology Beijing (**北京科技大学**). From 2020 to 2022, I am the **Postdoctoral Fellow (博士后, 助理研究员)** in Tsinghua University（**清华大学**）, advised by Prof. **Qionghai Dai (戴琼海院士、国务院参事、中国人工智能学会理事长、清华大学信息学院院长)**, with **excellent postdoctoral examination (出站考核优秀)**. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the **Best PhD. Thesis Award in Fujian Province**（**福建省优秀博士学位论文**）in 2017，a winner of the **IFAC Engineering Applications of Artificial Intelligence Paper Prize Award-Application** （**EAAI最佳应用论文**）in 2023，and the First Prize for the Excellent Natural Science Papers of Henan Province in 2023（**河南省教育厅科技成果奖优秀科技论文奖一等奖**）. I have served as the Session Chair for the IEEE International Conference on Signal and Image Processing in 2019, the Guest Editor for the Journal of Electronics and Information Technology in 2021, the Outstanding Reviewer of Journal of Electronics and Information Technology in 2022. My research interests focus on sparse representation, Bayesian nonparametric, deep neural network and biomedical imaging. 
 
-
 ### Google citation（引用次数）：<font color="red">1420+</font>   
 
 ### Publication（发表论文）
@@ -66,7 +65,8 @@ I am **IEEE, CCF and CAAI Member**, and **Associate Professor (特聘副教授)*
 ### Patents:（专利情况）
 1. 庄培显; 李擎; 李江昀; 张天翔; 万春秋; 苗磊; 奚亚鸣; 林语煊; 黄晨. 一种基于亮暗通道先验景深估计的神经元提取方法及装置. 发明专利（专利号：ZL202310689836.6）
 2. 庄培显; 李擎; 李江昀; 张天翔; 徐银梅; 洪然; 姜天轶; 英子瑄; 钟祚栋. 一种基于稀疏分解与景深估计的神经元提取方法及装置. 发明专利（专利号：ZL202310690490.1）
-
+3. 庄培显; 郭彭浩; 戴于翔; 熊佳颖. 一种台风云图增强方法. 发明专利（专利号：ZL201910421483.5）
+4. 
 ### Awards（获奖情况）
 2022《电子与信息学报》优秀审稿人，
 2021 AAAI Conference on Artificial Intelligence (Top 25% of Program Committee Members),
