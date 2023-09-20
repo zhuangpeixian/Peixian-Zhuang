@@ -67,7 +67,6 @@ I am **IEEE, CCF and CAAI Member**, and **Associate Professor (特聘副教授)*
 1. 庄培显; 李擎; 李江昀; 张天翔; 万春秋; 苗磊; 奚亚鸣; 林语煊; 黄晨. 一种基于亮暗通道先验景深估计的神经元提取方法及装置. 发明专利（专利号：ZL202310689836.6）
 2. 庄培显; 李擎; 李江昀; 张天翔; 徐银梅; 洪然; 姜天轶; 英子瑄; 钟祚栋. 一种基于稀疏分解与景深估计的神经元提取方法及装置. 发明专利（专利号：ZL202310690490.1）
 
-
 ### Awards（获奖情况）
 2022《电子与信息学报》优秀审稿人，
 2021 AAAI Conference on Artificial Intelligence (Top 25% of Program Committee Members),
