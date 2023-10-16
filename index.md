@@ -1,6 +1,9 @@
 ## Peixian Zhuang（庄培显）
 I am **IEEE, CCF and CAAI Member**, and **Associate Professor (特聘副教授)** in University of Science and Technology Beijing (**北京科技大学**). From 2020 to 2022, I am the **Postdoctoral Fellow (博士后, 助理研究员)** in Tsinghua University（**清华大学**）, advised by Prof. **Qionghai Dai (戴琼海院士、国务院参事、中国人工智能学会理事长、清华大学信息学院院长)**, with **excellent postdoctoral examination (出站考核优秀)**. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the **Best PhD. Thesis Award in Fujian Province**（**福建省优秀博士学位论文**）in 2017，a winner of the **IFAC Engineering Applications of Artificial Intelligence Paper Prize Award-Application** （**EAAI最佳应用论文**）in 2023，and the First Prize for the Excellent Natural Science Papers of Henan Province in 2023（**河南省教育厅科技成果奖优秀科技论文奖一等奖**）. I have served as the Session Chair for the IEEE International Conference on Signal and Image Processing in 2019, the Guest Editor for the Journal of Electronics and Information Technology in 2021, the Outstanding Reviewer of Journal of Electronics and Information Technology in 2022. My research interests focus on sparse representation, Bayesian nonparametric, deep neural network and biomedical imaging. 
 
+### Recent News:
+2023/10-I am honored to be recognised as the World’s Top 2% Scientists (2023). It is compiled by Stanford University based on the standardized citation indicators (Table_1_Authors_career_2022_pubs_since_1788_wopp_extracted_202310), which is available online at Mendeley Database.
+    
 ### Google citation（引用次数）：<font color="red">1400+</font>   
 
 ### Publication（发表论文）
@@ -72,6 +75,7 @@ I am **IEEE, CCF and CAAI Member**, and **Associate Professor (特聘副教授)*
 Tianxiang Zhang, **Peixian Zhuang**, Jianyun Li, Hong Wang, Lijun Wang. Machine Learning in Remote Sensing Image Analysis (遥感图像分析中的机器学习算法), Metallurgical Industry Press（冶金工业出版社）, ISBN: 978-7-5024-9438-4, April 2023.
  
 ### Awards（获奖情况）
+2023 World’s Top 2% Scientists,
 2022《电子与信息学报》优秀审稿人，
 2021 AAAI Conference on Artificial Intelligence (Top 25% of Program Committee Members),
 2019 IEEE International Conference on Signal and Image Processing (图像处理II分会主席), 
