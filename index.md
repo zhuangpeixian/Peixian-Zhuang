@@ -1,20 +1,17 @@
 ## Peixian Zhuang（庄培显）
 I am **IEEE, CCF and CAAI Member**, and **Associate Professor (特聘副教授)** in University of Science and Technology Beijing (**北京科技大学**). From 2020 to 2022, I am the **Postdoctoral Fellow (博士后, 助理研究员)** in Tsinghua University（**清华大学**）, advised by Prof. **Qionghai Dai (戴琼海院士、国务院参事、中国人工智能学会理事长、清华大学信息学院院长)**, with **excellent postdoctoral examination (出站考核优秀)**. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the **Best PhD. Thesis Award in Fujian Province**（**福建省优秀博士学位论文**）in 2017，a winner of the **IFAC Engineering Applications of Artificial Intelligence Paper Prize Award-Application** （**EAAI最佳应用论文**）in 2023，and the First Prize for the Excellent Natural Science Papers of Henan Province in 2023（**河南省教育厅科技成果奖优秀科技论文奖一等奖**）. I have served as the Session Chair for the IEEE International Conference on Signal and Image Processing in 2019, the Guest Editor for the Journal of Electronics and Information Technology in 2021, the Outstanding Reviewer of Journal of Electronics and Information Technology in 2022. My research interests focus on sparse representation, Bayesian nonparametric, deep neural network and biomedical imaging. 
 
-### Recent News:
-2023/10 --I am honored to be recognized as the **World’s Top 2% Scientists** (2023).
-
-2023/09 --Two papers have been recognized as **ESI Hot Paper**.
-
-2023/09 --Our paper 'Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement' has been recognized as **First Prize for Excellent Natural Science Papers of Henan Province**.
-
-2023/05 --Our paper 'Bayesian Retinex Underwater Image Enhancement' has been recognized as **Paper Prize Award 2023-Application by Engineering Applications of Artificial Intelligence**.
+### Recent News
+1. 2023/10 --I am honored to be recognized as the **World’s Top 2% Scientists** (2023).
+2. 2023/09 --Two papers have been recognized as **ESI Hot Paper**.
+3. 2023/09 --Our paper 'Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement' has been recognized as **First Prize for Excellent Natural Science Papers of Henan Province**.
+4. 2023/05 --Our paper 'Bayesian Retinex Underwater Image Enhancement' has been recognized as **Paper Prize Award 2023-Application by Engineering Applications of Artificial Intelligence**.
 
 ### Google citation（引用次数）：<font color="red">1400+</font>   
 
 ### Publication（发表论文）
 1. Zheng Liang, Rui Ruan, **Peixian Zhuang**, Chongyi Li. Single Image Quality Improvement via Joint Local Structure Dehazing and Local Texture Enhancement. Submitted to IEEE Transactions on Geoscience and Remote Sensing. (遥感领域TOP期刊, SCI, JCR1, IF: 8.125)  
-2. Yuemei Li, Guojia Hou, Kunqian Li, **Peixian Zhuang**, Zhenkuan Pan, Chongyi Li. Dual Higher-order Total Variation Model for Underwater Image Restoration. Submitted to IEEE Transactions on Geoscience and Remote Sensing. (遥感领域TOP期刊, SCI, JCR1, IF: 8.125)  
+2. Yuemei Li, Guojia Hou, Kunqian Li, **Peixian Zhuang**, Zhenkuan Pan, Chongyi Li. Dual Higher-order Total Variation Model for Underwater Image Restoration. Submitted to IEEE Transactions on Geoscience and Remote Sensing, <font color="red">Major Revision</font>. (遥感领域TOP期刊, SCI, JCR1, IF: 8.125)  
 3. **Peixian Zhuang**, Jiangyun Li, Qing Li, Sam Kwong, Chongyi Li*. Decomposition-Estimation-Reconstruction: An Automatic and Accurate Neuron Extraction Paradigm, Submitted to IEEE Transactions on Cybernetics, Under Review. (自动化与控制系统TOP期刊, SCI, JCR1, IF: 11.8)
 4. Weidong Zhang, Ling Zhou, **Peixian Zhuang**, Guohou Li, Xipeng Pan, Wenyi Zhao, Chongyi Li*. Underwater Image Enhancement via Weighted Wavelet Visual Perception Fusion. IEEE Transactions on Circuits and Systems for Video Technology, <font color="red">Accepted</font>. (视频多媒体TOP期刊, SCI, JCR1, IF: 5.859)
 5. Zheng Liang, Weidong Zhang, **Peixian Zhuang**, Xiwang Xie, Chongyi Li*. Underwater Image Quality Improvement via Color, Detail, and Contrast Restoration. IEEE Transactions on Circuits and Systems for Video Technology, <font color="red">Accepted</font>. (视频多媒体TOP期刊, SCI, JCR1, IF: 5.859)
