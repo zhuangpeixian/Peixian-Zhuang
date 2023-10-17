@@ -4,11 +4,11 @@ I am **IEEE, CCF and CAAI Member**, and **Associate Professor (特聘副教授)*
 ### Recent News:
 2023/10 --I am honored to be recognized as the **World’s Top 2% Scientists** (2023).
 
-2023/09 --Two papers have been recognized as ESI Hot Paper.
+2023/09 --Two papers have been recognized as **ESI Hot Paper**.
 
-2023/09 --Our paper 'Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement' has been recognized as First Prize for the Excellent Natural Science Papers of Henan Province.
+2023/09 --Our paper 'Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement' has been recognized as **First Prize for Excellent Natural Science Papers of Henan Province**.
 
-2023/05 --Our paper 'Bayesian Retinex Underwater Image Enhancement' has been recognized as Paper Prize Award 2023-Application by Engineering Applications of Artificial Intelligence.
+2023/05 --Our paper 'Bayesian Retinex Underwater Image Enhancement' has been recognized as **Paper Prize Award 2023-Application by Engineering Applications of Artificial Intelligence**.
 
 ### Google citation（引用次数）：<font color="red">1400+</font>   
 
