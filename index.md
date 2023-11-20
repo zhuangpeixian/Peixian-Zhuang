@@ -11,7 +11,7 @@ I am **IEEE, CCF and CAAI Member**, and **Associate Professor (特聘副教授)*
 ### Google citation（引用次数）：<font color="red">1500+</font>   
 
 ### Publication（发表论文）
-1. Weidong Zhang, Qingmin Liu, Yikun Feng, Lei Cai, Peixian Zhuang, Chongyi Li. Underwater Image Enhancement via Principal Component Fusion of Foreground and Background. Submitted to IEEE Transactions on Circuits and Systems for Video Technology. (视频多媒体TOP期刊, SCI, JCR1, IF: 5.859)
+1. Weidong Zhang, Qingmin Liu, Yikun Feng, Lei Cai, **Peixian Zhuang**, Chongyi Li. Underwater Image Enhancement via Principal Component Fusion of Foreground and Background. Submitted to IEEE Transactions on Circuits and Systems for Video Technology. (视频多媒体TOP期刊, SCI, JCR1, IF: 5.859)
 2. Chenggang Dai, Weidong Zhang, Lei Cai, Chengjun Chen, **Peixian Zhuang**, Yi Wang, and Chongyi Li. Bayesian Image Layer Decomposition and Re-fusion for Underwater Image Enhancement. Submitted to IEEE Transactions on Image Processing. (图像处理TOP期刊, SCI, JCR1, IF: 10.856) 
 3. Zheng Liang, Rui Ruan, **Peixian Zhuang**, Chongyi Li. Single Image Quality Improvement via Joint Local Structure Dehazing and Local Texture Enhancement. Submitted to IEEE Transactions on Geoscience and Remote Sensing. (遥感领域TOP期刊, SCI, JCR1, IF: 8.125)  
 4. Yuemei Li, Guojia Hou, Kunqian Li, **Peixian Zhuang**, Zhenkuan Pan, Chongyi Li. Dual Higher-order Total Variation Model for Underwater Image Restoration. Submitted to IEEE Transactions on Geoscience and Remote Sensing, <font color="red">Major Revision</font>. (遥感领域TOP期刊, SCI, JCR1, IF: 8.125)  
