@@ -114,7 +114,7 @@ Applied Sciences (Deep learning for Image Recognition and Processing, 专题主�
 2020 International Conference on Information Security and Privacy Protection, etc.
 
 ### Journal reviewer (期刊审稿)
-IEEE Transactions on Pattern Analysis and Machine Intelligence（模式分析与机器智能顶级期刊）,
+IEEE Transactions on Pattern Analysis and Machine Intelligence（人工智能顶级期刊）,
 International Journal of Computer Vision（计算机视觉顶级期刊）,
 IEEE Transactions on Image Processing（图像处理顶级期刊）,
 IEEE Transactions on Computational Imaging（计算成像顶级期刊）,
@@ -126,6 +126,7 @@ IEEE Transactios on Consumer Electronics,
 IEEE Journal of Oceanic Engineering（海洋工程领域顶级期刊）,
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing（遥感信息处理领域权威期刊）,
 IEEE Geoscience and Remote Sensing Letters,
+Pattern Recognition（人工智能顶级期刊）,
 Information Sciences (人工智能顶级期刊),
 Knowledge-Based Systems（人工智能顶级期刊）, 
 Engineering Applications of Artificial Intelligence（人工智能顶级期刊）,
