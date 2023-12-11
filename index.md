@@ -2,13 +2,13 @@
 I am **IEEE, CCF and CAAI Member**, and **Associate Professor (特聘副教授)** in University of Science and Technology Beijing (**北京科技大学**). From 2020 to 2022, I am the **Postdoctoral Fellow (博士后, 助理研究员)** in Tsinghua University（**清华大学**）, advised by Prof. **Qionghai Dai (戴琼海院士、国务院参事、中国人工智能学会理事长、清华大学信息学院院长)**, with **excellent postdoctoral examination (出站考核优秀)**. I received Ph.D. degree from the School of Information Science and Engineering, Xiamen University in 2016. I am a winner of the **Best PhD. Thesis Award in Fujian Province**（**福建省优秀博士学位论文**）in 2017，a winner of the **IFAC Engineering Applications of Artificial Intelligence Paper Prize Award-Application** （**EAAI最佳应用论文**）in 2023，and the First Prize for the Excellent Natural Science Papers of Henan Province in 2023（**河南省教育厅科技成果奖优秀科技论文奖一等奖**）. I have served as the Session Chair for the IEEE International Conference on Signal and Image Processing in 2019, the Guest Editor for the Journal of Electronics and Information Technology in 2021, the Outstanding Reviewer of Journal of Electronics and Information Technology in 2022. My research interests focus on sparse representation, Bayesian nonparametric, deep neural network and biomedical imaging. 
 
 ### Recent News
-1.2023/11 --Our paper 'Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement' has been one of **IEEE Signal Processing Society’s top 25 downloaded articles** from 2022-2023 for IEEE Transactions on Image Processing on IEEE Xplore. 
+1. 2023/11 --'Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement' has been one of **IEEE Signal Processing Society’s top 25 downloaded articles** from 2022-2023 for IEEE Transactions on Image Processing. 
 2. 2023/10 --I am honored to be recognized as the **World’s Top 2% Scientists** (2023).
 3. 2023/09 --Two papers 'Underwater Image Enhancement with Hyper-Laplacian Reflectance Priors' and 'Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement' have been recognized as **ESI Highly Cited Paper & ESI Hot Paper**.
 4. 2023/09 --Our paper 'Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement' has been recognized as **First Prize for Excellent Natural Science Papers of Henan Province**.
 5. 2023/05 --Our paper 'Bayesian Retinex Underwater Image Enhancement' has been recognized as **Paper Prize Award 2023-Application by Engineering Applications of Artificial Intelligence**.
 
-### Google citation（引用次数）：<font color="red">1500+</font>   
+### Google Citation（引用次数）：<font color="red">1500+</font>   
 
 ### Publication（发表论文）
 1. Weidong Zhang, Qingmin Liu, Yikun Feng, Lei Cai, **Peixian Zhuang**, Chongyi Li. Underwater Image Enhancement via Principal Component Fusion of Foreground and Background. Submitted to IEEE Transactions on Circuits and Systems for Video Technology. (视频多媒体TOP期刊, SCI, JCR1, IF: 5.859)
@@ -87,20 +87,20 @@ Tianxiang Zhang, **Peixian Zhuang**, Jianyun Li, Hong Wang, Lijun Wang. Machine 
 2019 IEEE International Conference on Signal and Image Processing (图像处理II分会主席), 
 2017 福建省优秀博士学位论文, etc.
 
-### Invited expert（特邀报告）
+### Invited Talks（特邀报告）
 2023 International Conference on Image and Graphics Processing (特邀报告专家),
 2022 International Conference on Optics and Image Processing (分会II报告专家), 
 2022《电子与信息学报》E家之言论坛（第23期）报告专家，
 2023 Henan Institute of Science and Technology (特邀报告专家），etc.
 
-### Evaluation expert（评审专家）
+### Evaluation Expert（评审专家）
 国家自然科学基金函评专家,
 厦门大学硕士研究生学位论文评审专家，
 电子与信息学报 (恶劣环境下的图像处理技术, 专题主编),
 Digital Ocean and Underwater Warfare (数字海洋与水下攻防, 青年主编),
 Applied Sciences (Deep learning for Image Recognition and Processing, 专题主编).
 
-### Conference technical committee（会议委员）
+### Conference Technical Committee（会议委员）
 2023-2020 International Conference on Image and Graphics Processing,
 2022 International Conference on Graphics and Image Processing,
 2022-2019 IEEE International Conference on Signal and Image Processing, 
@@ -113,7 +113,7 @@ Applied Sciences (Deep learning for Image Recognition and Processing, 专题主�
 2020 International Conference on Modern Management based on Big Data, 
 2020 International Conference on Information Security and Privacy Protection, etc.
 
-### Journal reviewer (期刊审稿)
+### Journal Reviewer (期刊审稿)
 IEEE Transactions on Pattern Analysis and Machine Intelligence（人工智能顶级期刊）,
 International Journal of Computer Vision（计算机视觉顶级期刊）,
 IEEE Transactions on Image Processing（图像处理顶级期刊）,
@@ -157,7 +157,7 @@ Computer Methods and Programs in Biomedicine,
 Scientific Reports,
 Displays, etc.
 
-### Conference reviewer (会议审稿)
+### Conference Reviewer (会议审稿)
 2024-2021 AAAI Conference on Artificial Intelligence (AAAI, 人工智能领域顶级会议), 
 2023 IEEE International Conference on Multimedia and Expo (ICME)（多媒体领域顶级会议) ,
 2024-2023 IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP) (声学、语音与信号处理顶级会议),
@@ -177,7 +177,7 @@ Displays, etc.
 2018 IEEE International Conference on Wireless Communications and Signal Processing, 
 2020 and 2018 International Conference on Artificial Intelligence and Security, etc.
 
-## Co-author and friend (合作朋友)
+## Co-author & Friend (合作朋友)
 1. Chongyi Li: https://li-chongyi.github.io/
 2. Jiamin Wu: https://www.au.tsinghua.edu.cn/info/1107/2603.htm
 3. Xueyang Fu: https://xueyangfu.github.io/
@@ -195,8 +195,8 @@ Displays, etc.
 15. Yunquan Dong: https://dxy.nuist.edu.cn/info/1071/1885.htm
 16. Liangliang Liu: http://faculty.nuaa.edu.cn/liuliangliang/en/index.htm
 
-## Communication address (通信地址)
+## Communication Address (通信地址)
 Department of Automation and Electrical Engineering, University of Science and Technology Beijing, Beijing 100083, China
 
-## Matlab code (公开代码) 
+## Matlab Code (公开代码) 
 Retinex Variational Underwater Image Enhancement (<font color="red">https://github.com/zhuangpeixian</font>) 
