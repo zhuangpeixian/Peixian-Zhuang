@@ -83,7 +83,7 @@ I am **IEEE, CCF and CAAI Member**, **Beijing Association for Artificial Intelli
 Tianxiang Zhang, **Peixian Zhuang**, Jianyun Li, Hong Wang, Lijun Wang. Machine Learning in Remote Sensing Image Analysis (遥感图像分析中的机器学习算法), Metallurgical Industry Press（冶金工业出版社）, ISBN: 978-7-5024-9438-4, April 2023.
  
 ### Awards（获奖情况）
-2023 World’s Top 2% Scientists,
+2023 World’s Top 2% Scientists (Single-year Impact),
 2022《电子与信息学报》优秀审稿人，
 2021 AAAI Conference on Artificial Intelligence (Top 25% of Program Committee Members),
 2019 IEEE International Conference on Signal and Image Processing (图像处理II分会主席), 
