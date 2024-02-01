@@ -84,16 +84,17 @@ Tianxiang Zhang, **Peixian Zhuang**, Jianyun Li, Hong Wang, Lijun Wang. Machine 
  
 ### Awards（获奖情况）
 2023 World’s Top 2% Scientists (Single-year Impact),
-2022《电子与信息学报》优秀审稿人，
+2022 & 2023 《电子与信息学报》优秀审稿人，
 2021 AAAI Conference on Artificial Intelligence (Top 25% of Program Committee Members),
 2019 IEEE International Conference on Signal and Image Processing (图像处理II分会主席), 
 2017 福建省优秀博士学位论文, etc.
 
 ### Invited Talks（特邀报告）
-2023 International Conference on Image and Graphics Processing (特邀报告专家),
-2022 International Conference on Optics and Image Processing (分会II报告专家), 
-2022《电子与信息学报》E家之言论坛（第23期）报告专家，
-2023 Henan Institute of Science and Technology (特邀报告专家），etc.
+2023 & 2024 International Conference on Image and Graphics Processing (特邀报告人),
+2023 VALSE（视觉与学习青年学者研讨会）第130期报告人,
+2022 International Conference on Optics and Image Processing (分会II报告人), 
+2022《电子与信息学报》E家之言论坛（第23期）报告人，
+2023 Henan Institute of Science and Technology (特邀报告人），etc.
 
 ### Evaluation Expert（评审专家）
 国家自然科学基金函评专家,
