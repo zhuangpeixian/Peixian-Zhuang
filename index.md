@@ -20,7 +20,7 @@ I am **IEEE, CCF and CAAI Member**, **Beijing Association for Artificial Intelli
 7. Weidong Zhang, Ling Zhou, **Peixian Zhuang**, Guohou Li, Xipeng Pan, Wenyi Zhao, Chongyi Li*. Underwater Image Enhancement via Weighted Wavelet Visual Perception Fusion. IEEE Transactions on Circuits and Systems for Video Technology, <font color="red">Accepted</font>. (视频多媒体TOP期刊, SCI, JCR1, IF: 5.859, Cite: 18 次)
 8. Zheng Liang, Weidong Zhang, **Peixian Zhuang**, Xiwang Xie, Chongyi Li*. Underwater Image Quality Improvement via Color, Detail, and Contrast Restoration. IEEE Transactions on Circuits and Systems for Video Technology, <font color="red">Accepted</font>. (视频多媒体TOP期刊, SCI, JCR1, IF: 5.859)
 9. Zheng Liang, Rui Ruan, Lin Jiao, Weidong Zhang, **Peixian Zhuang***. An Underwater Image Restoration Method Based on Adaptive Brightness Improvement and Local Image Descattering. IEEE Geoscience and Remote Sensing Letters, <font color="red">Accepted</font>. (SCI, JCR3, IF: 5.343)
-10. Guojia Hou, Nan Li, **Peixian Zhuang**, Kunqian Li, Haihan Sun, Chongyi Li*. Non-uniform Illumination Underwater Image Restoration via Illumination Channel Sparsity Prior. IEEE Transactions on Circuits and Systems for Video Technology, <font color="red">Accepted</font>. (视频多媒体TOP期刊, SCI, JCR1, IF: 5.859)
+10. Guojia Hou, Nan Li, **Peixian Zhuang**, Kunqian Li, Haihan Sun, Chongyi Li*. Non-uniform Illumination Underwater Image Restoration via Illumination Channel Sparsity Prior. IEEE Transactions on Circuits and Systems for Video Technology, vol. 34, no. 2, pp. 799-814, 2024. (视频多媒体TOP期刊, SCI, JCR1, IF: 5.859) 
 11. Weidong Zhang, Songlin Jin, **Peixian Zhuang**, Zheng Liang, Chongyi Li*. Underwater Image Enhancement via Piecewise Color Correction and Dual Prior Optimized Contrast Enhancement. IEEE Signal Processing Letters, vol. 30, pp. 229-233, 2023. (SCI, JCR3, IF: 3.201) <font color="red">(ESI Highly Cited Paper, Popular Article, Cite: 27次）</font>
 12. Zheng Liang, Weidong Zhang, Rui Ruan, **Peixian Zhuang**, Chongyi Li*. GIFM: An Image Restoration Method With Generalized Image Formation Model for Poor Visible Conditions. IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-16, 2022. (遥感领域TOP期刊, SCI, JCR1, IF: 8.125) 
 13. Weidong Zhang, Zexu Li, Haihan Sun, Qiang Zhang, **Peixian Zhuang**, Chongyi Li*. SSTNet: Spatial, Spectral, and Texture Aware Attention Network using Hyperspectral Image for Corn Variety Identification. IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022. (SCI, JCR3, IF: 5.343)
@@ -117,17 +117,17 @@ Applied Sciences (Deep learning for Image Recognition and Processing, 专题主�
 2020 International Conference on Information Security and Privacy Protection, etc.
 
 ### Journal Reviewer (期刊审稿)
-IEEE Transactions on Pattern Analysis and Machine Intelligence（人工智能顶级期刊）,
-International Journal of Computer Vision（计算机视觉顶级期刊）,
-IEEE Transactions on Image Processing（图像处理顶级期刊）,
-IEEE Transactions on Computational Imaging（计算成像顶级期刊）,
+IEEE Transactions on Pattern Analysis and Machine Intelligence (人工智能顶级期刊),
+International Journal of Computer Vision (计算机视觉顶级期刊),
+IEEE Transactions on Image Processing (图像处理顶级期刊),
+IEEE Transactions on Computational Imaging (计算成像顶级期刊）,
 IEEE Transactions on Circuits and Systems for Video Technology（视频处理与多媒体领域顶级期刊）, 
 IEEE Transactions on Geoscience and Remote Sensing（遥感信息处理领域顶级期刊）,
 IEEE Transactions on Cybernetics（控制论领域顶级期刊）, 
 IEEE Journal of Biomedical and Health Informatics (生物医学与健康顶级期刊),
 IEEE Transactios on Consumer Electronics,
-IEEE Journal of Oceanic Engineering（海洋工程领域顶级期刊）,
-IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing（遥感信息处理领域权威期刊）,
+IEEE Journal of Oceanic Engineering (海洋工程领域顶级期刊),
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (遥感信息处理领域权威期刊),
 IEEE Geoscience and Remote Sensing Letters,
 Information Fusion (人工智能顶级期刊),
 Pattern Recognition（人工智能顶级期刊）,
@@ -137,12 +137,13 @@ Knowledge-Based Systems（人工智能顶级期刊）,
 Engineering Applications of Artificial Intelligence（人工智能顶级期刊）,
 Expert Systems With Applications (人工智能顶级期刊),
 Neurocomputing (人工智能顶级期刊),
-Signal Processing（信号处理权威期刊）, 
-Image and Vision Computing (人工智能权威期刊),
-Frontiers Marine Science（海洋学领域顶级期刊）,
-Medical Physics（核医学顶级期刊）,
-Magnetic Resonance Imaging（核磁共振成像权威期刊）,
-Applied Soft Computing（计算机科学顶级期刊）,
+Remote Sensing (遥感领域权威期刊),
+Signal Processing, 
+Image and Vision Computing,
+Frontiers Marine Science,
+Medical Physics,
+Magnetic Resonance Imaging,
+Applied Soft Computing,
 Journal of Visual Communication and Image Representation,
 Signal Processing: Image Communication,
 EURASIP Journal on Wireless Communications and Networking,
