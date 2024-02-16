@@ -8,7 +8,7 @@ I am **IEEE, CCF and CAAI Member**, **Beijing Association for Artificial Intelli
 4. 2023/09 --Our paper 'Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement' has been recognized as **First Prize for Excellent Natural Science Papers of Henan Province**.
 5. 2023/05 --Our paper 'Bayesian Retinex Underwater Image Enhancement' has been recognized as **Paper Prize Award 2023-Application by Engineering Applications of Artificial Intelligence**.
 
-### Google Citation（引用次数）：<font color="red">1820+</font>   
+### Google Citation（引用次数）：<font color="red">1800+</font>   
 
 ### Publication（发表论文）
 1. Weidong Zhang, Qingmin Liu, Yikun Feng, Lei Cai, **Peixian Zhuang**, Chongyi Li. Underwater Image Enhancement via Principal Component Fusion of Foreground and Background. Submitted to IEEE Transactions on Circuits and Systems for Video Technology. (视频多媒体TOP期刊, SCI, JCR1, IF: 5.859)
