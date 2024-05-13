@@ -8,14 +8,14 @@ I am **IEEE, CCF and CAAI Member**, **Beijing Association for Artificial Intelli
 4. 2023/09 --Our paper 'Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement' has been recognized as **First Prize for Excellent Natural Science Papers of Henan Province**.
 5. 2023/05 --Our paper 'Bayesian Retinex Underwater Image Enhancement' has been recognized as **Paper Prize Award 2023-Application by Engineering Applications of Artificial Intelligence**.
 
-### Google Citation（引用次数）：<font color="red">1800+</font>   
+### Google Citation（引用次数）：<font color="red">2100+</font>   
 
 ### Publication（发表论文）
 1. Weidong Zhang, Qingmin Liu, Yikun Feng, Lei Cai, **Peixian Zhuang**, Chongyi Li. Underwater Image Enhancement via Principal Component Fusion of Foreground and Background. Submitted to IEEE Transactions on Circuits and Systems for Video Technology, <font color="red">Major Revision</font>. (视频多媒体TOP期刊, SCI, JCR1, IF: 5.859)
 2. Chenggang Dai, Weidong Zhang, Lei Cai, Chengjun Chen, **Peixian Zhuang**, Yi Wang, and Chongyi Li. Bayesian Image Layer Decomposition and Re-fusion for Underwater Image Enhancement. Submitted to IEEE Transactions on Image Processing. (图像处理TOP期刊, SCI, JCR1, IF: 10.856) 
 3. Zheng Liang, Rui Ruan, **Peixian Zhuang**, Chongyi Li. Single Image Quality Improvement via Joint Local Structure Dehazing and Local Texture Enhancement. Submitted to IEEE Transactions on Geoscience and Remote Sensing. (遥感领域TOP期刊, SCI, JCR1, IF: 8.125)  
 4. Yuemei Li, Guojia Hou, Kunqian Li, **Peixian Zhuang**, Zhenkuan Pan, Chongyi Li. Dual Higher-order Total Variation Model for Underwater Image Restoration. Submitted to IEEE Transactions on Geoscience and Remote Sensing, <font color="red">Major Revision</font>. (遥感领域TOP期刊, SCI, JCR1, IF: 8.125)  
-5. **Peixian Zhuang**, Jiangyun Li, Qing Li, Sam Kwong, Chongyi Li*. Decomposition-Estimation-Reconstruction: An Automatic and Accurate Neuron Extraction Paradigm, Submitted to IEEE Transactions on Cybernetics, Under Review. (自动化与控制系统TOP期刊, SCI, JCR1, IF: 11.8)
+5. **Peixian Zhuang***, Jiangyun Li, Qing Li, Sam Kwong. Decomposition-Estimation-Reconstruction: An Automatic and Accurate Neuron Extraction Paradigm, Submitted to IEEE Transactions on Cybernetics, Under Review. (自动化与控制系统TOP期刊, SCI, JCR1, IF: 11.8)
 6. Weidong Zhang, Zexu Li, Guohou Li, **Peixian Zhuang**, Guojia Hou, Qiang Zhang, and Chongyi Li. GACNet: Generate Adversarial-Driven Cross-Aware Network for Hyperspectral Wheat Variety Identification. IEEE Transactions on Geoscience and Remote Sensing, <font color="red">Accepted</font>. (遥感领域TOP期刊, SCI, JCR1, IF: 8.125)
 7. Weidong Zhang, Ling Zhou, **Peixian Zhuang**, Guohou Li, Xipeng Pan, Wenyi Zhao, Chongyi Li*. Underwater Image Enhancement via Weighted Wavelet Visual Perception Fusion. IEEE Transactions on Circuits and Systems for Video Technology, <font color="red">Accepted</font>. (视频多媒体TOP期刊, SCI, JCR1, IF: 5.859, Cite: 18 次)
 8. Zheng Liang, Weidong Zhang, **Peixian Zhuang**, Xiwang Xie, Chongyi Li*. Underwater Image Quality Improvement via Color, Detail, and Contrast Restoration. IEEE Transactions on Circuits and Systems for Video Technology, <font color="red">Accepted</font>. (视频多媒体TOP期刊, SCI, JCR1, IF: 5.859)
